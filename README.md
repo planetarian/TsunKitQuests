@@ -1,7 +1,7 @@
 # TsunKitQuests
 Quest data for the TsunKit quest tracker.
 
-Adapted from the quest data maintained by https://github.com/kcwikizh
+Originally adapted from the old quest data formerly maintained by https://github.com/kcwikizh
 
 All edits accepted within the quest tracker will be committed here automatically.
 
