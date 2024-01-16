@@ -1,0 +1,1 @@
+{"game_id":408,"wiki_id":"D7","category":"expedition","frequency":"onetime","prereqs":[406],"requirements":{"category":"expedition","expeds":[{"id":"30","times":2}]},"rewards":{"resources":[0,0,0,800],"other":[{"category":"inventory","id":52,"amount":1},{"category":"equipment","id":64,"amount":1}]}}

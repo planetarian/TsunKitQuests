@@ -1,0 +1,1 @@
+{"game_id":140,"wiki_id":"A38","category":"composition","frequency":"onetime","prereqs":[137],"requirements":{"category":"fleet","fleet_id":1,"comp":[{"ship_id":319,"flagship":true}]},"rewards":{"resources":[300,0,0,300],"other":[{"category":"equipment","id":88,"amount":1}]}}

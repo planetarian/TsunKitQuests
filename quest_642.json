@@ -1,0 +1,1 @@
+{"game_id":642,"wiki_id":"F38","category":"factory","frequency":"onetime","prereqs":[641,825],"requirements":{"category":"equipexchange","consume":[{"category":"equipment","id":37,"amount":2},{"category":"equipment","id":23,"amount":2}]},"rewards":{"resources":[0,200,0,200],"other":[{"category":"equipment","id":168,"amount":1}]}}

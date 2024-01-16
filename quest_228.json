@@ -1,0 +1,1 @@
+{"game_id":228,"wiki_id":"Bw5","category":"sortie","frequency":"weekly","prereqs":[220],"requirements":{"category":"sink","group_id":5013,"amount":15},"rewards":{"resources":[600,0,0,0],"other":[{"category":"inventory","id":1,"amount":2},{"category":"inventory","id":4,"amount":1}]}}

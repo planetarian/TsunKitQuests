@@ -1,0 +1,1 @@
+{"game_id":244,"wiki_id":"B22","category":"sortie","frequency":"onetime","prereqs":[133],"requirements":{"category":"sortie","map":"3-2","boss":true,"result":"C","comp":[{"ship_id":[1,2,164,31],"amount":4}],"times":1},"rewards":{"resources":[100,100,100,500],"other":[{"category":"inventory","id":54,"amount":1}]}}

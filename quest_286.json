@@ -1,0 +1,1 @@
+{"game_id":286,"wiki_id":"B48","category":"sortie","frequency":"onetime","prereqs":[201,205,216],"requirements":{"category":"sortie","map":"1-5","boss":true,"result":"A","times":4},"rewards":{"resources":[300,300,0,0],"other":[{"category":"inventory","id":52,"amount":1}]}}

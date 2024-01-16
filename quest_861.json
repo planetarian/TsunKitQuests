@@ -1,0 +1,1 @@
+{"game_id":861,"wiki_id":"Bq3","category":"sortie","frequency":"quarterly","prereqs":[217],"requirements":{"category":"sortie","map":"1-6","result":"clear","comp":[{"class_id":[10,22],"amount":2}],"times":2},"rewards":{"resources":[1000,400,400,0],"other":[{"category":"inventory","id":1,"amount":4},{"category":"equipment","id":146,"amount":1}]}}

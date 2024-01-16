@@ -1,0 +1,1 @@
+{"game_id":316,"wiki_id":"C13","category":"exercise","frequency":"onetime","prereqs":[218,418],"requirements":{"category":"exercise","victory":true,"daily":true,"times":4},"rewards":{"resources":[300,300,0,0],"other":[{"choices":[{"category":"inventory","id":52,"amount":1},{"category":"equipment","id":68,"amount":1}]},{"category":"inventory","id":4,"amount":2}]}}

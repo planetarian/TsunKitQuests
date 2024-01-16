@@ -1,0 +1,1 @@
+{"game_id":289,"wiki_id":"B52","category":"sortie","frequency":"onetime","prereqs":[163],"requirements":{"category":"sortie","map":"2-2","boss":true,"result":"S","comp":[{"ship_id":64,"flagship":true},{"ship_id":[99,21],"amount":2}],"times":1},"rewards":{"resources":[200,0,200,0],"other":[{"category":"inventory","id":11,"amount":1},{"category":"inventory","id":60,"amount":1}]}}

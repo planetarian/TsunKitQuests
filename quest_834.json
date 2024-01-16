@@ -1,0 +1,1 @@
+{"game_id":834,"wiki_id":"B83","category":"sortie","frequency":"onetime","prereqs":[],"requirements":{"category":"sortie","map":"1-4","boss":true,"result":"S","comp":[{"class_id":[6,16],"flagship":true}],"times":1},"rewards":{"resources":[300,300,0,0],"other":[{"category":"inventory","id":11,"amount":1},{"category":"inventory","id":52,"amount":1}]}}

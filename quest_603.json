@@ -1,0 +1,1 @@
+{"game_id":603,"wiki_id":"F3","category":"factory","frequency":"onetime","prereqs":[602],"requirements":{"category":"simple","subcategory":"scrapship","times":1},"rewards":{"resources":[60,60,60,60],"other":[{"category":"inventory","id":2,"amount":1},{"category":"inventory","id":3,"amount":1}]}}

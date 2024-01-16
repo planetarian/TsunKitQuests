@@ -1,0 +1,1 @@
+{"game_id":222,"wiki_id":"B12","category":"sortie","frequency":"onetime","prereqs":[120,213],"requirements":{"category":"sortie","comp":[{"ship_id":[34,35,36,37],"amount":4}],"disallowed":"otherships","times":1},"rewards":{"resources":[200,0,0,0],"other":[{"category":"inventory","id":1,"amount":1}]}}

@@ -1,0 +1,1 @@
+{"game_id":420,"wiki_id":"D19","category":"expedition","frequency":"onetime","prereqs":[287,410],"requirements":{"category":"expedition","expeds":[{"id":"26","times":1},{"id":"35","times":1}]},"rewards":{"resources":[200,200,400,0],"other":[{"category":"inventory","id":4,"amount":2},{"category":"inventory","id":12,"amount":1}]}}

@@ -1,0 +1,1 @@
+{"game_id":221,"wiki_id":"Bw4","category":"sortie","frequency":"weekly","prereqs":[214],"requirements":{"category":"sink","group_id":5015,"amount":50},"rewards":{"resources":[400,0,800,0],"other":[{"category":"inventory","id":1,"amount":3}]}}

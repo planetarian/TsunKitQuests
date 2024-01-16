@@ -1,0 +1,1 @@
+{"game_id":245,"wiki_id":"WB01","category":"sortie","frequency":"onetime","prereqs":[134],"requirements":{"category":"sortie","map":"2-3","boss":true,"result":"S","fleet_id":1,"comp":[{"otherships":true,"flagship":true,"lv":[90,99]}],"times":1},"rewards":{"resources":[0,0,0,0],"other":[{"category":"inventory","id":55,"amount":1}]}}

@@ -1,0 +1,1 @@
+{"game_id":288,"wiki_id":"B51","category":"sortie","frequency":"onetime","prereqs":[162],"requirements":{"category":"sortie","map":"3-1","boss":true,"result":"S","comp":[{"ship_id":[192,193,100,101],"amount":4}],"times":1},"rewards":{"resources":[300,300,0,0],"other":[{"category":"inventory","id":60,"amount":1},{"category":"equipment","id":145,"amount":1}]}}

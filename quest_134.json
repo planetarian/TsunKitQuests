@@ -1,0 +1,1 @@
+{"game_id":134,"wiki_id":"WA01","category":"composition","frequency":"onetime","prereqs":[306],"requirements":{"category":"fleet","comp":[{"otherships":true,"flagship":true,"lv":[90,99]}]},"rewards":{"resources":[88,88,88,88],"other":[{"category":"inventory","id":12,"amount":1}]}}

@@ -1,0 +1,1 @@
+{"game_id":502,"wiki_id":"E2","category":"supply","frequency":"onetime","prereqs":[203],"requirements":{"category":"simple","subcategory":"repair","times":1},"rewards":{"resources":[0,0,30,0],"other":[{"category":"inventory","id":3,"amount":1}]}}

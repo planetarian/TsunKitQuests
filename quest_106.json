@@ -1,0 +1,1 @@
+{"game_id":106,"wiki_id":"A7","category":"composition","frequency":"onetime","prereqs":[105],"requirements":{"category":"fleet","comp":[{"class_id":5,"amount":2}]},"rewards":{"resources":[0,70,0,30],"other":[{"category":"inventory","id":1,"amount":1}]}}

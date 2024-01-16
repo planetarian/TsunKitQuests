@@ -1,0 +1,1 @@
+{"game_id":241,"wiki_id":"Bw7","category":"sortie","frequency":"weekly","prereqs":[228],"requirements":{"category":"sortie","map":["3-3","3-4","3-5"],"any":true,"boss":true,"result":"B","times":5},"rewards":{"resources":[300,300,400,300],"other":[{"category":"inventory","id":3,"amount":3},{"category":"inventory","id":4,"amount":3}]}}

@@ -1,0 +1,1 @@
+{"game_id":249,"wiki_id":"Bm1","category":"sortie","frequency":"monthly","prereqs":[137],"requirements":{"category":"sortie","map":"2-5","boss":true,"result":"S","comp":[{"ship_id":[62,63,65],"amount":3}],"times":1},"rewards":{"resources":[0,550,550,0],"other":[{"category":"inventory","id":3,"amount":5},{"category":"inventory","id":12,"amount":1}]}}

@@ -1,0 +1,1 @@
+{"game_id":602,"wiki_id":"F2","category":"factory","frequency":"onetime","prereqs":[601],"requirements":{"category":"simple","subcategory":"equipment","times":1},"rewards":{"resources":[100,100,100,100],"other":[{"category":"inventory","id":3,"amount":1}]}}

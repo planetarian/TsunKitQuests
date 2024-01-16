@@ -1,0 +1,1 @@
+{"game_id":231,"wiki_id":"B17","category":"sortie","frequency":"onetime","prereqs":[125],"requirements":{"category":"sortie","map":"2-3","boss":true,"result":"B","comp":[{"class_id":[13,14],"amount":2}],"times":1},"rewards":{"resources":[150,0,300,0],"other":[{"category":"inventory","id":52,"amount":1}]}}

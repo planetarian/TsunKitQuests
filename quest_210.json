@@ -1,0 +1,1 @@
+{"game_id":210,"wiki_id":"Bd3","category":"sortie","frequency":"daily","prereqs":[216],"requirements":{"category":"simple","times":10},"rewards":{"resources":[150,150,200,100],"other":[{"category":"inventory","id":3,"amount":1}]}}

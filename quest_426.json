@@ -1,0 +1,1 @@
+{"game_id":426,"wiki_id":"Dq1","category":"expedition","frequency":"quarterly","prereqs":[810],"requirements":{"category":"expedition","expeds":[{"id":"3","times":1},{"id":"4","times":1},{"id":"5","times":1},{"id":"10","times":1}]},"rewards":{"resources":[800,0,0,0],"other":[{"category":"inventory","id":3,"amount":4},{"category":"equipment","id":145,"amount":2}]}}

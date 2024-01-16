@@ -1,0 +1,1 @@
+{"game_id":261,"wiki_id":"Bw10","category":"sortie","frequency":"weekly","prereqs":[146,221],"requirements":{"category":"sortie","map":"1-5","boss":true,"result":"A","times":3},"rewards":{"resources":[100,0,0,0],"other":[{"category":"inventory","id":4,"amount":3}]}}

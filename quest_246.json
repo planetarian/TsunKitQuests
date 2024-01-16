@@ -1,0 +1,1 @@
+{"game_id":246,"wiki_id":"WB02","category":"sortie","frequency":"onetime","prereqs":[135],"requirements":{"category":"sortie","map":"4-3","boss":true,"result":"S","fleet_id":1,"comp":[{"otherships":true,"flagship":true,"lv":[100,999]}],"times":1},"rewards":{"resources":[300,300,300,300],"other":[{"category":"furniture","id":183}]}}

@@ -1,0 +1,1 @@
+{"game_id":702,"wiki_id":"Gd1","category":"modernization","frequency":"daily","prereqs":[701],"requirements":{"category":"simple","subcategory":"modernization","times":2},"rewards":{"resources":[20,20,50,0],"other":[{"category":"inventory","id":1,"amount":1}]}}

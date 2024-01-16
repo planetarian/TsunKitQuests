@@ -1,0 +1,1 @@
+{"game_id":328,"wiki_id":"C27","category":"exercise","frequency":"onetime","prereqs":[195],"requirements":{"category":"exercise","victory":true,"daily":true,"comp":[{"ship_id":[557,558,556,559],"amount":4}],"times":4},"rewards":{"resources":[170,170,170,0],"other":[{"choices":[{"category":"equipment","id":227,"amount":1},{"category":"inventory","id":64,"amount":1}]}]}}

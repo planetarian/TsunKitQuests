@@ -1,0 +1,1 @@
+{"game_id":268,"wiki_id":"B36","category":"sortie","frequency":"onetime","prereqs":[149],"requirements":{"category":"sortie","map":"1-5","boss":true,"result":"C","comp":[{"ship_id":[9,10,32,33],"amount":4}],"disallowed":"otherships","times":1},"rewards":{"resources":[400,0,0,200],"other":[{"category":"inventory","id":3,"amount":2},{"category":"equipment","id":47,"amount":1}]}}

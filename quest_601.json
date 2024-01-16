@@ -1,0 +1,1 @@
+{"game_id":601,"wiki_id":"F1","category":"factory","frequency":"onetime","prereqs":[],"requirements":{"category":"simple","subcategory":"ship","times":1},"rewards":{"resources":[50,50,50,50],"other":[{"category":"inventory","id":3,"amount":1}]}}

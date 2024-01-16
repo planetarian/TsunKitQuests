@@ -1,0 +1,1 @@
+{"game_id":153,"wiki_id":"A51","category":"composition","frequency":"onetime","prereqs":[274],"requirements":{"category":"fleet","comp":[{"ship_id":[51,52],"amount":2},{"otherships":true,"amount":[2,99]}]},"rewards":{"resources":[180,180,0,180],"other":[{"category":"inventory","id":3,"amount":2}]}}

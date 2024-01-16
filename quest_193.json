@@ -1,0 +1,1 @@
+{"game_id":193,"wiki_id":"A88","category":"composition","frequency":"onetime","prereqs":[603,871],"requirements":{"category":"fleet","comp":[{"ship_id":[566,567,568],"amount":3},{"family_id":[30,38],"amount":3,"lv":[70,999]}]},"rewards":{"resources":[150,150,150,0],"other":[{"choices":[{"category":"equipment","id":266,"amount":1},{"category":"inventory","id":57,"amount":1}]}]}}

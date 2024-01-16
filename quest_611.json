@@ -1,0 +1,1 @@
+{"game_id":611,"wiki_id":"WF01","category":"factory","frequency":"onetime","prereqs":[118],"requirements":{"category":"simple","subcategory":"scrapequipment","times":2},"rewards":{"resources":[88,88,0,0],"other":[{"category":"inventory","id":3,"amount":1}]}}
