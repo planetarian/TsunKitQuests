@@ -1,1 +1,1 @@
-{"game_id":217,"wiki_id":"B10","category":"sortie","frequency":"onetime","prereqs":[117],"requirements":{"category":"sink","group_id":5011,"amount":1},"rewards":{"resources":[0,0,0,100],"other":[{"category":"ship","id":83,"amount":1}]}}
+{"game_id":217,"wiki_id":"B10","category":"sortie","frequency":"onetime","unverified":true,"prereqs":[117],"requirements":{"category":"sink","group_id":5011,"amount":1},"rewards":{"resources":[0,0,0,100],"other":[{"category":"ship","id":83,"amount":1}]}}

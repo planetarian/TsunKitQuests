@@ -1,1 +1,1 @@
-{"game_id":230,"wiki_id":"Bd8","category":"sortie","frequency":"daily","prereqs":[226],"requirements":{"category":"sink","group_id":5013,"amount":6},"rewards":{"resources":[300,30,300,30],"other":[{"category":"inventory","id":1,"amount":1}]}}
+{"game_id":230,"wiki_id":"Bd8","category":"sortie","frequency":"daily","unverified":true,"prereqs":[226],"requirements":{"category":"sink","group_id":5013,"amount":6},"rewards":{"resources":[300,30,300,30],"other":[{"category":"inventory","id":1,"amount":1}]}}

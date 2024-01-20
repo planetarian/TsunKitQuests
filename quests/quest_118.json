@@ -1,1 +1,1 @@
-{"game_id":118,"wiki_id":"A16","category":"composition","frequency":"onetime","prereqs":[110],"requirements":{"category":"fleet","comp":[{"ship_id":[78,86,79,85],"amount":4}]},"rewards":{"resources":[0,0,0,0],"other":[{"category":"feature","id":3}]}}
+{"game_id":118,"wiki_id":"A16","category":"composition","frequency":"onetime","unverified":true,"prereqs":[110],"requirements":{"category":"fleet","comp":[{"ship_id":[78,86,79,85],"amount":4}]},"rewards":{"resources":[0,0,0,0],"other":[{"category":"feature","id":3}]}}

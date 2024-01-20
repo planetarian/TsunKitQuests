@@ -1,1 +1,1 @@
-{"game_id":424,"wiki_id":"Dm1","category":"expedition","frequency":"monthly","prereqs":[402,419],"requirements":{"category":"expedition","expeds":[{"id":"5","times":4}]},"rewards":{"resources":[1000,0,0,300],"other":[{"category":"inventory","id":11,"amount":2}]}}
+{"game_id":424,"wiki_id":"Dm1","category":"expedition","frequency":"monthly","unverified":true,"prereqs":[402,419],"requirements":{"category":"expedition","expeds":[{"id":"5","times":4}]},"rewards":{"resources":[1000,0,0,300],"other":[{"category":"inventory","id":11,"amount":2}]}}

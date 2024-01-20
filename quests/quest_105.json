@@ -1,1 +1,1 @@
-{"game_id":105,"wiki_id":"A5","category":"composition","frequency":"onetime","prereqs":[103],"requirements":{"category":"fleet","comp":[{"class_id":3,"amount":2}]},"rewards":{"resources":[60,60,0,0],"other":[{"category":"inventory","id":3,"amount":1}]}}
+{"game_id":105,"wiki_id":"A5","category":"composition","frequency":"onetime","unverified":true,"prereqs":[103],"requirements":{"category":"fleet","comp":[{"class_id":3,"amount":2}]},"rewards":{"resources":[60,60,0,0],"other":[{"category":"inventory","id":3,"amount":1}]}}

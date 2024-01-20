@@ -1,1 +1,1 @@
-{"game_id":128,"wiki_id":"A28","category":"composition","frequency":"onetime","prereqs":[120],"requirements":{"category":"fleet","comp":[{"ship_id":[59,60,61,123],"amount":4}]},"rewards":{"resources":[250,300,0,0],"other":[{"category":"inventory","id":54,"amount":1}]}}
+{"game_id":128,"wiki_id":"A28","category":"composition","frequency":"onetime","unverified":true,"prereqs":[120],"requirements":{"category":"fleet","comp":[{"ship_id":[59,60,61,123],"amount":4}]},"rewards":{"resources":[250,300,0,0],"other":[{"category":"inventory","id":54,"amount":1}]}}

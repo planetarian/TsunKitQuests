@@ -1,1 +1,1 @@
-{"game_id":704,"wiki_id":"G4","category":"modernization","frequency":"onetime","prereqs":[109],"requirements":{"category":"simple","subcategory":"modernization","times":4},"rewards":{"resources":[0,0,400,400],"other":[{"category":"inventory","id":3,"amount":1}]}}
+{"game_id":704,"wiki_id":"G4","category":"modernization","frequency":"onetime","unverified":true,"prereqs":[109],"requirements":{"category":"simple","subcategory":"modernization","times":4},"rewards":{"resources":[0,0,400,400],"other":[{"category":"inventory","id":3,"amount":1}]}}

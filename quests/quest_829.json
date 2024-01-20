@@ -1,1 +1,1 @@
-{"game_id":829,"wiki_id":"B81","category":"sortie","frequency":"onetime","prereqs":[828],"requirements":{"category":"sortie","map":"5-3","boss":true,"result":"A","times":1},"rewards":{"resources":[0,0,0,0],"other":[{"category":"inventory","id":73,"amount":1}]}}
+{"game_id":829,"wiki_id":"B81","category":"sortie","frequency":"onetime","unverified":true,"prereqs":[828],"requirements":{"category":"sortie","map":"5-3","boss":true,"result":"A","times":1},"rewards":{"resources":[0,0,0,0],"other":[{"category":"inventory","id":73,"amount":1}]}}

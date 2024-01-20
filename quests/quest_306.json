@@ -1,1 +1,1 @@
-{"game_id":306,"wiki_id":"WC01","category":"exercise","frequency":"onetime","prereqs":[611],"requirements":{"category":"exercise","victory":true,"daily":true,"times":2},"rewards":{"resources":[0,0,88,88],"other":[{"category":"inventory","id":3,"amount":1}]}}
+{"game_id":306,"wiki_id":"WC01","category":"exercise","frequency":"onetime","unverified":true,"prereqs":[611],"requirements":{"category":"exercise","victory":true,"daily":true,"times":2},"rewards":{"resources":[0,0,88,88],"other":[{"category":"inventory","id":3,"amount":1}]}}

@@ -1,1 +1,1 @@
-{"game_id":418,"wiki_id":"D17","category":"expedition","frequency":"onetime","prereqs":[137],"requirements":{"category":"expedition","expeds":[{"id":"7","times":2}]},"rewards":{"resources":[150,0,0,150],"other":[{"category":"inventory","id":3,"amount":3}]}}
+{"game_id":418,"wiki_id":"D17","category":"expedition","frequency":"onetime","unverified":true,"prereqs":[137],"requirements":{"category":"expedition","expeds":[{"id":"7","times":2}]},"rewards":{"resources":[150,0,0,150],"other":[{"category":"inventory","id":3,"amount":3}]}}

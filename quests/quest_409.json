@@ -1,1 +1,1 @@
-{"game_id":409,"wiki_id":"D8","category":"expedition","frequency":"onetime","prereqs":[408],"requirements":{"category":"expedition","expeds":[{"id":"31","times":1}]},"rewards":{"resources":[0,100,0,0],"other":[{"category":"ship","id":174,"amount":1}]}}
+{"game_id":409,"wiki_id":"D8","category":"expedition","frequency":"onetime","unverified":true,"prereqs":[408],"requirements":{"category":"expedition","expeds":[{"id":"31","times":1}]},"rewards":{"resources":[0,100,0,0],"other":[{"category":"ship","id":174,"amount":1}]}}

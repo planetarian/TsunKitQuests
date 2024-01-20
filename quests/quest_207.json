@@ -1,1 +1,1 @@
-{"game_id":207,"wiki_id":"B7","category":"sortie","frequency":"onetime","prereqs":[206],"requirements":{"category":"sortie","comp":[{"class_id":5,"flagship":true}],"times":1},"rewards":{"resources":[70,0,70,0],"other":[{"category":"inventory","id":3,"amount":1}]}}
+{"game_id":207,"wiki_id":"B7","category":"sortie","frequency":"onetime","unverified":true,"prereqs":[206],"requirements":{"category":"sortie","comp":[{"class_id":5,"flagship":true}],"times":1},"rewards":{"resources":[70,0,70,0],"other":[{"category":"inventory","id":3,"amount":1}]}}

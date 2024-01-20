@@ -1,1 +1,1 @@
-{"game_id":413,"wiki_id":"D12","category":"expedition","frequency":"onetime","prereqs":[412],"requirements":{"category":"expedition","expeds":[{"id":"23","times":3}]},"rewards":{"resources":[0,0,0,200],"other":[{"category":"equipment","id":79,"amount":1}]}}
+{"game_id":413,"wiki_id":"D12","category":"expedition","frequency":"onetime","unverified":true,"prereqs":[412],"requirements":{"category":"expedition","expeds":[{"id":"23","times":3}]},"rewards":{"resources":[0,0,0,200],"other":[{"category":"equipment","id":79,"amount":1}]}}

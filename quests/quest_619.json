@@ -1,1 +1,1 @@
-{"game_id":619,"wiki_id":"Fd6","category":"factory","frequency":"daily","prereqs":[608,618],"requirements":{"category":"simple","subcategory":"improvement","times":1},"rewards":{"resources":[0,50,0,0],"other":[{"category":"inventory","id":4,"amount":1}]}}
+{"game_id":619,"wiki_id":"Fd6","category":"factory","frequency":"daily","unverified":true,"prereqs":[608,618],"requirements":{"category":"simple","subcategory":"improvement","times":1},"rewards":{"resources":[0,50,0,0],"other":[{"category":"inventory","id":4,"amount":1}]}}
