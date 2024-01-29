@@ -1,1 +1,0 @@
-{"game_id":130,"wiki_id":"A30","category":"composition","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[129],"requirements":{"category":"fleet","comp":[{"ship_id":[114,15,16,49,18],"amount":5}]},"rewards":{"resources":[200,300,0,0],"other":[{"category":"equipment","id":42,"amount":1}]}}
