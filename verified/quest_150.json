@@ -1,0 +1,1 @@
+{"game_id":150,"wiki_id":"A48","category":"composition","frequency":"onetime","updated":"2024-01-29T07:39:14.4395541Z","prereqs":[267],"requirements":{"category":"fleet","fleet_id":1,"comp":[{"ship_id":[38,39,40,41],"amount":4}],"disallowed":"otherships"},"rewards":{"resources":[210,210,0,0],"other":[{"category":"inventory","id":1,"amount":3}]}}
