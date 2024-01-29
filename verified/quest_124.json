@@ -1,0 +1,1 @@
+{"game_id":124,"wiki_id":"A24","category":"composition","frequency":"onetime","updated":"2024-01-29T07:26:29.8381175Z","prereqs":[121],"requirements":{"category":"fleet","fleet_id":1,"comp":[{"ship_id":[69,61,123,60,59,51],"amount":6}]},"rewards":{"resources":[300,0,300,0],"other":[{"category":"inventory","id":54,"amount":1}]}}
