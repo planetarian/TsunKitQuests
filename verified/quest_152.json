@@ -1,0 +1,1 @@
+{"game_id":152,"wiki_id":"A50","category":"composition","frequency":"onetime","updated":"2024-01-29T07:41:23.2798568Z","prereqs":[136,227],"requirements":{"category":"fleet","fleet_id":1,"comp":[{"ship_id":427,"flagship":true},{"ship_id":[59,60,61,123,115,51],"amount":5}]},"rewards":{"resources":[300,300,0,0],"other":[{"category":"inventory","id":1,"amount":2}]}}
