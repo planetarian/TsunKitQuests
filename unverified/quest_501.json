@@ -1,1 +1,1 @@
-{"game_id":501,"wiki_id":"E1","category":"supply","frequency":"onetime","unverified":true,"prereqs":[203],"requirements":{"category":"simple","subcategory":"resupply","times":1},"rewards":{"resources":[0,20,0,0],"other":[{"category":"inventory","id":1,"amount":1}]}}
+{"game_id":501,"wiki_id":"E1","category":"supply","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[203],"requirements":{"category":"simple","subcategory":"resupply","times":1},"rewards":{"resources":[0,20,0,0],"other":[{"category":"inventory","id":1,"amount":1}]}}

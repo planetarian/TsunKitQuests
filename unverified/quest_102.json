@@ -1,1 +1,1 @@
-{"game_id":102,"wiki_id":"A2","category":"composition","frequency":"onetime","unverified":true,"prereqs":[101],"requirements":{"category":"fleet","comp":[{"class_id":2,"amount":4}]},"rewards":{"resources":[30,30,30,0],"other":[{"category":"inventory","id":2,"amount":1}]}}
+{"game_id":102,"wiki_id":"A2","category":"composition","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[101],"requirements":{"category":"fleet","comp":[{"class_id":2,"amount":4}]},"rewards":{"resources":[30,30,30,0],"other":[{"category":"inventory","id":2,"amount":1}]}}

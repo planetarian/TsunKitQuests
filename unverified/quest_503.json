@@ -1,1 +1,1 @@
-{"game_id":503,"wiki_id":"Ed1","category":"supply","frequency":"daily","unverified":true,"prereqs":[502],"requirements":{"category":"simple","subcategory":"repair","times":5},"rewards":{"resources":[30,30,30,30],"other":[{"category":"inventory","id":1,"amount":2}]}}
+{"game_id":503,"wiki_id":"Ed1","category":"supply","frequency":"daily","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[502],"requirements":{"category":"simple","subcategory":"repair","times":5},"rewards":{"resources":[30,30,30,30],"other":[{"category":"inventory","id":1,"amount":2}]}}

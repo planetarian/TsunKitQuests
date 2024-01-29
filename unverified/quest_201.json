@@ -1,1 +1,1 @@
-{"game_id":201,"wiki_id":"Bd1","category":"sortie","frequency":"daily","unverified":true,"prereqs":[204],"requirements":{"category":"sortie","result":"B","times":1},"rewards":{"resources":[50,50,0,0],"other":[{"category":"inventory","id":3,"amount":1}]}}
+{"game_id":201,"wiki_id":"Bd1","category":"sortie","frequency":"daily","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[204],"requirements":{"category":"sortie","result":"B","times":1},"rewards":{"resources":[50,50,0,0],"other":[{"category":"inventory","id":3,"amount":1}]}}

@@ -1,1 +1,1 @@
-{"game_id":213,"wiki_id":"Bw3","category":"sortie","frequency":"weekly","unverified":true,"prereqs":[216],"requirements":{"category":"sink","group_id":5015,"amount":20},"rewards":{"resources":[500,0,400,0],"other":[{"category":"inventory","id":3,"amount":3}]}}
+{"game_id":213,"wiki_id":"Bw3","category":"sortie","frequency":"weekly","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[216],"requirements":{"category":"sink","group_id":5015,"amount":20},"rewards":{"resources":[500,0,400,0],"other":[{"category":"inventory","id":3,"amount":3}]}}

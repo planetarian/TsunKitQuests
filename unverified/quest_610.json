@@ -1,1 +1,1 @@
-{"game_id":610,"wiki_id":"F10","category":"factory","frequency":"onetime","unverified":true,"prereqs":[704],"requirements":{"category":"simple","subcategory":"scrapequipment","times":4},"rewards":{"resources":[800,800,0,0],"other":[{"category":"feature","id":6}]}}
+{"game_id":610,"wiki_id":"F10","category":"factory","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[704],"requirements":{"category":"simple","subcategory":"scrapequipment","times":4},"rewards":{"resources":[800,800,0,0],"other":[{"category":"feature","id":6}]}}
