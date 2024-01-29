@@ -1,1 +1,0 @@
-{"game_id":104,"wiki_id":"A4","category":"composition","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[103],"requirements":{"category":"fleet","comp":[{"otherships":true,"amount":6}]},"rewards":{"resources":[50,0,50,0],"other":[{"category":"feature","id":1}]}}
