@@ -1,1 +1,0 @@
-{"game_id":177,"wiki_id":"A72","category":"composition","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[201,240],"requirements":{"category":"fleet","comp":[{"ship_id":[12,486,13,14],"amount":4}]},"rewards":{"resources":[190,190,190,0],"other":[{"category":"inventory","id":1,"amount":2},{"category":"equipment","id":145,"amount":1}]}}
