@@ -1,1 +1,0 @@
-{"game_id":126,"wiki_id":"A26","category":"composition","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[122],"requirements":{"category":"fleet","comp":[{"class_id":10,"amount":2},{"class_id":6,"amount":2}]},"rewards":{"resources":[0,0,200,200],"other":[{"category":"inventory","id":1,"amount":2}]}}
