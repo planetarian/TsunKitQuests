@@ -1,0 +1,1 @@
+{"game_id":203,"wiki_id":"B2","category":"sortie","frequency":"onetime","updated":"2024-01-30T05:13:53.1370837Z","prereqs":[202],"requirements":{"category":"sortie","map":"1-1","result":"B","times":1},"rewards":{"resources":[30,30,30,0],"other":[{"category":"inventory","id":1,"amount":1}]}}
