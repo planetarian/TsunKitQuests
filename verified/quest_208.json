@@ -1,0 +1,1 @@
+{"game_id":208,"wiki_id":"B8","category":"sortie","frequency":"onetime","updated":"2024-01-30T06:58:27.1639579Z","prereqs":[207],"requirements":{"category":"sortie","comp":[{"class_id":[9,8],"position":1},{"otherships":true,"amount":[0,5]}],"disallowed":"aviation","times":1},"rewards":{"resources":[0,150,150,0],"other":[{"category":"inventory","id":3,"amount":1}]}}

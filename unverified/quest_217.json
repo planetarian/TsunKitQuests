@@ -1,1 +1,0 @@
-{"game_id":217,"wiki_id":"B10","category":"sortie","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[117],"requirements":{"category":"sink","group_id":5011,"amount":1},"rewards":{"resources":[0,0,0,100],"other":[{"category":"ship","id":83,"amount":1}]}}
