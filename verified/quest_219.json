@@ -1,0 +1,1 @@
+{"game_id":219,"wiki_id":"B11","category":"sortie","frequency":"onetime","updated":"2024-01-30T07:12:42.5548015Z","prereqs":[119],"requirements":{"category":"sortie","comp":[{"ship_id":[69,61,60,59,51],"amount":5},{"group_id":1100,"amount":1}],"times":1},"rewards":{"resources":[0,200,0,0],"other":[{"category":"equipment","id":42,"amount":1}]}}
