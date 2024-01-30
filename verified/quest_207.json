@@ -1,0 +1,1 @@
+{"game_id":207,"wiki_id":"B7","category":"sortie","frequency":"onetime","updated":"2024-01-30T06:21:26.2880789Z","prereqs":[206],"requirements":{"category":"sortie","comp":[{"class_id":5,"position":1},{"amount":[0,5]}],"times":1},"rewards":{"resources":[70,0,70,0],"other":[{"category":"inventory","id":3,"amount":1}]}}
