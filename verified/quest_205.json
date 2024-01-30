@@ -1,0 +1,1 @@
+{"game_id":205,"wiki_id":"B5","category":"sortie","frequency":"onetime","updated":"2024-01-30T06:17:08.2783004Z","prereqs":[204],"requirements":{"category":"sortie","map":"1-2","result":"B","times":1},"rewards":{"resources":[50,0,50,0],"other":[{"category":"inventory","id":3,"amount":1},{"category":"ship","id":11,"amount":1}]}}
