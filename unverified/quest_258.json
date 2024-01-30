@@ -1,1 +1,0 @@
-{"game_id":258,"wiki_id":"B31","category":"sortie","frequency":"onetime","updated":"2024-01-30T02:24:19.9858515Z","unverified":true,"prereqs":[144],"requirements":{"category":"sortie","map":"4-2","boss":true,"result":"S","comp":[{"ship_id":[80,81,26,27],"amount":4}],"times":2},"rewards":{"resources":[0,400,0,0],"other":[{"category":"equipment","id":116,"amount":1}]}}
