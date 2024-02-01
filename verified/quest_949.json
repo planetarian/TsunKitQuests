@@ -3,7 +3,7 @@
   "wiki_id": "B170",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:13:00.4737677Z",
+  "updated": "2024-02-01T07:15:03.7549988Z",
   "prereqs": [
     923,
     933
@@ -78,6 +78,11 @@
       },
       {
         "choices": [
+          {
+            "category": "senka",
+            "stars": 0,
+            "amount": 800
+          },
           {
             "category": "equipment",
             "id": 422,
