@@ -1,0 +1,77 @@
+{
+  "game_id": 947,
+  "wiki_id": "By9",
+  "category": "sortie",
+  "frequency": "annual",
+  "updated": "2024-02-01T08:36:39.106357Z",
+  "prereqs": [
+    291,
+    946
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "3-1",
+          "3-3",
+          "3-4",
+          "3-5"
+        ],
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "class_id": 7,
+        "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      880,
+      880,
+      880,
+      880
+    ],
+    "other": [
+      {
+        "category": "senka",
+        "stars": 0,
+        "amount": 480
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 106,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 57,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 64,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}
