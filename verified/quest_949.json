@@ -1,86 +1,86 @@
 {
-  "game_id": 922,
-  "wiki_id": "B150",
+  "game_id": 949,
+  "wiki_id": "B170",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:13:00.5350551Z",
+  "updated": "2024-02-01T07:13:00.4737677Z",
   "prereqs": [
-    921
+    923,
+    933
   ],
   "requirements": {
     "category": "sortie",
     "sortie": [
       {
         "map": [
-          "4-5",
-          "5-5",
-          "6-4"
+          "2-4",
+          "3-5"
         ],
         "boss": true,
         "result": "S",
+        "times": 2
+      },
+      {
+        "map": "6-4",
+        "boss": true,
+        "result": "A",
         "times": 2
       }
     ],
     "comp": [
       {
-        "ship_id": 629,
+        "ship_id": 707,
         "amount": 1,
         "position": 1
       },
       {
-        "group_id": [
-          4001,
-          4002,
-          4005,
-          4004
-        ],
-        "amount": 3
+        "family_id": 91,
+        "amount": 1
       },
       {
         "otherships": true,
         "amount": [
           0,
-          2
+          4
         ]
-      }
-    ],
-    "comp_banned": [
-      {
-        "ship_id": 628
       }
     ]
   },
   "rewards": {
     "resources": [
-      1000,
-      1000,
-      1000,
-      0
+      730,
+      730,
+      730,
+      730
     ],
     "other": [
       {
-        "category": "inventory",
-        "id": 57,
-        "stars": 0,
-        "amount": 1
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 256,
+            "stars": 4,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 7
+          },
+          {
+            "category": "inventory",
+            "id": 78,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
       },
       {
         "choices": [
           {
-            "category": "inventory",
-            "id": 65,
-            "stars": 0,
-            "amount": 1
-          },
-          {
             "category": "equipment",
-            "id": 378,
-            "stars": 0,
-            "amount": 1
-          },
-          {
-            "category": "inventory",
-            "id": 58,
+            "id": 422,
             "stars": 0,
             "amount": 1
           }
