@@ -1,0 +1,85 @@
+{
+  "game_id": 966,
+  "wiki_id": "B175",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T07:32:47.2997408Z",
+  "prereqs": [
+    878,
+    896
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "sortie": [
+          {
+            "map": [
+              "2-1",
+              "2-2",
+              "2-3",
+              "7-3P"
+            ],
+            "boss": true,
+            "result": "S",
+            "times": 1
+          },
+          {
+            "map": "7-4O",
+            "node": "O",
+            "times": 1
+          }
+        ]
+      },
+      {
+        "category": "conversion",
+        "consume": [
+          {
+            "category": "inventory",
+            "id": 73,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      300,
+      300
+    ],
+    "other": [
+      {
+        "category": "feature",
+        "id": 8,
+        "stars": 0,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 169,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 176,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 5
+          }
+        ]
+      }
+    ]
+  }
+}
