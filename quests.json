@@ -32268,6 +32268,104 @@
       ]
     }
   },
+  "995": {
+    "game_id": 995,
+    "wiki_id": "B189",
+    "category": "sortie",
+    "frequency": "onetime",
+    "updated": "2024-02-01T07:59:43.6886957Z",
+    "prereqs": [
+      927,
+      929
+    ],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "3-2",
+            "7-3P",
+            "5-3",
+            "6-4"
+          ],
+          "boss": true,
+          "result": "S",
+          "times": 1
+        }
+      ],
+      "comp": [
+        {
+          "ship_id": 959,
+          "amount": 1
+        },
+        {
+          "family_id": 12,
+          "amount": 1
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        1934,
+        2023,
+        0,
+        0
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 64,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 43,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "inventory",
+              "id": 78,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 294,
+              "stars": 10,
+              "amount": 1
+            },
+            {
+              "category": "equipment",
+              "id": 500,
+              "stars": 0,
+              "amount": 3
+            },
+            {
+              "category": "equipment",
+              "id": 125,
+              "stars": 3,
+              "amount": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
   "1101": {
     "game_id": 1101,
     "wiki_id": "F96",
