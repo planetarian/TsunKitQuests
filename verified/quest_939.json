@@ -26,8 +26,7 @@
       {
         "ship_id": 501,
         "amount": 1,
-        "position": 1,
-        "criteria": {}
+        "position": 1
       },
       {
         "ship_id": [
@@ -36,16 +35,14 @@
           413,
           414
         ],
-        "amount": 2,
-        "criteria": {}
+        "amount": 2
       },
       {
         "otherships": true,
         "amount": [
           0,
           3
-        ],
-        "criteria": {}
+        ]
       }
     ]
   },

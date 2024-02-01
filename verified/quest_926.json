@@ -26,21 +26,18 @@
     "comp": [
       {
         "ship_id": 698,
-        "amount": 1,
-        "criteria": {}
+        "amount": 1
       },
       {
         "ship_id": 594,
-        "amount": 1,
-        "criteria": {}
+        "amount": 1
       },
       {
         "otherships": true,
         "amount": [
           0,
           4
-        ],
-        "criteria": {}
+        ]
       }
     ]
   },

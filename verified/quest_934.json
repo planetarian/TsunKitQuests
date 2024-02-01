@@ -31,16 +31,14 @@
           656
         ],
         "amount": 1,
-        "position": 1,
-        "criteria": {}
+        "position": 1
       },
       {
         "otherships": true,
         "amount": [
           0,
           5
-        ],
-        "criteria": {}
+        ]
       }
     ]
   },

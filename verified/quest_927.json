@@ -21,16 +21,14 @@
     "comp": [
       {
         "ship_id": 65,
-        "amount": 1,
-        "criteria": {}
+        "amount": 1
       },
       {
         "otherships": true,
         "amount": [
           0,
           4
-        ],
-        "criteria": {}
+        ]
       }
     ]
   },

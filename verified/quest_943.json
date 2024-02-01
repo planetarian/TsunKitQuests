@@ -28,21 +28,18 @@
       {
         "ship_id": 888,
         "amount": 1,
-        "position": 1,
-        "criteria": {}
+        "position": 1
       },
       {
         "ship_id": 145,
-        "amount": 1,
-        "criteria": {}
+        "amount": 1
       },
       {
         "otherships": true,
         "amount": [
           0,
           4
-        ],
-        "criteria": {}
+        ]
       }
     ]
   },

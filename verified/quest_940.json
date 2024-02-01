@@ -27,21 +27,18 @@
       {
         "ship_id": 663,
         "amount": 1,
-        "position": 1,
-        "criteria": {}
+        "position": 1
       },
       {
         "class_id": 2,
-        "amount": 2,
-        "criteria": {}
+        "amount": 2
       },
       {
         "otherships": true,
         "amount": [
           0,
           3
-        ],
-        "criteria": {}
+        ]
       }
     ]
   },

@@ -30,16 +30,14 @@
           665,
           407
         ],
-        "amount": 2,
-        "criteria": {}
+        "amount": 2
       },
       {
         "otherships": true,
         "amount": [
           0,
           4
-        ],
-        "criteria": {}
+        ]
       }
     ]
   },

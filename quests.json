@@ -23770,16 +23770,14 @@
         {
           "ship_id": 652,
           "amount": 1,
-          "position": 1,
-          "criteria": {}
+          "position": 1
         },
         {
           "otherships": true,
           "amount": [
             0,
             5
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -29090,8 +29088,7 @@
           "amount": [
             0,
             5
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -29169,16 +29166,14 @@
             11,
             18
           ],
-          "amount": 2,
-          "criteria": {}
+          "amount": 2
         },
         {
           "otherships": true,
           "amount": [
             0,
             4
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -29249,24 +29244,21 @@
         {
           "ship_id": 698,
           "amount": 1,
-          "position": 1,
-          "criteria": {}
+          "position": 1
         },
         {
           "class_id": [
             11,
             18
           ],
-          "amount": 1,
-          "criteria": {}
+          "amount": 1
         },
         {
           "otherships": true,
           "amount": [
             0,
             4
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -29337,21 +29329,18 @@
       "comp": [
         {
           "ship_id": 698,
-          "amount": 1,
-          "criteria": {}
+          "amount": 1
         },
         {
           "ship_id": 594,
-          "amount": 1,
-          "criteria": {}
+          "amount": 1
         },
         {
           "otherships": true,
           "amount": [
             0,
             4
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -29433,16 +29422,14 @@
       "comp": [
         {
           "ship_id": 65,
-          "amount": 1,
-          "criteria": {}
+          "amount": 1
         },
         {
           "otherships": true,
           "amount": [
             0,
             4
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -29510,24 +29497,21 @@
             50,
             100
           ],
-          "amount": 1,
-          "criteria": {}
+          "amount": 1
         },
         {
           "class_id": [
             13,
             14
           ],
-          "amount": 2,
-          "criteria": {}
+          "amount": 2
         },
         {
           "otherships": true,
           "amount": [
             0,
             3
-          ],
-          "criteria": {}
+          ]
         }
       ],
       "comp_banned": [
@@ -29614,16 +29598,14 @@
             564,
             648
           ],
-          "amount": 4,
-          "criteria": {}
+          "amount": 4
         },
         {
           "otherships": true,
           "amount": [
             0,
             2
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -29698,16 +29680,14 @@
             497,
             145
           ],
-          "amount": 2,
-          "criteria": {}
+          "amount": 2
         },
         {
           "otherships": true,
           "amount": [
             0,
             4
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -29781,24 +29761,21 @@
             651
           ],
           "amount": 1,
-          "position": 1,
-          "criteria": {}
+          "position": 1
         },
         {
           "class_id": [
             2,
             1
           ],
-          "amount": 3,
-          "criteria": {}
+          "amount": 3
         },
         {
           "otherships": true,
           "amount": [
             0,
             2
-          ],
-          "criteria": {}
+          ]
         }
       ],
       "comp_banned": [
@@ -29879,16 +29856,14 @@
             656
           ],
           "amount": 1,
-          "position": 1,
-          "criteria": {}
+          "position": 1
         },
         {
           "otherships": true,
           "amount": [
             0,
             5
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -29972,16 +29947,14 @@
             145,
             656
           ],
-          "amount": 2,
-          "criteria": {}
+          "amount": 2
         },
         {
           "otherships": true,
           "amount": [
             0,
             4
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -30063,21 +30036,18 @@
         {
           "ship_id": 662,
           "amount": 1,
-          "position": 1,
-          "criteria": {}
+          "position": 1
         },
         {
           "class_id": 2,
-          "amount": 3,
-          "criteria": {}
+          "amount": 3
         },
         {
           "otherships": true,
           "amount": [
             0,
             2
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -30152,16 +30122,14 @@
             665,
             407
           ],
-          "amount": 2,
-          "criteria": {}
+          "amount": 2
         },
         {
           "otherships": true,
           "amount": [
             0,
             4
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -30227,16 +30195,14 @@
         {
           "ship_id": 501,
           "amount": 1,
-          "position": 1,
-          "criteria": {}
+          "position": 1
         },
         {
           "otherships": true,
           "amount": [
             0,
             5
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -30323,8 +30289,7 @@
         {
           "ship_id": 501,
           "amount": 1,
-          "position": 1,
-          "criteria": {}
+          "position": 1
         },
         {
           "ship_id": [
@@ -30333,16 +30298,14 @@
             413,
             414
           ],
-          "amount": 2,
-          "criteria": {}
+          "amount": 2
         },
         {
           "otherships": true,
           "amount": [
             0,
             3
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -30430,21 +30393,18 @@
         {
           "ship_id": 663,
           "amount": 1,
-          "position": 1,
-          "criteria": {}
+          "position": 1
         },
         {
           "class_id": 2,
-          "amount": 2,
-          "criteria": {}
+          "amount": 2
         },
         {
           "otherships": true,
           "amount": [
             0,
             3
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -30501,21 +30461,18 @@
         {
           "ship_id": 888,
           "amount": 1,
-          "position": 1,
-          "criteria": {}
+          "position": 1
         },
         {
           "ship_id": 145,
-          "amount": 1,
-          "criteria": {}
+          "amount": 1
         },
         {
           "otherships": true,
           "amount": [
             0,
             4
-          ],
-          "criteria": {}
+          ]
         }
       ]
     },
@@ -30585,7 +30542,6 @@
     ],
     "requirements": {
       "category": "conversion",
-      "secretary": {},
       "consume": [
         {
           "category": "equipment",
@@ -30677,7 +30633,6 @@
     ],
     "requirements": {
       "category": "conversion",
-      "secretary": {},
       "scrap": [
         {
           "category": "equipment",
@@ -31312,7 +31267,6 @@
     ],
     "requirements": {
       "category": "conversion",
-      "secretary": {},
       "consume": [
         {
           "category": "equipment",
@@ -31360,7 +31314,6 @@
     ],
     "requirements": {
       "category": "conversion",
-      "secretary": {},
       "consume": [
         {
           "category": "equipment",
@@ -31442,7 +31395,6 @@
     ],
     "requirements": {
       "category": "conversion",
-      "secretary": {},
       "consume": [
         {
           "category": "equipment",
@@ -31494,7 +31446,6 @@
     ],
     "requirements": {
       "category": "conversion",
-      "secretary": {},
       "consume": [
         {
           "category": "equipment",
@@ -31598,7 +31549,6 @@
     ],
     "requirements": {
       "category": "conversion",
-      "secretary": {},
       "consume": [
         {
           "category": "equipment",

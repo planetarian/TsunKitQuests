@@ -26,24 +26,21 @@
       {
         "ship_id": 698,
         "amount": 1,
-        "position": 1,
-        "criteria": {}
+        "position": 1
       },
       {
         "class_id": [
           11,
           18
         ],
-        "amount": 1,
-        "criteria": {}
+        "amount": 1
       },
       {
         "otherships": true,
         "amount": [
           0,
           4
-        ],
-        "criteria": {}
+        ]
       }
     ]
   },
