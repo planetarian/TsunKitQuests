@@ -1,27 +1,31 @@
 {
-  "game_id": 231,
-  "wiki_id": "B17",
+  "game_id": 958,
+  "wiki_id": "B173",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:24:01.3475543Z",
+  "updated": "2024-02-01T07:24:01.3456018Z",
   "prereqs": [
-    125
+    236,
+    957
   ],
   "requirements": {
     "category": "sortie",
     "sortie": [
       {
-        "map": "2-3",
-        "boss": true,
-        "result": "B",
-        "times": 1
+        "map": [
+          "2-2",
+          "7-2M",
+          "5-1",
+          "6-4"
+        ]
       }
     ],
     "comp": [
       {
-        "class_id": [
-          13,
-          14
+        "ship_id": [
+          588,
+          587,
+          469
         ],
         "amount": 2
       },
@@ -36,17 +40,11 @@
   },
   "rewards": {
     "resources": [
-      150,
+      880,
+      880,
       0,
-      300,
-      0
+      880
     ],
-    "other": [
-      {
-        "category": "inventory",
-        "id": 52,
-        "amount": 1
-      }
-    ]
+    "other": []
   }
 }
