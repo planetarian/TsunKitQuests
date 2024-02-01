@@ -1,68 +1,70 @@
 {
-  "game_id": 934,
-  "wiki_id": "B160",
+  "game_id": 961,
+  "wiki_id": "B174",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:26:35.9850464Z",
+  "updated": "2024-02-01T07:26:36.01489Z",
   "prereqs": [
-    880,
-    891
+    884
   ],
   "requirements": {
     "category": "sortie",
     "sortie": [
       {
         "map": [
-          "2-3",
           "2-4",
-          "2-5",
-          "3-3",
-          "7-3P"
+          "5-4",
+          "7-2M"
         ],
         "boss": true,
         "result": "S",
-        "times": 1
+        "times": 2
       }
     ],
     "comp": [
       {
         "ship_id": [
-          651,
-          656
+          670,
+          568
         ],
-        "amount": 1,
-        "position": 1
+        "amount": 2
       },
       {
         "otherships": true,
         "amount": [
           0,
-          5
+          4
         ]
       }
     ]
   },
   "rewards": {
     "resources": [
-      1971,
+      550,
+      550,
       0,
-      1939,
-      0
+      550
     ],
     "other": [
       {
         "choices": [
           {
             "category": "inventory",
-            "id": 57,
+            "id": 52,
             "stars": 0,
             "amount": 1
           },
           {
             "category": "inventory",
-            "id": 64,
+            "id": 75,
             "stars": 0,
-            "amount": 1
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 5
           }
         ]
       },
@@ -70,21 +72,21 @@
         "choices": [
           {
             "category": "equipment",
-            "id": 397,
-            "stars": 4,
-            "amount": 1
-          },
-          {
-            "category": "equipment",
-            "id": 398,
-            "stars": 4,
+            "id": 286,
+            "stars": 0,
             "amount": 1
           },
           {
             "category": "inventory",
             "id": 94,
             "stars": 0,
-            "amount": 2
+            "amount": 4
+          },
+          {
+            "category": "inventory",
+            "id": 78,
+            "stars": 0,
+            "amount": 1
           }
         ]
       }
