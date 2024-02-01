@@ -30932,6 +30932,110 @@
       ]
     }
   },
+  "946": {
+    "game_id": 946,
+    "wiki_id": "By8",
+    "category": "sortie",
+    "frequency": "annual",
+    "updated": "2024-02-01T08:35:40.2522535Z",
+    "prereqs": [
+      944
+    ],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "2-2",
+            "2-3",
+            "2-4"
+          ],
+          "boss": true,
+          "result": "S",
+          "times": 1
+        }
+      ],
+      "comp": [
+        {
+          "class_id": [
+            11,
+            18,
+            7
+          ],
+          "amount": 1,
+          "position": 1
+        },
+        {
+          "class_id": [
+            5,
+            6
+          ],
+          "amount": 2
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            3
+          ]
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        400,
+        0,
+        400
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 181,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 197,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "inventory",
+              "id": 1,
+              "stars": 0,
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 391,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 195,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "inventory",
+              "id": 78,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
   "949": {
     "game_id": 949,
     "wiki_id": "B170",
