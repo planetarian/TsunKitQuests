@@ -32473,7 +32473,7 @@
     "wiki_id": "B191",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T08:15:00.2581668Z",
+    "updated": "2024-02-01T08:16:07.8571265Z",
     "prereqs": [],
     "requirements": {
       "category": "or",
@@ -32571,7 +32571,52 @@
         500,
         0
       ],
-      "other": []
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 1,
+              "stars": 0,
+              "amount": 7
+            },
+            {
+              "category": "inventory",
+              "id": 3,
+              "stars": 0,
+              "amount": 10
+            },
+            {
+              "category": "inventory",
+              "id": 59,
+              "stars": 0,
+              "amount": 3
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 227,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 169,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "inventory",
+              "id": 78,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        }
+      ]
     }
   },
   "1101": {
