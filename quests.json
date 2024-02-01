@@ -32283,6 +32283,104 @@
       ]
     }
   },
+  "975": {
+    "game_id": 975,
+    "wiki_id": "By12",
+    "category": "sortie",
+    "frequency": "annual",
+    "updated": "2024-02-01T08:40:24.6236038Z",
+    "prereqs": [
+      356
+    ],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "1-5",
+            "2-3",
+            "3-2",
+            "5-3"
+          ],
+          "boss": true,
+          "result": "S",
+          "times": 1
+        }
+      ],
+      "comp": [
+        {
+          "ship_id": [
+            666,
+            647,
+            195,
+            627
+          ],
+          "amount": 4
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            2
+          ]
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        190,
+        190,
+        190,
+        190
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 129,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "inventory",
+              "id": 4,
+              "stars": 0,
+              "amount": 4
+            },
+            {
+              "category": "inventory",
+              "id": 1,
+              "stars": 0,
+              "amount": 9
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 57,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 294,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 285,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
   "976": {
     "game_id": 976,
     "wiki_id": "B181",
