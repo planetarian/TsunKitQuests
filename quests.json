@@ -31824,6 +31824,104 @@
       ]
     }
   },
+  "980": {
+    "game_id": 980,
+    "wiki_id": "B184",
+    "category": "sortie",
+    "frequency": "onetime",
+    "updated": "2024-02-01T07:53:36.0317437Z",
+    "prereqs": [
+      961,
+      201
+    ],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "2-4",
+            "5-4",
+            "5-5",
+            "6-4"
+          ],
+          "boss": true,
+          "result": "S",
+          "times": 1
+        }
+      ],
+      "comp": [
+        {
+          "ship_id": [
+            915,
+            670,
+            568
+          ],
+          "amount": 2
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        500,
+        500,
+        150,
+        150
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 52,
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 64,
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 57,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 78,
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "equipment",
+              "id": 470,
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "equipment",
+              "id": 286,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
   "1101": {
     "game_id": 1101,
     "wiki_id": "F96",
