@@ -1,11 +1,12 @@
 {
-  "game_id": 235,
-  "wiki_id": "B135",
+  "game_id": 957,
+  "wiki_id": "B172",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:19:07.6756607Z",
-  "unverified": true,
-  "prereqs": [],
+  "updated": "2024-02-01T07:19:07.7315436Z",
+  "prereqs": [
+    235
+  ],
   "requirements": {
     "category": "sortie",
     "sortie": [
@@ -13,8 +14,8 @@
         "map": [
           "1-2",
           "1-3",
-          "2-1",
-          "2-2"
+          "1-4",
+          "1-5"
         ],
         "boss": true,
         "result": "S",
@@ -23,50 +24,58 @@
     ],
     "comp": [
       {
-        "class_id": 3,
+        "ship_id": 588,
         "amount": 1,
         "position": 1
       },
       {
-        "class_id": [
-          2,
-          1
-        ],
+        "class_id": 2,
         "amount": 3
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ]
   },
   "rewards": {
     "resources": [
-      300,
-      300,
-      0,
+      500,
+      500,
+      500,
       0
     ],
     "other": [
+      {
+        "category": "equipment",
+        "id": 438,
+        "stars": 0,
+        "amount": 1
+      },
       {
         "choices": [
           {
             "category": "inventory",
             "id": 3,
-            "amount": 3
+            "stars": 0,
+            "amount": 8
           },
           {
             "category": "inventory",
             "id": 1,
-            "amount": 3
+            "stars": 0,
+            "amount": 6
           },
           {
-            "category": "equipment",
-            "id": 40,
-            "amount": 2
+            "category": "inventory",
+            "id": 64,
+            "stars": 0,
+            "amount": 1
           }
         ]
-      },
-      {
-        "category": "inventory",
-        "id": 78,
-        "amount": 1
       }
     ]
   }
