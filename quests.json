@@ -31080,6 +31080,64 @@
       ]
     }
   },
+  "967": {
+    "game_id": 967,
+    "wiki_id": "B176",
+    "category": "sortie",
+    "frequency": "onetime",
+    "updated": "2024-02-01T07:40:41.4579051Z",
+    "prereqs": [
+      966
+    ],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": "7-4P",
+          "node": "P",
+          "result": "clear"
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        600,
+        0,
+        0,
+        400
+      ],
+      "other": [
+        {
+          "category": "ship",
+          "id": 522,
+          "stars": 0,
+          "amount": 1
+        },
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 3,
+              "stars": 0,
+              "amount": 8
+            },
+            {
+              "category": "inventory",
+              "id": 4,
+              "stars": 0,
+              "amount": 4
+            },
+            {
+              "category": "equipment",
+              "id": 43,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
   "1101": {
     "game_id": 1101,
     "wiki_id": "F96",
