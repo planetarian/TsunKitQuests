@@ -1,0 +1,98 @@
+{
+  "game_id": 928,
+  "wiki_id": "By5",
+  "category": "sortie",
+  "frequency": "annual",
+  "updated": "2024-02-01T08:30:11.0049087Z",
+  "prereqs": [
+    237,
+    927
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "4-1",
+          "4-2",
+          "4-3",
+          "4-4"
+        ],
+        "boss": true,
+        "result": "A",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "class_id": 5,
+        "amount": 3
+      },
+      {
+        "class_id": 2,
+        "amount": 1
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      1000,
+      1000,
+      1000,
+      1000
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 75,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 77,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 80,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 94,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 8
+          }
+        ]
+      }
+    ]
+  }
+}
