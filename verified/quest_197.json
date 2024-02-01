@@ -1,1 +1,57 @@
-{"game_id":197,"wiki_id":"A93","category":"composition","frequency":"onetime","updated":"2024-01-30T05:37:11.4094032Z","prereqs":[892],"requirements":{"category":"fleet","comp":[{"ship_id":[542,563,564,648],"amount":4}],"disallowed":"otherships"},"rewards":{"resources":[100,100,100,100],"other":[{"category":"equipment","id":267,"stars":2,"amount":1},{"choices":[{"category":"inventory","id":1,"stars":0,"amount":1},{"category":"inventory","id":52,"stars":0,"amount":1}]}]}}
+{
+  "game_id": 197,
+  "wiki_id": "A93",
+  "category": "composition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.4059507Z",
+  "prereqs": [
+    892
+  ],
+  "requirements": {
+    "category": "fleet",
+    "comp": [
+      {
+        "ship_id": [
+          542,
+          563,
+          564,
+          648
+        ],
+        "amount": 4
+      }
+    ],
+    "disallowed": "otherships"
+  },
+  "rewards": {
+    "resources": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 267,
+        "stars": 2,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 1,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 52,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

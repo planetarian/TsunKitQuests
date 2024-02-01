@@ -1,1 +1,29 @@
-{"game_id":601,"wiki_id":"F1","category":"factory","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[],"requirements":{"category":"simple","subcategory":"ship","times":1},"rewards":{"resources":[50,50,50,50],"other":[{"category":"inventory","id":3,"amount":1}]}}
+{
+  "game_id": 601,
+  "wiki_id": "F1",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.5424741Z",
+  "unverified": true,
+  "prereqs": [],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "ship",
+    "times": 1
+  },
+  "rewards": {
+    "resources": [
+      50,
+      50,
+      50,
+      50
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 1
+      }
+    ]
+  }
+}

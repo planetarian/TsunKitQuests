@@ -1,1 +1,75 @@
-{"game_id":354,"wiki_id":"Cy6","category":"exercise","frequency":"annual","updated":"2024-02-01T03:07:26.5822574Z","prereqs":[343],"requirements":{"category":"exercise","result":"S","daily":true,"comp":[{"ship_id":707,"amount":1,"position":1},{"family_id":[91,87],"amount":2},{"otherships":true,"amount":[0,3]}],"times":4},"rewards":{"resources":[0,730,0,730],"other":[{"category":"inventory","id":73,"stars":0,"amount":1},{"choices":[{"category":"equipment","id":277,"stars":0,"amount":2},{"category":"equipment","id":256,"stars":0,"amount":2},{"category":"equipment","id":278,"stars":5,"amount":1}]}]}}
+{
+  "game_id": 354,
+  "wiki_id": "Cy6",
+  "category": "exercise",
+  "frequency": "annual",
+  "updated": "2024-02-01T06:37:02.5565009Z",
+  "prereqs": [
+    343
+  ],
+  "requirements": {
+    "category": "exercise",
+    "result": "S",
+    "daily": true,
+    "comp": [
+      {
+        "ship_id": 707,
+        "amount": 1,
+        "position": 1
+      },
+      {
+        "family_id": [
+          91,
+          87
+        ],
+        "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          3
+        ]
+      }
+    ],
+    "times": 4
+  },
+  "rewards": {
+    "resources": [
+      0,
+      730,
+      0,
+      730
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 73,
+        "stars": 0,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 277,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "equipment",
+            "id": 256,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "equipment",
+            "id": 278,
+            "stars": 5,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

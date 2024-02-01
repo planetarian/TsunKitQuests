@@ -1,1 +1,47 @@
-{"game_id":246,"wiki_id":"WB02","category":"sortie","frequency":"onetime","updated":"2024-01-30T02:24:19.9396609Z","unverified":true,"prereqs":[135],"requirements":{"category":"sortie","map":"4-3","boss":true,"result":"S","fleet_id":1,"comp":[{"otherships":true,"position":1,"lv":[100,999]}],"times":1},"rewards":{"resources":[300,300,300,300],"other":[{"category":"furniture","id":183}]}}
+{
+  "game_id": 246,
+  "wiki_id": "WB02",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.2015591Z",
+  "unverified": true,
+  "prereqs": [
+    135
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "4-3",
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "fleet_id": 1,
+    "comp": [
+      {
+        "otherships": true,
+        "position": 1,
+        "lv": [
+          100,
+          999
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      300,
+      300,
+      300,
+      300
+    ],
+    "other": [
+      {
+        "category": "furniture",
+        "id": 183
+      }
+    ]
+  }
+}

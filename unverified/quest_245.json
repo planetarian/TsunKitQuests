@@ -1,1 +1,48 @@
-{"game_id":245,"wiki_id":"WB01","category":"sortie","frequency":"onetime","updated":"2024-01-30T02:24:19.9325809Z","unverified":true,"prereqs":[134],"requirements":{"category":"sortie","map":"2-3","boss":true,"result":"S","fleet_id":1,"comp":[{"otherships":true,"position":1,"lv":[90,99]}],"times":1},"rewards":{"resources":[0,0,0,0],"other":[{"category":"inventory","id":55,"amount":1}]}}
+{
+  "game_id": 245,
+  "wiki_id": "WB01",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.1988405Z",
+  "unverified": true,
+  "prereqs": [
+    134
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "2-3",
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "fleet_id": 1,
+    "comp": [
+      {
+        "otherships": true,
+        "position": 1,
+        "lv": [
+          90,
+          99
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 55,
+        "amount": 1
+      }
+    ]
+  }
+}

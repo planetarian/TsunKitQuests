@@ -1,1 +1,28 @@
-{"game_id":301,"wiki_id":"C1","category":"exercise","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[],"requirements":{"category":"exercise","times":1},"rewards":{"resources":[10,10,0,0],"other":[{"category":"inventory","id":3,"amount":1}]}}
+{
+  "game_id": 301,
+  "wiki_id": "C1",
+  "category": "exercise",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.3419004Z",
+  "unverified": true,
+  "prereqs": [],
+  "requirements": {
+    "category": "exercise",
+    "times": 1
+  },
+  "rewards": {
+    "resources": [
+      10,
+      10,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"game_id":304,"wiki_id":"Cd2","category":"exercise","frequency":"daily","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[303],"requirements":{"category":"exercise","victory":true,"times":5},"rewards":{"resources":[0,50,0,50],"other":[{"category":"inventory","id":3,"amount":1}]}}
+{
+  "game_id": 304,
+  "wiki_id": "Cd2",
+  "category": "exercise",
+  "frequency": "daily",
+  "updated": "2024-02-01T06:37:01.3516479Z",
+  "unverified": true,
+  "prereqs": [
+    303
+  ],
+  "requirements": {
+    "category": "exercise",
+    "victory": true,
+    "times": 5
+  },
+  "rewards": {
+    "resources": [
+      0,
+      50,
+      0,
+      50
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 1
+      }
+    ]
+  }
+}

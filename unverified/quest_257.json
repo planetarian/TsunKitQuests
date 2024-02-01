@@ -1,1 +1,60 @@
-{"game_id":257,"wiki_id":"Bm3","category":"sortie","frequency":"monthly","updated":"2024-01-30T02:24:19.9829362Z","unverified":true,"prereqs":[221],"requirements":{"category":"sortie","map":"1-4","boss":true,"result":"S","comp":[{"class_id":3,"amount":[1,3],"position":1},{"class_id":2,"amount":[1,99]}],"disallowed":"otherships","times":1},"rewards":{"resources":[500,0,0,300],"other":[{"category":"inventory","id":4,"amount":3},{"category":"inventory","id":59,"amount":1}]}}
+{
+  "game_id": 257,
+  "wiki_id": "Bm3",
+  "category": "sortie",
+  "frequency": "monthly",
+  "updated": "2024-02-01T06:37:01.2102007Z",
+  "unverified": true,
+  "prereqs": [
+    221
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "1-4",
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "class_id": 3,
+        "amount": [
+          1,
+          3
+        ],
+        "position": 1
+      },
+      {
+        "class_id": 2,
+        "amount": [
+          1,
+          99
+        ]
+      }
+    ],
+    "disallowed": "otherships"
+  },
+  "rewards": {
+    "resources": [
+      500,
+      0,
+      0,
+      300
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 4,
+        "amount": 3
+      },
+      {
+        "category": "inventory",
+        "id": 59,
+        "amount": 1
+      }
+    ]
+  }
+}

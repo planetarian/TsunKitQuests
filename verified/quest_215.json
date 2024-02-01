@@ -1,1 +1,34 @@
-{"game_id":215,"wiki_id":"B3","category":"sortie","frequency":"onetime","updated":"2024-01-30T05:15:09.5313134Z","prereqs":[115],"requirements":{"category":"sortie","fleet_id":2,"times":1},"rewards":{"resources":[0,0,200,200],"other":[{"category":"inventory","id":3,"amount":1}]}}
+{
+  "game_id": 215,
+  "wiki_id": "B3",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.4448024Z",
+  "prereqs": [
+    115
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "times": 1
+      }
+    ],
+    "fleet_id": 2
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      200,
+      200
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,1 +1,44 @@
-{"game_id":622,"wiki_id":"F19","category":"factory","frequency":"onetime","updated":"2024-02-01T00:57:04.8797113Z","unverified":true,"prereqs":[287],"requirements":{"category":"conversion","secretary":{"ship_id":110},"slots":[{"id":143}],"scrap":[{"category":"equipment","id":17,"amount":2}]},"rewards":{"resources":[0,0,0,50],"other":[{"category":"equipment","id":144,"amount":1}]}}
+{
+  "game_id": 622,
+  "wiki_id": "F19",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.6041348Z",
+  "unverified": true,
+  "prereqs": [
+    287
+  ],
+  "requirements": {
+    "category": "conversion",
+    "secretary": {
+      "ship_id": 110
+    },
+    "slots": [
+      {
+        "id": 143
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipment",
+        "id": 17,
+        "amount": 2
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      0,
+      50
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 144,
+        "amount": 1
+      }
+    ]
+  }
+}

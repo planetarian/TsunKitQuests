@@ -1,1 +1,45 @@
-{"game_id":427,"wiki_id":"D25","category":"expedition","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[869],"requirements":{"category":"expedition","expeds":[{"id":"A1","times":1}],"resources":[0,0,800,0]},"rewards":{"resources":[200,200,0,0],"other":[{"category":"feature","id":5},{"category":"equipment","id":145,"amount":2}]}}
+{
+  "game_id": 427,
+  "wiki_id": "D25",
+  "category": "expedition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.5082533Z",
+  "unverified": true,
+  "prereqs": [
+    869
+  ],
+  "requirements": {
+    "category": "expedition",
+    "expeds": [
+      {
+        "id": "A1",
+        "times": 1
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      800,
+      0
+    ]
+  },
+  "rewards": {
+    "resources": [
+      200,
+      200,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "feature",
+        "id": 5
+      },
+      {
+        "category": "equipment",
+        "id": 145,
+        "amount": 2
+      }
+    ]
+  }
+}

@@ -1,1 +1,36 @@
-{"game_id":228,"wiki_id":"Bw5","category":"sortie","frequency":"weekly","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[220],"requirements":{"category":"sink","group_id":5013,"amount":15},"rewards":{"resources":[600,0,0,0],"other":[{"category":"inventory","id":1,"amount":2},{"category":"inventory","id":4,"amount":1}]}}
+{
+  "game_id": 228,
+  "wiki_id": "Bw5",
+  "category": "sortie",
+  "frequency": "weekly",
+  "updated": "2024-02-01T06:37:01.1688668Z",
+  "unverified": true,
+  "prereqs": [
+    220
+  ],
+  "requirements": {
+    "category": "sink",
+    "group_id": 5013,
+    "amount": 15
+  },
+  "rewards": {
+    "resources": [
+      600,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 2
+      },
+      {
+        "category": "inventory",
+        "id": 4,
+        "amount": 1
+      }
+    ]
+  }
+}

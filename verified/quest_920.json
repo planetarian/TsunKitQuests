@@ -1,1 +1,91 @@
-{"game_id":920,"wiki_id":"B148","category":"sortie","frequency":"onetime","updated":"2024-02-01T03:31:09.0504842Z","prereqs":[255,919],"requirements":{"category":"sortie","map":["1-4","2-5","3-5"],"boss":true,"result":"S","comp":[{"ship_id":628,"position":1},{"group_id":[4001,4002,4005,4004],"amount":2},{"otherships":true,"amount":[0,3]}],"comp_banned":[{"ship_id":629}],"times":1},"rewards":{"resources":[600,600,600,0],"other":[{"category":"equipment","id":376,"stars":0,"amount":1},{"choices":[{"category":"equipment","id":197,"stars":3,"amount":2},{"category":"equipment","id":196,"stars":3,"amount":2},{"category":"inventory","id":3,"stars":0,"amount":6}]}]}}
+{
+  "game_id": 920,
+  "wiki_id": "B148",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.6652819Z",
+  "prereqs": [
+    255,
+    919
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "1-4",
+          "2-5",
+          "3-5"
+        ],
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": 628,
+        "position": 1
+      },
+      {
+        "group_id": [
+          4001,
+          4002,
+          4005,
+          4004
+        ],
+        "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          3
+        ]
+      }
+    ],
+    "comp_banned": [
+      {
+        "ship_id": 629
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      600,
+      600,
+      600,
+      0
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 376,
+        "stars": 0,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 197,
+            "stars": 3,
+            "amount": 2
+          },
+          {
+            "category": "equipment",
+            "id": 196,
+            "stars": 3,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 6
+          }
+        ]
+      }
+    ]
+  }
+}

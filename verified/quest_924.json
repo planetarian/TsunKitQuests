@@ -1,1 +1,83 @@
-{"game_id":924,"wiki_id":"B152","category":"sortie","frequency":"onetime","updated":"2024-02-01T04:57:00.9968193Z","prereqs":[182,247,285],"requirements":{"category":"sortie","map":["2-4","2-5","4-3"],"boss":true,"result":"S","comp":[{"class_id":[11,18],"amount":2,"criteria":{}},{"otherships":true,"amount":[0,4],"criteria":{}}],"times":1},"rewards":{"resources":[0,0,880,880],"other":[{"category":"inventory","id":57,"stars":0,"amount":1},{"choices":[{"category":"inventory","id":3,"stars":0,"amount":88},{"category":"inventory","id":65,"stars":0,"amount":1},{"category":"equipment","id":256,"stars":4,"amount":1}]}]}}
+{
+  "game_id": 924,
+  "wiki_id": "B152",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.6760609Z",
+  "prereqs": [
+    182,
+    247,
+    285
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "2-4",
+          "2-5",
+          "4-3"
+        ],
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "class_id": [
+          11,
+          18
+        ],
+        "amount": 2,
+        "criteria": {}
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ],
+        "criteria": {}
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      880,
+      880
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 57,
+        "stars": 0,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 88
+          },
+          {
+            "category": "inventory",
+            "id": 65,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 256,
+            "stars": 4,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

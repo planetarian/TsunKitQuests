@@ -1,1 +1,86 @@
-{"game_id":936,"wiki_id":"B164","category":"sortie","frequency":"onetime","updated":"2024-02-01T05:19:39.5418392Z","prereqs":[812],"requirements":{"category":"sortie","map":["2-4","3-2","5-3","7-1","7-2M"],"boss":true,"result":"S","comp":[{"ship_id":662,"amount":1,"position":1,"criteria":{}},{"class_id":2,"amount":3,"criteria":{}},{"otherships":true,"amount":[0,2],"criteria":{}}],"times":1},"rewards":{"resources":[1026,0,1944,0],"other":[{"category":"equipment","id":407,"stars":0,"amount":1},{"choices":[{"category":"equipment","id":65,"stars":0,"amount":2},{"category":"equipment","id":66,"stars":0,"amount":2},{"category":"equipment","id":40,"stars":0,"amount":2}]}]}}
+{
+  "game_id": 936,
+  "wiki_id": "B164",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.7124249Z",
+  "prereqs": [
+    812
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "2-4",
+          "3-2",
+          "5-3",
+          "7-1",
+          "7-2M"
+        ],
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": 662,
+        "amount": 1,
+        "position": 1,
+        "criteria": {}
+      },
+      {
+        "class_id": 2,
+        "amount": 3,
+        "criteria": {}
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ],
+        "criteria": {}
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      1026,
+      0,
+      1944,
+      0
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 407,
+        "stars": 0,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 65,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "equipment",
+            "id": 66,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "equipment",
+            "id": 40,
+            "stars": 0,
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  }
+}

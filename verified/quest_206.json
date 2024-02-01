@@ -1,1 +1,50 @@
-{"game_id":206,"wiki_id":"B6","category":"sortie","frequency":"onetime","updated":"2024-01-30T06:19:56.4707846Z","prereqs":[205],"requirements":{"category":"sortie","comp":[{"class_id":3,"position":1},{"class_id":2,"amount":3},{"otherships":true,"amount":[0,2]}],"times":1},"rewards":{"resources":[60,60,0,60],"other":[{"category":"ship","id":52,"amount":1}]}}
+{
+  "game_id": 206,
+  "wiki_id": "B6",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.4221121Z",
+  "prereqs": [
+    205
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "class_id": 3,
+        "position": 1
+      },
+      {
+        "class_id": 2,
+        "amount": 3
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      60,
+      60,
+      0,
+      60
+    ],
+    "other": [
+      {
+        "category": "ship",
+        "id": 52,
+        "amount": 1
+      }
+    ]
+  }
+}

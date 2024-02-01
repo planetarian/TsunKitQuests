@@ -1,1 +1,30 @@
-{"game_id":210,"wiki_id":"Bd3","category":"sortie","frequency":"daily","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[216],"requirements":{"category":"simple","times":10},"rewards":{"resources":[150,150,200,100],"other":[{"category":"inventory","id":3,"amount":1}]}}
+{
+  "game_id": 210,
+  "wiki_id": "Bd3",
+  "category": "sortie",
+  "frequency": "daily",
+  "updated": "2024-02-01T06:37:01.1352821Z",
+  "unverified": true,
+  "prereqs": [
+    216
+  ],
+  "requirements": {
+    "category": "simple",
+    "times": 10
+  },
+  "rewards": {
+    "resources": [
+      150,
+      150,
+      200,
+      100
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,1 +1,43 @@
-{"game_id":848,"wiki_id":"B92","category":"sortie","frequency":"onetime","updated":"2024-01-30T02:24:20.5794453Z","unverified":true,"prereqs":[846],"requirements":{"category":"sortie","map":"5-3","boss":true,"result":"A","comp":[{"ship_id":496,"position":1}],"times":1},"rewards":{"resources":[0,0,700,0],"other":[{"category":"equipment","id":203,"amount":1}]}}
+{
+  "game_id": 848,
+  "wiki_id": "B92",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.9239173Z",
+  "unverified": true,
+  "prereqs": [
+    846
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "5-3",
+        "boss": true,
+        "result": "A",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": 496,
+        "position": 1
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      700,
+      0
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 203,
+        "amount": 1
+      }
+    ]
+  }
+}

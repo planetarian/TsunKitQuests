@@ -1,1 +1,44 @@
-{"game_id":229,"wiki_id":"Bw6","category":"sortie","frequency":"weekly","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[228],"requirements":{"category":"sortie","map":["4-1","4-2","4-3","4-4","4-5"],"any":true,"boss":true,"result":"B","times":12},"rewards":{"resources":[400,0,0,700],"other":[{"category":"inventory","id":3,"amount":2}]}}
+{
+  "game_id": 229,
+  "wiki_id": "Bw6",
+  "category": "sortie",
+  "frequency": "weekly",
+  "updated": "2024-02-01T06:37:01.1716152Z",
+  "unverified": true,
+  "prereqs": [
+    228
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "4-1",
+          "4-2",
+          "4-3",
+          "4-4",
+          "4-5"
+        ],
+        "any": true,
+        "boss": true,
+        "result": "B",
+        "times": 12
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      400,
+      0,
+      0,
+      700
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 2
+      }
+    ]
+  }
+}

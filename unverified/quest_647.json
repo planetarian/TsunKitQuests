@@ -1,1 +1,49 @@
-{"game_id":647,"wiki_id":"F43","category":"factory","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[642,809],"requirements":{"category":"equipexchange","consume":[{"category":"inventory","id":73,"amount":1}],"scrap":[{"category":"equipment","id":75,"amount":2}],"resources":[1200,0,0,3000]},"rewards":{"resources":[0,0,0,0],"other":[{"category":"feature","id":7}]}}
+{
+  "game_id": 647,
+  "wiki_id": "F43",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.6760752Z",
+  "unverified": true,
+  "prereqs": [
+    642,
+    809
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "consume": [
+      {
+        "category": "inventory",
+        "id": 73,
+        "amount": 1
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipment",
+        "id": 75,
+        "amount": 2
+      }
+    ],
+    "resources": [
+      1200,
+      0,
+      0,
+      3000
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "feature",
+        "id": 7
+      }
+    ]
+  }
+}

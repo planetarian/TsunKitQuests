@@ -1,1 +1,82 @@
-{"game_id":347,"wiki_id":"C51","category":"exercise","frequency":"onetime","updated":"2024-02-01T03:21:25.272641Z","prereqs":[323],"requirements":{"category":"exercise","result":"S","daily":true,"comp":[{"ship_id":20,"amount":1,"position":1},{"class_id":2,"amount":3},{"otherships":true,"amount":[0,2]}],"times":4},"rewards":{"resources":[160,160,0,160],"other":[{"choices":[{"category":"inventory","id":54,"stars":0,"amount":1},{"category":"inventory","id":1,"stars":0,"amount":5}]},{"choices":[{"category":"inventory","id":3,"stars":0,"amount":8},{"category":"inventory","id":94,"stars":0,"amount":1},{"category":"inventory","id":4,"stars":0,"amount":4}]}]}}
+{
+  "game_id": 347,
+  "wiki_id": "C51",
+  "category": "exercise",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.5402797Z",
+  "prereqs": [
+    323
+  ],
+  "requirements": {
+    "category": "exercise",
+    "result": "S",
+    "daily": true,
+    "comp": [
+      {
+        "ship_id": 20,
+        "amount": 1,
+        "position": 1
+      },
+      {
+        "class_id": 2,
+        "amount": 3
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
+      }
+    ],
+    "times": 4
+  },
+  "rewards": {
+    "resources": [
+      160,
+      160,
+      0,
+      160
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 54,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 1,
+            "stars": 0,
+            "amount": 5
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 8
+          },
+          {
+            "category": "inventory",
+            "id": 94,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 4
+          }
+        ]
+      }
+    ]
+  }
+}

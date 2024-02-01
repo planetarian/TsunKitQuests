@@ -1,1 +1,44 @@
-{"game_id":125,"wiki_id":"A25","category":"composition","frequency":"onetime","updated":"2024-01-30T02:24:20.9347066Z","prereqs":[121],"requirements":{"category":"fleet","comp":[{"class_id":[13,14],"amount":2},{"otherships":true,"amount":[0,4]}]},"rewards":{"resources":[150,150,0,0],"other":[{"category":"equipment","id":42,"amount":1}]}}
+{
+  "game_id": 125,
+  "wiki_id": "A25",
+  "category": "composition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.2161541Z",
+  "prereqs": [
+    121
+  ],
+  "requirements": {
+    "category": "fleet",
+    "comp": [
+      {
+        "class_id": [
+          13,
+          14
+        ],
+        "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      150,
+      150,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 42,
+        "amount": 1
+      }
+    ]
+  }
+}

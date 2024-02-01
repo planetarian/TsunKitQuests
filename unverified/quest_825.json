@@ -1,1 +1,86 @@
-{"game_id":825,"wiki_id":"B77","category":"sortie","frequency":"onetime","updated":"2024-01-30T02:24:20.5248424Z","unverified":true,"prereqs":[303],"requirements":{"category":"and","list":[{"category":"sortie","map":"2-2","boss":true,"result":"S","comp":[{"class_id":3,"position":1},{"class_id":2,"amount":4},{"otherships":true,"amount":1}],"times":1},{"category":"sortie","map":"2-3","boss":true,"result":"S","comp":[{"class_id":3,"position":1},{"class_id":2,"amount":4},{"otherships":true,"amount":1}],"times":1}]},"rewards":{"resources":[600,600,0,0],"other":[{"category":"inventory","id":52,"amount":1},{"category":"inventory","id":59,"amount":1}]}}
+{
+  "game_id": 825,
+  "wiki_id": "B77",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.8779222Z",
+  "unverified": true,
+  "prereqs": [
+    303
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "sortie": [
+          {
+            "map": "2-2",
+            "boss": true,
+            "result": "S",
+            "times": 1
+          }
+        ],
+        "comp": [
+          {
+            "class_id": 3,
+            "position": 1
+          },
+          {
+            "class_id": 2,
+            "amount": 4
+          },
+          {
+            "otherships": true,
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "sortie": [
+          {
+            "map": "2-3",
+            "boss": true,
+            "result": "S",
+            "times": 1
+          }
+        ],
+        "comp": [
+          {
+            "class_id": 3,
+            "position": 1
+          },
+          {
+            "class_id": 2,
+            "amount": 4
+          },
+          {
+            "otherships": true,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      600,
+      600,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 52,
+        "amount": 1
+      },
+      {
+        "category": "inventory",
+        "id": 59,
+        "amount": 1
+      }
+    ]
+  }
+}

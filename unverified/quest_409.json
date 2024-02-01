@@ -1,1 +1,35 @@
-{"game_id":409,"wiki_id":"D8","category":"expedition","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[408],"requirements":{"category":"expedition","expeds":[{"id":"31","times":1}]},"rewards":{"resources":[0,100,0,0],"other":[{"category":"ship","id":174,"amount":1}]}}
+{
+  "game_id": 409,
+  "wiki_id": "D8",
+  "category": "expedition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.4627841Z",
+  "unverified": true,
+  "prereqs": [
+    408
+  ],
+  "requirements": {
+    "category": "expedition",
+    "expeds": [
+      {
+        "id": "31",
+        "times": 1
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      100,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "ship",
+        "id": 174,
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,1 +1,49 @@
-{"game_id":151,"wiki_id":"A49","category":"composition","frequency":"onetime","updated":"2024-01-30T02:24:21.0543814Z","prereqs":[271],"requirements":{"category":"fleet","fleet_id":1,"comp":[{"ship_id":[28,29,6],"amount":3},{"class_id":2,"amount":1}],"disallowed":"otherships"},"rewards":{"resources":[220,220,0,0],"other":[{"category":"inventory","id":1,"amount":2},{"category":"inventory","id":3,"amount":2}]}}
+{
+  "game_id": 151,
+  "wiki_id": "A49",
+  "category": "composition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.2822863Z",
+  "prereqs": [
+    271
+  ],
+  "requirements": {
+    "category": "fleet",
+    "fleet_id": 1,
+    "comp": [
+      {
+        "ship_id": [
+          28,
+          29,
+          6
+        ],
+        "amount": 3
+      },
+      {
+        "class_id": 2,
+        "amount": 1
+      }
+    ],
+    "disallowed": "otherships"
+  },
+  "rewards": {
+    "resources": [
+      220,
+      220,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 2
+      },
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 2
+      }
+    ]
+  }
+}

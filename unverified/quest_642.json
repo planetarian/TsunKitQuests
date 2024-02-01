@@ -1,1 +1,42 @@
-{"game_id":642,"wiki_id":"F38","category":"factory","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[641,825],"requirements":{"category":"equipexchange","consume":[{"category":"equipment","id":37,"amount":2},{"category":"equipment","id":23,"amount":2}]},"rewards":{"resources":[0,200,0,200],"other":[{"category":"equipment","id":168,"amount":1}]}}
+{
+  "game_id": 642,
+  "wiki_id": "F38",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.6619034Z",
+  "unverified": true,
+  "prereqs": [
+    641,
+    825
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "consume": [
+      {
+        "category": "equipment",
+        "id": 37,
+        "amount": 2
+      },
+      {
+        "category": "equipment",
+        "id": 23,
+        "amount": 2
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      200,
+      0,
+      200
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 168,
+        "amount": 1
+      }
+    ]
+  }
+}

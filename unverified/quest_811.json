@@ -1,1 +1,43 @@
-{"game_id":811,"wiki_id":"B64","category":"sortie","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[634,810],"requirements":{"category":"sortie","map":"1-4","boss":true,"result":"S","times":5},"rewards":{"resources":[0,0,400,0],"other":[{"category":"inventory","id":52,"amount":1},{"category":"equipment","id":145,"amount":1}]}}
+{
+  "game_id": 811,
+  "wiki_id": "B64",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.8387542Z",
+  "unverified": true,
+  "prereqs": [
+    634,
+    810
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "1-4",
+        "boss": true,
+        "result": "S",
+        "times": 5
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      400,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 52,
+        "amount": 1
+      },
+      {
+        "category": "equipment",
+        "id": 145,
+        "amount": 1
+      }
+    ]
+  }
+}

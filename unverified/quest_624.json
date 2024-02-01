@@ -1,1 +1,32 @@
-{"game_id":624,"wiki_id":"F21","category":"factory","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[420],"requirements":{"category":"simple","subcategory":"scrapequipment","times":7,"batch":true},"rewards":{"resources":[0,0,100,0],"other":[{"category":"inventory","id":65,"amount":1}]}}
+{
+  "game_id": 624,
+  "wiki_id": "F21",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.6095386Z",
+  "unverified": true,
+  "prereqs": [
+    420
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapequipment",
+    "times": 7,
+    "batch": true
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      100,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 65,
+        "amount": 1
+      }
+    ]
+  }
+}

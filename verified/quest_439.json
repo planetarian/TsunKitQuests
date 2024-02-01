@@ -1,1 +1,66 @@
-{"game_id":439,"wiki_id":"Dy5","category":"expedition","frequency":"annual","updated":"2024-01-30T11:21:56.6749748Z","prereqs":[427],"requirements":{"category":"expedition","expeds":[{"id":["5","A1","11","B1"],"times":1}]},"rewards":{"resources":[0,0,480,480],"other":[{"choices":[{"category":"inventory","id":3,"stars":0,"amount":4},{"category":"inventory","id":59,"stars":0,"amount":1}]},{"choices":[{"category":"inventory","id":1,"stars":0,"amount":6},{"category":"inventory","id":94,"stars":0,"amount":1}]}]}}
+{
+  "game_id": 439,
+  "wiki_id": "Dy5",
+  "category": "expedition",
+  "frequency": "annual",
+  "updated": "2024-02-01T06:37:02.5944312Z",
+  "prereqs": [
+    427
+  ],
+  "requirements": {
+    "category": "expedition",
+    "expeds": [
+      {
+        "id": [
+          "5",
+          "A1",
+          "11",
+          "B1"
+        ],
+        "times": 1
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      480,
+      480
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 4
+          },
+          {
+            "category": "inventory",
+            "id": 59,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 1,
+            "stars": 0,
+            "amount": 6
+          },
+          {
+            "category": "inventory",
+            "id": 94,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

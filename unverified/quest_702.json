@@ -1,1 +1,31 @@
-{"game_id":702,"wiki_id":"Gd1","category":"modernization","frequency":"daily","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[701],"requirements":{"category":"simple","subcategory":"modernization","times":2},"rewards":{"resources":[20,20,50,0],"other":[{"category":"inventory","id":1,"amount":1}]}}
+{
+  "game_id": 702,
+  "wiki_id": "Gd1",
+  "category": "modernization",
+  "frequency": "daily",
+  "updated": "2024-02-01T06:37:01.8047696Z",
+  "unverified": true,
+  "prereqs": [
+    701
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "modernization",
+    "times": 2
+  },
+  "rewards": {
+    "resources": [
+      20,
+      20,
+      50,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 1
+      }
+    ]
+  }
+}

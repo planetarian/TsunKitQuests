@@ -1,1 +1,46 @@
-{"game_id":222,"wiki_id":"B12","category":"sortie","frequency":"onetime","updated":"2024-01-30T07:13:10.8994135Z","prereqs":[120,213],"requirements":{"category":"sortie","comp":[{"ship_id":[34,35,36,37],"amount":4}],"disallowed":"otherships","times":1},"rewards":{"resources":[200,0,0,0],"other":[{"category":"inventory","id":1,"amount":1}]}}
+{
+  "game_id": 222,
+  "wiki_id": "B12",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.4531394Z",
+  "prereqs": [
+    120,
+    213
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": [
+          34,
+          35,
+          36,
+          37
+        ],
+        "amount": 4
+      }
+    ],
+    "disallowed": "otherships"
+  },
+  "rewards": {
+    "resources": [
+      200,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,1 +1,52 @@
-{"game_id":677,"wiki_id":"Fw4","category":"factory","frequency":"weekly","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[674],"requirements":{"category":"equipexchange","scrap":[{"category":"equipgroup","id":3,"amount":4},{"category":"equipgroup","id":10,"amount":2},{"category":"equipgroup","id":5,"amount":3}],"resources":[0,0,3600,0]},"rewards":{"resources":[0,500,0,150],"other":[{"category":"inventory","id":1,"amount":5}]}}
+{
+  "game_id": 677,
+  "wiki_id": "Fw4",
+  "category": "factory",
+  "frequency": "weekly",
+  "updated": "2024-02-01T06:37:01.7492043Z",
+  "unverified": true,
+  "prereqs": [
+    674
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scrap": [
+      {
+        "category": "equipgroup",
+        "id": 3,
+        "amount": 4
+      },
+      {
+        "category": "equipgroup",
+        "id": 10,
+        "amount": 2
+      },
+      {
+        "category": "equipgroup",
+        "id": 5,
+        "amount": 3
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      3600,
+      0
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      500,
+      0,
+      150
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 5
+      }
+    ]
+  }
+}

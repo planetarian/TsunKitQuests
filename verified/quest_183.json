@@ -1,1 +1,54 @@
-{"game_id":183,"wiki_id":"A78","category":"composition","frequency":"onetime","updated":"2024-01-30T02:24:21.2097167Z","prereqs":[156,225],"requirements":{"category":"fleet","fleet_id":1,"comp":[{"ship_id":488,"position":1},{"ship_id":[44,45,405,46],"amount":4},{"class_id":2,"amount":1}]},"rewards":{"resources":[400,0,0,0],"other":[{"category":"inventory","id":1,"amount":4},{"category":"equipment","id":42,"amount":1}]}}
+{
+  "game_id": 183,
+  "wiki_id": "A78",
+  "category": "composition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.3673214Z",
+  "prereqs": [
+    156,
+    225
+  ],
+  "requirements": {
+    "category": "fleet",
+    "fleet_id": 1,
+    "comp": [
+      {
+        "ship_id": 488,
+        "position": 1
+      },
+      {
+        "ship_id": [
+          44,
+          45,
+          405,
+          46
+        ],
+        "amount": 4
+      },
+      {
+        "class_id": 2,
+        "amount": 1
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      400,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 4
+      },
+      {
+        "category": "equipment",
+        "id": 42,
+        "amount": 1
+      }
+    ]
+  }
+}

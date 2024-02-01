@@ -1,1 +1,75 @@
-{"game_id":1130,"wiki_id":"F118","category":"factory","frequency":"onetime","updated":"2024-02-01T00:47:00.8626716Z","prereqs":[365],"requirements":{"category":"conversion","secretary_id":[],"consume":[{"category":"equipment","id":75,"amount":3}],"scrap":[{"category":"equipgroup","id":21,"amount":3},{"category":"equipgroup","id":17,"amount":3},{"category":"equipgroup","id":16,"amount":3}],"resources":[0,0,5500,2700]},"rewards":{"resources":[0,500,0,0],"other":[{"choices":[{"category":"inventory","id":3,"stars":0,"amount":40},{"category":"inventory","id":4,"stars":0,"amount":10},{"category":"inventory","id":94,"stars":0,"amount":4}]}]}}
+{
+  "game_id": 1130,
+  "wiki_id": "F118",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.1718623Z",
+  "prereqs": [
+    365
+  ],
+  "requirements": {
+    "category": "conversion",
+    "consume": [
+      {
+        "category": "equipment",
+        "id": 75,
+        "amount": 3
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipgroup",
+        "id": 21,
+        "amount": 3
+      },
+      {
+        "category": "equipgroup",
+        "id": 17,
+        "amount": 3
+      },
+      {
+        "category": "equipgroup",
+        "id": 16,
+        "amount": 3
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      5500,
+      2700
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      500,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 40
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 10
+          },
+          {
+            "category": "inventory",
+            "id": 94,
+            "stars": 0,
+            "amount": 4
+          }
+        ]
+      }
+    ]
+  }
+}

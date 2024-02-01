@@ -1,1 +1,62 @@
-{"game_id":331,"wiki_id":"C31","category":"exercise","frequency":"onetime","updated":"2024-01-30T02:24:20.1873752Z","unverified":true,"prereqs":[330],"requirements":{"category":"exercise","victory":true,"daily":true,"comp":[{"class_id":11,"amount":2,"position":1},{"class_id":2,"amount":2}],"times":3},"rewards":{"resources":[0,0,0,100],"other":[{"category":"equipment","id":57,"amount":1},{"choices":[{"category":"inventory","id":77,"amount":1},{"category":"equipment","id":24,"amount":3},{"category":"inventory","id":3,"amount":6}]}]}}
+{
+  "game_id": 331,
+  "wiki_id": "C31",
+  "category": "exercise",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.4149065Z",
+  "unverified": true,
+  "prereqs": [
+    330
+  ],
+  "requirements": {
+    "category": "exercise",
+    "victory": true,
+    "daily": true,
+    "comp": [
+      {
+        "class_id": 11,
+        "amount": 2,
+        "position": 1
+      },
+      {
+        "class_id": 2,
+        "amount": 2
+      }
+    ],
+    "times": 3
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      0,
+      100
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 57,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 77,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 24,
+            "amount": 3
+          },
+          {
+            "category": "inventory",
+            "id": 3,
+            "amount": 6
+          }
+        ]
+      }
+    ]
+  }
+}

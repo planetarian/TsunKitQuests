@@ -1,1 +1,39 @@
-{"game_id":103,"wiki_id":"A3","category":"composition","frequency":"onetime","updated":"2024-01-30T02:24:20.8049074Z","prereqs":[102],"requirements":{"category":"fleet","comp":[{"class_id":3,"position":1},{"class_id":2,"amount":5}]},"rewards":{"resources":[40,40,0,40],"other":[{"category":"equipment","id":42,"stars":0,"amount":1}]}}
+{
+  "game_id": 103,
+  "wiki_id": "A3",
+  "category": "composition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.0817944Z",
+  "prereqs": [
+    102
+  ],
+  "requirements": {
+    "category": "fleet",
+    "comp": [
+      {
+        "class_id": 3,
+        "position": 1
+      },
+      {
+        "class_id": 2,
+        "amount": 5
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      40,
+      40,
+      0,
+      40
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 42,
+        "stars": 0,
+        "amount": 1
+      }
+    ]
+  }
+}

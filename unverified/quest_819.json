@@ -1,1 +1,59 @@
-{"game_id":819,"wiki_id":"B72","category":"sortie","frequency":"onetime","updated":"2024-01-30T02:24:20.5079847Z","unverified":true,"prereqs":[171,228],"requirements":{"category":"sortie","map":"1-6","result":"clear","comp":[{"ship_id":141,"position":1},{"ship_id":[418,309],"amount":2},{"otherships":true,"amount":3}],"times":2},"rewards":{"resources":[310,310,0,310],"other":[{"category":"inventory","id":4,"amount":2},{"category":"equipment","id":47,"amount":1}]}}
+{
+  "game_id": 819,
+  "wiki_id": "B72",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.8614028Z",
+  "unverified": true,
+  "prereqs": [
+    171,
+    228
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "1-6",
+        "result": "clear",
+        "times": 2
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": 141,
+        "position": 1
+      },
+      {
+        "ship_id": [
+          418,
+          309
+        ],
+        "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": 3
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      310,
+      310,
+      0,
+      310
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 4,
+        "amount": 2
+      },
+      {
+        "category": "equipment",
+        "id": 47,
+        "amount": 1
+      }
+    ]
+  }
+}

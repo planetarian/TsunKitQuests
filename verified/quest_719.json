@@ -1,1 +1,68 @@
-{"game_id":719,"wiki_id":"G11","category":"modernization","frequency":"onetime","updated":"2024-01-30T08:46:51.3265947Z","prereqs":[718],"requirements":{"category":"modernization","family_id":9,"times":2,"consume":[{"class_id":[5,6],"amount":4}],"resources":[0,1200,1200,0]},"rewards":{"resources":[600,0,0,0],"other":[{"category":"equipment","id":30,"stars":0,"amount":1},{"choices":[{"category":"equipment","id":50,"stars":0,"amount":2},{"category":"equipment","id":80,"stars":0,"amount":2},{"category":"inventory","id":4,"stars":0,"amount":5}]}]}}
+{
+  "game_id": 719,
+  "wiki_id": "G11",
+  "category": "modernization",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.6463737Z",
+  "prereqs": [
+    718
+  ],
+  "requirements": {
+    "category": "modernization",
+    "family_id": 9,
+    "times": 2,
+    "consume": [
+      {
+        "class_id": [
+          5,
+          6
+        ],
+        "amount": 4
+      }
+    ],
+    "resources": [
+      0,
+      1200,
+      1200,
+      0
+    ]
+  },
+  "rewards": {
+    "resources": [
+      600,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 30,
+        "stars": 0,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 50,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "equipment",
+            "id": 80,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 5
+          }
+        ]
+      }
+    ]
+  }
+}

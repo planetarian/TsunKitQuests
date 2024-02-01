@@ -1,1 +1,74 @@
-{"game_id":260,"wiki_id":"B32","category":"sortie","frequency":"onetime","updated":"2024-01-30T07:47:36.9077982Z","prereqs":[259],"requirements":{"category":"sortie","map":"3-5","boss":true,"result":"S","comp":[{"class_id":[9,8],"amount":[2,2]},{"class_id":7,"amount":[1,1]},{"amount":3}],"comp_banned":[{"class_id":[10,11,7,18]}],"disallowed":"carriers","times":1},"rewards":{"resources":[0,500,0,250],"other":[{"category":"inventory","id":3,"amount":2},{"category":"equipment","id":116,"amount":1}]}}
+{
+  "game_id": 260,
+  "wiki_id": "B32",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.5163084Z",
+  "prereqs": [
+    259
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "3-5",
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "class_id": [
+          9,
+          8
+        ],
+        "amount": [
+          2,
+          2
+        ]
+      },
+      {
+        "class_id": 7,
+        "amount": [
+          1,
+          1
+        ]
+      },
+      {
+        "amount": 3
+      }
+    ],
+    "comp_banned": [
+      {
+        "class_id": [
+          10,
+          11,
+          7,
+          18
+        ]
+      }
+    ],
+    "disallowed": "carriers"
+  },
+  "rewards": {
+    "resources": [
+      0,
+      500,
+      0,
+      250
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 2
+      },
+      {
+        "category": "equipment",
+        "id": 116,
+        "amount": 1
+      }
+    ]
+  }
+}

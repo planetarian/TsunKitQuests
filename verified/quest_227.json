@@ -1,1 +1,49 @@
-{"game_id":227,"wiki_id":"B16","category":"sortie","frequency":"onetime","updated":"2024-01-30T07:25:59.7377291Z","prereqs":[124],"requirements":{"category":"sortie","map":"2-3","boss":true,"result":"B","comp":[{"ship_id":[69,61,123,60,59,51],"amount":6}],"times":1},"rewards":{"resources":[100,150,100,150],"other":[{"category":"equipment","id":42,"amount":1}]}}
+{
+  "game_id": 227,
+  "wiki_id": "B16",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.4696484Z",
+  "prereqs": [
+    124
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "2-3",
+        "boss": true,
+        "result": "B",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": [
+          69,
+          61,
+          123,
+          60,
+          59,
+          51
+        ],
+        "amount": 6
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      100,
+      150,
+      100,
+      150
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 42,
+        "amount": 1
+      }
+    ]
+  }
+}

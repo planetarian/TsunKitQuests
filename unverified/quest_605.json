@@ -1,1 +1,36 @@
-{"game_id":605,"wiki_id":"Fd1","category":"factory","frequency":"daily","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[602],"requirements":{"category":"simple","subcategory":"equipment","times":1},"rewards":{"resources":[40,40,40,40],"other":[{"category":"inventory","id":2,"amount":1},{"category":"inventory","id":3,"amount":1}]}}
+{
+  "game_id": 605,
+  "wiki_id": "Fd1",
+  "category": "factory",
+  "frequency": "daily",
+  "updated": "2024-02-01T06:37:01.5531039Z",
+  "unverified": true,
+  "prereqs": [
+    602
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "equipment",
+    "times": 1
+  },
+  "rewards": {
+    "resources": [
+      40,
+      40,
+      40,
+      40
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 2,
+        "amount": 1
+      },
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 1
+      }
+    ]
+  }
+}

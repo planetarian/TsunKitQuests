@@ -1,1 +1,124 @@
-{"game_id":903,"wiki_id":"Bq13","category":"sortie","frequency":"quarterly","updated":"2024-01-30T02:24:20.7792553Z","unverified":true,"prereqs":[902],"requirements":{"category":"or","list":[{"category":"sortie","map":["5-1","5-4","6-4","6-5"],"boss":true,"result":"S","comp":[{"ship_id":[622,623,624],"position":1},{"ship_id":[1,2,164,165,30,31],"amount":2},{"otherships":true,"amount":3}],"times":1},{"category":"sortie","map":["5-1","5-4","6-4","6-5"],"boss":true,"result":"S","comp":[{"ship_id":[622,623,624],"position":1},{"ship_id":488,"amount":1},{"otherships":true,"amount":4}],"times":1}]},"rewards":{"resources":[1000,1000,1000,0],"other":[{"category":"senka","amount":390},{"choices":[{"category":"inventory","id":1,"amount":10},{"category":"inventory","id":75,"amount":1},{"category":"inventory","id":57,"amount":1}]}]}}
+{
+  "game_id": 903,
+  "wiki_id": "Bq13",
+  "category": "sortie",
+  "frequency": "quarterly",
+  "updated": "2024-02-01T06:37:02.0586926Z",
+  "unverified": true,
+  "prereqs": [
+    902
+  ],
+  "requirements": {
+    "category": "or",
+    "list": [
+      {
+        "category": "sortie",
+        "sortie": [
+          {
+            "map": [
+              "5-1",
+              "5-4",
+              "6-4",
+              "6-5"
+            ],
+            "boss": true,
+            "result": "S",
+            "times": 1
+          }
+        ],
+        "comp": [
+          {
+            "ship_id": [
+              622,
+              623,
+              624
+            ],
+            "position": 1
+          },
+          {
+            "ship_id": [
+              1,
+              2,
+              164,
+              165,
+              30,
+              31
+            ],
+            "amount": 2
+          },
+          {
+            "otherships": true,
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "sortie": [
+          {
+            "map": [
+              "5-1",
+              "5-4",
+              "6-4",
+              "6-5"
+            ],
+            "boss": true,
+            "result": "S",
+            "times": 1
+          }
+        ],
+        "comp": [
+          {
+            "ship_id": [
+              622,
+              623,
+              624
+            ],
+            "position": 1
+          },
+          {
+            "ship_id": 488,
+            "amount": 1
+          },
+          {
+            "otherships": true,
+            "amount": 4
+          }
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      1000,
+      1000,
+      1000,
+      0
+    ],
+    "other": [
+      {
+        "category": "senka",
+        "amount": 390
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 1,
+            "amount": 10
+          },
+          {
+            "category": "inventory",
+            "id": 75,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 57,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

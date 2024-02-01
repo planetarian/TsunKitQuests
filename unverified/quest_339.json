@@ -1,1 +1,72 @@
-{"game_id":339,"wiki_id":"Cq3","category":"exercise","frequency":"quarterly","updated":"2024-01-30T02:24:20.209369Z","unverified":true,"prereqs":[177,337],"requirements":{"category":"exercise","victory":true,"daily":true,"comp":[{"ship_id":[13,14,12,486],"amount":4}],"times":3},"rewards":{"resources":[190,190,190,100],"other":[{"choices":[{"category":"inventory","id":54,"amount":1},{"category":"inventory","id":4,"amount":3}]},{"choices":[{"category":"equipment","id":45,"amount":1},{"category":"equipment","id":63,"amount":1},{"category":"inventory","id":3,"amount":8}]}]}}
+{
+  "game_id": 339,
+  "wiki_id": "Cq3",
+  "category": "exercise",
+  "frequency": "quarterly",
+  "updated": "2024-02-01T06:37:01.4368298Z",
+  "unverified": true,
+  "prereqs": [
+    177,
+    337
+  ],
+  "requirements": {
+    "category": "exercise",
+    "victory": true,
+    "daily": true,
+    "comp": [
+      {
+        "ship_id": [
+          13,
+          14,
+          12,
+          486
+        ],
+        "amount": 4
+      }
+    ],
+    "times": 3
+  },
+  "rewards": {
+    "resources": [
+      190,
+      190,
+      190,
+      100
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 54,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 45,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 63,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 3,
+            "amount": 8
+          }
+        ]
+      }
+    ]
+  }
+}

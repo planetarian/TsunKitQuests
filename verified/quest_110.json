@@ -1,1 +1,52 @@
-{"game_id":110,"wiki_id":"A15","category":"composition","frequency":"onetime","updated":"2024-01-30T02:24:20.8514869Z","prereqs":[109],"requirements":{"category":"fleet","fleet_id":1,"comp":[{"ship_id":[62,63,64,65],"amount":4},{"otherships":true,"amount":[0,2]}]},"rewards":{"resources":[150,100,150,100],"other":[{"category":"inventory","id":1,"amount":1},{"category":"inventory","id":3,"amount":1}]}}
+{
+  "game_id": 110,
+  "wiki_id": "A15",
+  "category": "composition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.0982785Z",
+  "prereqs": [
+    109
+  ],
+  "requirements": {
+    "category": "fleet",
+    "fleet_id": 1,
+    "comp": [
+      {
+        "ship_id": [
+          62,
+          63,
+          64,
+          65
+        ],
+        "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      150,
+      100,
+      150,
+      100
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 1
+      },
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,1 +1,36 @@
-{"game_id":603,"wiki_id":"F3","category":"factory","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[602],"requirements":{"category":"simple","subcategory":"scrapship","times":1},"rewards":{"resources":[60,60,60,60],"other":[{"category":"inventory","id":2,"amount":1},{"category":"inventory","id":3,"amount":1}]}}
+{
+  "game_id": 603,
+  "wiki_id": "F3",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.5477232Z",
+  "unverified": true,
+  "prereqs": [
+    602
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapship",
+    "times": 1
+  },
+  "rewards": {
+    "resources": [
+      60,
+      60,
+      60,
+      60
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 2,
+        "amount": 1
+      },
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 1
+      }
+    ]
+  }
+}

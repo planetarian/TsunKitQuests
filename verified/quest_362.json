@@ -1,1 +1,88 @@
-{"game_id":362,"wiki_id":"Cy10","category":"exercise","frequency":"annual","updated":"2024-02-01T03:02:50.2432228Z","prereqs":[149],"requirements":{"category":"exercise","result":"A","daily":true,"comp":[{"ship_id":[9,10,32,11],"amount":4},{"otherships":true,"amount":[0,2]}],"times":4},"rewards":{"resources":[110,110,110,110],"other":[{"choices":[{"category":"equipment","id":297,"stars":0,"amount":3},{"category":"equipment","id":13,"stars":0,"amount":3},{"category":"inventory","id":3,"stars":0,"amount":6}]},{"choices":[{"category":"equipment","id":129,"stars":0,"amount":2},{"category":"inventory","id":59,"stars":0,"amount":3},{"category":"inventory","id":4,"stars":0,"amount":4}]}]}}
+{
+  "game_id": 362,
+  "wiki_id": "Cy10",
+  "category": "exercise",
+  "frequency": "annual",
+  "updated": "2024-02-01T06:37:02.5728402Z",
+  "prereqs": [
+    149
+  ],
+  "requirements": {
+    "category": "exercise",
+    "result": "A",
+    "daily": true,
+    "comp": [
+      {
+        "ship_id": [
+          9,
+          10,
+          32,
+          11
+        ],
+        "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
+      }
+    ],
+    "times": 4
+  },
+  "rewards": {
+    "resources": [
+      110,
+      110,
+      110,
+      110
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 297,
+            "stars": 0,
+            "amount": 3
+          },
+          {
+            "category": "equipment",
+            "id": 13,
+            "stars": 0,
+            "amount": 3
+          },
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 6
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 129,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 59,
+            "stars": 0,
+            "amount": 3
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 4
+          }
+        ]
+      }
+    ]
+  }
+}

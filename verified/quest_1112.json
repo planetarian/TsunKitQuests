@@ -1,1 +1,81 @@
-{"game_id":1112,"wiki_id":"F106","category":"factory","frequency":"onetime","updated":"2024-02-01T02:20:18.3464433Z","prereqs":[604],"requirements":{"category":"conversion","secretary":{},"consume":[{"category":"equipment","id":75,"amount":1},{"category":"inventory","id":3,"amount":10}],"scrap":[{"category":"equipgroup","id":1,"amount":4},{"category":"equipgroup","id":2,"amount":4},{"category":"equipgroup","id":3,"amount":4}],"resources":[0,0,1800,0]},"rewards":{"resources":[0,650,0,550],"other":[{"choices":[{"category":"inventory","id":4,"stars":0,"amount":8},{"category":"inventory","id":75,"stars":0,"amount":3},{"category":"inventory","id":73,"stars":0,"amount":1}]}]}}
+{
+  "game_id": 1112,
+  "wiki_id": "F106",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.1322284Z",
+  "prereqs": [
+    604
+  ],
+  "requirements": {
+    "category": "conversion",
+    "secretary": {},
+    "consume": [
+      {
+        "category": "equipment",
+        "id": 75,
+        "amount": 1
+      },
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 10
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipgroup",
+        "id": 1,
+        "amount": 4
+      },
+      {
+        "category": "equipgroup",
+        "id": 2,
+        "amount": 4
+      },
+      {
+        "category": "equipgroup",
+        "id": 3,
+        "amount": 4
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      1800,
+      0
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      650,
+      0,
+      550
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 8
+          },
+          {
+            "category": "inventory",
+            "id": 75,
+            "stars": 0,
+            "amount": 3
+          },
+          {
+            "category": "inventory",
+            "id": 73,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

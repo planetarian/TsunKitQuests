@@ -1,1 +1,33 @@
-{"game_id":104,"wiki_id":"A4","category":"composition","frequency":"onetime","updated":"2024-01-30T02:24:20.8123408Z","prereqs":[103],"requirements":{"category":"fleet","comp":[{"otherships":true,"amount":6}]},"rewards":{"resources":[50,0,50,0],"other":[{"category":"feature","id":1}]}}
+{
+  "game_id": 104,
+  "wiki_id": "A4",
+  "category": "composition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.0842118Z",
+  "prereqs": [
+    103
+  ],
+  "requirements": {
+    "category": "fleet",
+    "comp": [
+      {
+        "otherships": true,
+        "amount": 6
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      50,
+      0,
+      50,
+      0
+    ],
+    "other": [
+      {
+        "category": "feature",
+        "id": 1
+      }
+    ]
+  }
+}

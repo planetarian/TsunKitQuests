@@ -1,1 +1,67 @@
-{"game_id":693,"wiki_id":"F84","category":"factory","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[605,682],"requirements":{"category":"equipexchange","scrap":[{"category":"equipgroup","id":10,"amount":4},{"category":"equipgroup","id":6,"amount":3},{"category":"equipgroup","id":8,"amount":2},{"category":"inventory","id":3,"amount":20}],"resources":[0,0,0,3000]},"rewards":{"resources":[0,0,0,0],"other":[{"choices":[{"category":"inventory","id":77,"amount":2},{"category":"equipment","id":324,"amount":1}]}]}}
+{
+  "game_id": 693,
+  "wiki_id": "F84",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.7912266Z",
+  "unverified": true,
+  "prereqs": [
+    605,
+    682
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scrap": [
+      {
+        "category": "equipgroup",
+        "id": 10,
+        "amount": 4
+      },
+      {
+        "category": "equipgroup",
+        "id": 6,
+        "amount": 3
+      },
+      {
+        "category": "equipgroup",
+        "id": 8,
+        "amount": 2
+      },
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 20
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      0,
+      3000
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 77,
+            "amount": 2
+          },
+          {
+            "category": "equipment",
+            "id": 324,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

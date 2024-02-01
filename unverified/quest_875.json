@@ -1,1 +1,85 @@
-{"game_id":875,"wiki_id":"Bq6","category":"sortie","frequency":"quarterly","updated":"2024-01-30T02:24:20.6821306Z","unverified":true,"prereqs":[188,873],"requirements":{"category":"and","list":[{"category":"sortie","map":"5-4","boss":true,"result":"S","comp":[{"ship_id":543,"amount":1},{"ship_id":[345,359,344],"amount":1}],"times":2}]},"rewards":{"resources":[310,310,0,310],"other":[{"choices":[{"category":"equipment","id":27,"amount":2},{"category":"equipment","id":28,"amount":2},{"category":"inventory","id":78,"amount":1}]},{"choices":[{"category":"inventory","id":75,"amount":1},{"category":"inventory","id":60,"amount":1}]}]}}
+{
+  "game_id": 875,
+  "wiki_id": "Bq6",
+  "category": "sortie",
+  "frequency": "quarterly",
+  "updated": "2024-02-01T06:37:01.9970429Z",
+  "unverified": true,
+  "prereqs": [
+    188,
+    873
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "sortie": [
+          {
+            "map": "5-4",
+            "boss": true,
+            "result": "S",
+            "times": 2
+          }
+        ],
+        "comp": [
+          {
+            "ship_id": 543,
+            "amount": 1
+          },
+          {
+            "ship_id": [
+              345,
+              359,
+              344
+            ],
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      310,
+      310,
+      0,
+      310
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 27,
+            "amount": 2
+          },
+          {
+            "category": "equipment",
+            "id": 28,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 78,
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 75,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 60,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

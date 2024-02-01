@@ -1,1 +1,73 @@
-{"game_id":684,"wiki_id":"F75","category":"factory","frequency":"onetime","updated":"2024-02-01T00:57:04.9985663Z","unverified":true,"prereqs":[886],"requirements":{"category":"conversion","secretary":{"ship_id":553},"slots":[{"slot":3,"id":291}],"consume":[{"category":"inventory","id":3,"amount":30},{"category":"inventory","id":77,"amount":1},{"category":"inventory","id":70,"amount":1}],"scrap":[{"category":"equipment","id":23,"amount":3},{"category":"equipment","id":24,"amount":3}],"resources":[0,0,0,3000]},"rewards":{"resources":[0,634,0,0],"other":[{"category":"equipment","id":292,"amount":1}]}}
+{
+  "game_id": 684,
+  "wiki_id": "F75",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.7668294Z",
+  "unverified": true,
+  "prereqs": [
+    886
+  ],
+  "requirements": {
+    "category": "conversion",
+    "secretary": {
+      "ship_id": 553
+    },
+    "slots": [
+      {
+        "slot": 3,
+        "id": 291
+      }
+    ],
+    "consume": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 30
+      },
+      {
+        "category": "inventory",
+        "id": 77,
+        "amount": 1
+      },
+      {
+        "category": "inventory",
+        "id": 70,
+        "amount": 1
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipment",
+        "id": 23,
+        "amount": 3
+      },
+      {
+        "category": "equipment",
+        "id": 24,
+        "amount": 3
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      0,
+      3000
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      634,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 292,
+        "amount": 1
+      }
+    ]
+  }
+}

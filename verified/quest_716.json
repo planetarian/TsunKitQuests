@@ -1,1 +1,74 @@
-{"game_id":716,"wiki_id":"Gy3","category":"modernization","frequency":"annual","updated":"2024-01-30T08:38:59.809248Z","prereqs":[612,701],"requirements":{"category":"modernization","class_id":3,"times":2,"consume":[{"class_id":[3,4,21],"amount":3}],"resources":[0,0,800,400]},"rewards":{"resources":[500,0,0,0],"other":[{"choices":[{"category":"inventory","id":1,"stars":0,"amount":2},{"category":"inventory","id":3,"stars":0,"amount":3}]},{"choices":[{"category":"equipment","id":49,"stars":0,"amount":2},{"category":"inventory","id":59,"stars":0,"amount":1}]}]}}
+{
+  "game_id": 716,
+  "wiki_id": "Gy3",
+  "category": "modernization",
+  "frequency": "annual",
+  "updated": "2024-02-01T06:37:02.6378291Z",
+  "prereqs": [
+    612,
+    701
+  ],
+  "requirements": {
+    "category": "modernization",
+    "class_id": 3,
+    "times": 2,
+    "consume": [
+      {
+        "class_id": [
+          3,
+          4,
+          21
+        ],
+        "amount": 3
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      800,
+      400
+    ]
+  },
+  "rewards": {
+    "resources": [
+      500,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 1,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 49,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 59,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

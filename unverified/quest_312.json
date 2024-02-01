@@ -1,1 +1,39 @@
-{"game_id":312,"wiki_id":"C9","category":"exercise","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[216,613,635],"requirements":{"category":"exercise","victory":true,"daily":true,"times":4},"rewards":{"resources":[0,200,200,0],"other":[{"category":"inventory","id":3,"amount":2},{"category":"equipment","id":145,"amount":1}]}}
+{
+  "game_id": 312,
+  "wiki_id": "C9",
+  "category": "exercise",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.3689796Z",
+  "unverified": true,
+  "prereqs": [
+    216,
+    613,
+    635
+  ],
+  "requirements": {
+    "category": "exercise",
+    "victory": true,
+    "daily": true,
+    "times": 4
+  },
+  "rewards": {
+    "resources": [
+      0,
+      200,
+      200,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 2
+      },
+      {
+        "category": "equipment",
+        "id": 145,
+        "amount": 1
+      }
+    ]
+  }
+}

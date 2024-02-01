@@ -1,1 +1,48 @@
-{"game_id":661,"wiki_id":"F53","category":"factory","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[607,612],"requirements":{"category":"equipexchange","scrap":[{"category":"equipgroup","id":4,"amount":10}],"resources":[0,0,6000,0]},"rewards":{"resources":[0,400,0,0],"other":[{"category":"inventory","id":11,"amount":2},{"category":"inventory","id":75,"amount":1}]}}
+{
+  "game_id": 661,
+  "wiki_id": "F53",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.707214Z",
+  "unverified": true,
+  "prereqs": [
+    607,
+    612
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scrap": [
+      {
+        "category": "equipgroup",
+        "id": 4,
+        "amount": 10
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      6000,
+      0
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      400,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 11,
+        "amount": 2
+      },
+      {
+        "category": "inventory",
+        "id": 75,
+        "amount": 1
+      }
+    ]
+  }
+}

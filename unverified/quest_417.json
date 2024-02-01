@@ -1,1 +1,40 @@
-{"game_id":417,"wiki_id":"D16","category":"expedition","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[272],"requirements":{"category":"expedition","expeds":[{"id":"15","times":1}]},"rewards":{"resources":[400,0,0,400],"other":[{"category":"inventory","id":3,"amount":2},{"category":"equipment","id":120,"amount":1}]}}
+{
+  "game_id": 417,
+  "wiki_id": "D16",
+  "category": "expedition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.4838162Z",
+  "unverified": true,
+  "prereqs": [
+    272
+  ],
+  "requirements": {
+    "category": "expedition",
+    "expeds": [
+      {
+        "id": "15",
+        "times": 1
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      400,
+      0,
+      0,
+      400
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 2
+      },
+      {
+        "category": "equipment",
+        "id": 120,
+        "amount": 1
+      }
+    ]
+  }
+}

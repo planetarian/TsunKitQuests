@@ -1,1 +1,31 @@
-{"game_id":609,"wiki_id":"Fd5","category":"factory","frequency":"daily","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[608],"requirements":{"category":"simple","subcategory":"scrapship","times":2},"rewards":{"resources":[0,0,0,50],"other":[{"category":"inventory","id":1,"amount":1}]}}
+{
+  "game_id": 609,
+  "wiki_id": "Fd5",
+  "category": "factory",
+  "frequency": "daily",
+  "updated": "2024-02-01T06:37:01.563455Z",
+  "unverified": true,
+  "prereqs": [
+    608
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapship",
+    "times": 2
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      0,
+      50
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 1
+      }
+    ]
+  }
+}

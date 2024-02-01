@@ -1,1 +1,51 @@
-{"game_id":244,"wiki_id":"B22","category":"sortie","frequency":"onetime","updated":"2024-01-30T07:37:14.8423284Z","prereqs":[133],"requirements":{"category":"sortie","map":"3-2","boss":true,"result":"C","comp":[{"ship_id":[1,2,164,31],"amount":4},{"otherships":true,"amount":2}],"times":1},"rewards":{"resources":[100,100,100,500],"other":[{"category":"inventory","id":54,"amount":1}]}}
+{
+  "game_id": 244,
+  "wiki_id": "B22",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.4883946Z",
+  "prereqs": [
+    133
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "3-2",
+        "boss": true,
+        "result": "C",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": [
+          1,
+          2,
+          164,
+          31
+        ],
+        "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": 2
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      100,
+      100,
+      100,
+      500
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 54,
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,1 +1,69 @@
-{"game_id":888,"wiki_id":"Bq7","category":"sortie","frequency":"quarterly","updated":"2024-01-30T02:24:20.7347906Z","unverified":true,"prereqs":[243,273],"requirements":{"category":"sortie","map":["5-1","5-3","5-4"],"boss":true,"result":"S","comp":[{"ship_id":[69,61,123,60,59,51,115],"amount":4}],"times":1},"rewards":{"resources":[800,800,800,800],"other":[{"category":"senka","amount":200},{"choices":[{"category":"inventory","id":57,"amount":1},{"category":"inventory","id":4,"amount":5}]}]}}
+{
+  "game_id": 888,
+  "wiki_id": "Bq7",
+  "category": "sortie",
+  "frequency": "quarterly",
+  "updated": "2024-02-01T06:37:02.0266347Z",
+  "unverified": true,
+  "prereqs": [
+    243,
+    273
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "5-1",
+          "5-3",
+          "5-4"
+        ],
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": [
+          69,
+          61,
+          123,
+          60,
+          59,
+          51,
+          115
+        ],
+        "amount": 4
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      800,
+      800,
+      800,
+      800
+    ],
+    "other": [
+      {
+        "category": "senka",
+        "amount": 200
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 57,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "amount": 5
+          }
+        ]
+      }
+    ]
+  }
+}

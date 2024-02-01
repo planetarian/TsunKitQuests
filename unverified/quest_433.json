@@ -1,1 +1,61 @@
-{"game_id":433,"wiki_id":"D31","category":"expedition","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[432,425],"requirements":{"category":"expedition","expeds":[{"id":["35","36","37","38","40"],"times":1}]},"rewards":{"resources":[0,0,750,750],"other":[{"category":"inventory","id":59,"amount":2},{"choices":[{"category":"inventory","id":1,"amount":6},{"category":"equipment","id":68,"amount":2},{"category":"equipment","id":38,"amount":3}]}]}}
+{
+  "game_id": 433,
+  "wiki_id": "D31",
+  "category": "expedition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.5244785Z",
+  "unverified": true,
+  "prereqs": [
+    432,
+    425
+  ],
+  "requirements": {
+    "category": "expedition",
+    "expeds": [
+      {
+        "id": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "40"
+        ],
+        "times": 1
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      750,
+      750
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 59,
+        "amount": 2
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 1,
+            "amount": 6
+          },
+          {
+            "category": "equipment",
+            "id": 68,
+            "amount": 2
+          },
+          {
+            "category": "equipment",
+            "id": 38,
+            "amount": 3
+          }
+        ]
+      }
+    ]
+  }
+}

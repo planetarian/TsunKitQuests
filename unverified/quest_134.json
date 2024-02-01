@@ -1,1 +1,39 @@
-{"game_id":134,"wiki_id":"WA01","category":"composition","frequency":"onetime","updated":"2024-01-30T02:24:19.7805332Z","unverified":true,"prereqs":[306],"requirements":{"category":"fleet","comp":[{"otherships":true,"position":1,"lv":[90,99]}]},"rewards":{"resources":[88,88,88,88],"other":[{"category":"inventory","id":12,"amount":1}]}}
+{
+  "game_id": 134,
+  "wiki_id": "WA01",
+  "category": "composition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.1010304Z",
+  "unverified": true,
+  "prereqs": [
+    306
+  ],
+  "requirements": {
+    "category": "fleet",
+    "comp": [
+      {
+        "otherships": true,
+        "position": 1,
+        "lv": [
+          90,
+          99
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      88,
+      88,
+      88,
+      88
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 12,
+        "amount": 1
+      }
+    ]
+  }
+}

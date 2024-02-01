@@ -1,1 +1,86 @@
-{"game_id":919,"wiki_id":"B147","category":"sortie","frequency":"onetime","updated":"2024-01-30T08:16:06.5914432Z","prereqs":[235],"requirements":{"category":"sortie","map":["2-2","2-3","2-4"],"boss":true,"result":"S","comp":[{"group_id":4001,"amount":2},{"otherships":true,"amount":[0,4]}],"times":1},"rewards":{"resources":[400,400,0,400],"other":[{"choices":[{"category":"inventory","id":4,"stars":0,"amount":2},{"category":"inventory","id":91,"stars":0,"amount":2},{"category":"inventory","id":1,"stars":0,"amount":4}]},{"choices":[{"category":"equipment","id":17,"stars":0,"amount":3},{"category":"equipment","id":171,"stars":0,"amount":1}]}]}}
+{
+  "game_id": 919,
+  "wiki_id": "B147",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.662617Z",
+  "prereqs": [
+    235
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "2-2",
+          "2-3",
+          "2-4"
+        ],
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "group_id": 4001,
+        "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      400,
+      400,
+      0,
+      400
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 91,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 1,
+            "stars": 0,
+            "amount": 4
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 17,
+            "stars": 0,
+            "amount": 3
+          },
+          {
+            "category": "equipment",
+            "id": 171,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

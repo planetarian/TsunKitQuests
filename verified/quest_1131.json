@@ -1,1 +1,97 @@
-{"game_id":1131,"wiki_id":"F119","category":"factory","frequency":"onetime","updated":"2024-02-01T00:44:44.8434272Z","prereqs":[992],"requirements":{"category":"conversion","secretary_id":[],"consume":[{"category":"equipment","id":42,"amount":1}],"scrap":[{"category":"equipgroup","id":1,"amount":18},{"category":"equipgroup","id":2,"amount":12},{"category":"equipgroup","id":15,"amount":6}],"resources":[0,2500,3000,0]},"rewards":{"resources":[250,0,0,0],"other":[{"choices":[{"category":"equipment","id":63,"stars":3,"amount":3},{"category":"equipment","id":91,"stars":2,"amount":2},{"category":"inventory","id":75,"stars":0,"amount":1}]},{"choices":[{"category":"equipment","id":310,"stars":3,"amount":1},{"category":"equipment","id":139,"stars":2,"amount":1},{"category":"equipment","id":90,"stars":0,"amount":2}]}]}}
+{
+  "game_id": 1131,
+  "wiki_id": "F119",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.1748585Z",
+  "prereqs": [
+    992
+  ],
+  "requirements": {
+    "category": "conversion",
+    "consume": [
+      {
+        "category": "equipment",
+        "id": 42,
+        "amount": 1
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipgroup",
+        "id": 1,
+        "amount": 18
+      },
+      {
+        "category": "equipgroup",
+        "id": 2,
+        "amount": 12
+      },
+      {
+        "category": "equipgroup",
+        "id": 15,
+        "amount": 6
+      }
+    ],
+    "resources": [
+      0,
+      2500,
+      3000,
+      0
+    ]
+  },
+  "rewards": {
+    "resources": [
+      250,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 63,
+            "stars": 3,
+            "amount": 3
+          },
+          {
+            "category": "equipment",
+            "id": 91,
+            "stars": 2,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 75,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 310,
+            "stars": 3,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 139,
+            "stars": 2,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 90,
+            "stars": 0,
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  }
+}

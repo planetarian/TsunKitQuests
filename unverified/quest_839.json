@@ -1,1 +1,71 @@
-{"game_id":839,"wiki_id":"B88","category":"sortie","frequency":"onetime","updated":"2024-01-30T02:24:20.5664168Z","unverified":true,"prereqs":[838],"requirements":{"category":"sortie","map":"3-3","boss":true,"result":"S","comp":[{"class_id":[9,10],"position":1},{"class_id":[9,10],"amount":1},{"otherships":true,"amount":4}],"times":1},"rewards":{"resources":[0,800,0,200],"other":[{"category":"inventory","id":4,"amount":2},{"choices":[{"category":"equipment","id":165,"amount":1},{"category":"equipment","id":178,"amount":1}]}]}}
+{
+  "game_id": 839,
+  "wiki_id": "B88",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.9101931Z",
+  "unverified": true,
+  "prereqs": [
+    838
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "3-3",
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "class_id": [
+          9,
+          10
+        ],
+        "position": 1
+      },
+      {
+        "class_id": [
+          9,
+          10
+        ],
+        "amount": 1
+      },
+      {
+        "otherships": true,
+        "amount": 4
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      800,
+      0,
+      200
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 4,
+        "amount": 2
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 165,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 178,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

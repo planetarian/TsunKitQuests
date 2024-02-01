@@ -1,1 +1,69 @@
-{"game_id":927,"wiki_id":"B155","category":"sortie","frequency":"onetime","updated":"2024-02-01T05:05:48.2052177Z","prereqs":[110,223],"requirements":{"category":"sortie","map":"7-3E","boss":true,"result":"S","comp":[{"ship_id":65,"amount":1,"criteria":{}},{"otherships":true,"amount":[0,4],"criteria":{}}],"times":4},"rewards":{"resources":[0,2020,1945,0],"other":[{"category":"equipment","id":50,"stars":6,"amount":1},{"choices":[{"category":"inventory","id":78,"stars":0,"amount":1},{"category":"inventory","id":94,"stars":0,"amount":1}]}]}}
+{
+  "game_id": 927,
+  "wiki_id": "B155",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.6930515Z",
+  "prereqs": [
+    110,
+    223
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "7-3E",
+        "boss": true,
+        "result": "S",
+        "times": 4
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": 65,
+        "amount": 1,
+        "criteria": {}
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ],
+        "criteria": {}
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      2020,
+      1945,
+      0
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 50,
+        "stars": 6,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 78,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 94,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,1 +1,46 @@
-{"game_id":154,"wiki_id":"A52","category":"composition","frequency":"onetime","updated":"2024-01-30T02:24:21.0687842Z","prereqs":[227],"requirements":{"category":"fleet","comp":[{"ship_id":[86,85,21,34,36,37],"amount":6}]},"rewards":{"resources":[0,300,0,0],"other":[{"category":"inventory","id":1,"amount":2},{"category":"inventory","id":3,"amount":2}]}}
+{
+  "game_id": 154,
+  "wiki_id": "A52",
+  "category": "composition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.2899197Z",
+  "prereqs": [
+    227
+  ],
+  "requirements": {
+    "category": "fleet",
+    "comp": [
+      {
+        "ship_id": [
+          86,
+          85,
+          21,
+          34,
+          36,
+          37
+        ],
+        "amount": 6
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      300,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 2
+      },
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 2
+      }
+    ]
+  }
+}

@@ -1,1 +1,56 @@
-{"game_id":319,"wiki_id":"C17","category":"exercise","frequency":"onetime","updated":"2024-01-30T02:24:20.1582319Z","unverified":true,"prereqs":[190],"requirements":{"category":"exercise","victory":true,"daily":true,"comp":[{"ship_id":[240,326,419],"amount":3}],"times":4},"rewards":{"resources":[0,100,0,0],"other":[{"category":"inventory","id":54,"amount":1},{"choices":[{"category":"inventory","id":3,"amount":6},{"category":"inventory","id":78,"amount":1}]}]}}
+{
+  "game_id": 319,
+  "wiki_id": "C17",
+  "category": "exercise",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.3894332Z",
+  "unverified": true,
+  "prereqs": [
+    190
+  ],
+  "requirements": {
+    "category": "exercise",
+    "victory": true,
+    "daily": true,
+    "comp": [
+      {
+        "ship_id": [
+          240,
+          326,
+          419
+        ],
+        "amount": 3
+      }
+    ],
+    "times": 4
+  },
+  "rewards": {
+    "resources": [
+      0,
+      100,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 54,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 3,
+            "amount": 6
+          },
+          {
+            "category": "inventory",
+            "id": 78,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

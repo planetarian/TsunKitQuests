@@ -1,1 +1,59 @@
-{"game_id":846,"wiki_id":"B91","category":"sortie","frequency":"onetime","updated":"2024-01-30T02:24:20.5766943Z","unverified":true,"prereqs":[218,815],"requirements":{"category":"sortie","map":"6-1","boss":true,"result":"B","comp":[{"class_id":[13,14],"position":1},{"class_id":[13,14],"amount":3}],"times":1},"rewards":{"resources":[300,300,300,0],"other":[{"category":"inventory","id":4,"amount":3},{"category":"inventory","id":59,"amount":1}]}}
+{
+  "game_id": 846,
+  "wiki_id": "B91",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.9213675Z",
+  "unverified": true,
+  "prereqs": [
+    218,
+    815
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "6-1",
+        "boss": true,
+        "result": "B",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "class_id": [
+          13,
+          14
+        ],
+        "position": 1
+      },
+      {
+        "class_id": [
+          13,
+          14
+        ],
+        "amount": 3
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      300,
+      300,
+      300,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 4,
+        "amount": 3
+      },
+      {
+        "category": "inventory",
+        "id": 59,
+        "amount": 1
+      }
+    ]
+  }
+}

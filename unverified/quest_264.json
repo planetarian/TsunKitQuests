@@ -1,1 +1,53 @@
-{"game_id":264,"wiki_id":"Bm6","category":"sortie","frequency":"monthly","updated":"2024-01-30T02:24:20.0015652Z","unverified":true,"prereqs":[221,239],"requirements":{"category":"sortie","map":"4-2","boss":true,"result":"S","comp":[{"class_id":11,"amount":2},{"class_id":2,"amount":2}],"times":1},"rewards":{"resources":[0,0,600,800],"other":[{"category":"inventory","id":4,"amount":2},{"category":"inventory","id":12,"amount":2}]}}
+{
+  "game_id": 264,
+  "wiki_id": "Bm6",
+  "category": "sortie",
+  "frequency": "monthly",
+  "updated": "2024-02-01T06:37:01.2219396Z",
+  "unverified": true,
+  "prereqs": [
+    221,
+    239
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "4-2",
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "class_id": 11,
+        "amount": 2
+      },
+      {
+        "class_id": 2,
+        "amount": 2
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      600,
+      800
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 4,
+        "amount": 2
+      },
+      {
+        "category": "inventory",
+        "id": 12,
+        "amount": 2
+      }
+    ]
+  }
+}

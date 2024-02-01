@@ -1,1 +1,70 @@
-{"game_id":940,"wiki_id":"B168","category":"sortie","frequency":"onetime","updated":"2024-02-01T05:25:19.350725Z","prereqs":[823,860],"requirements":{"category":"sortie","map":["1-4","2-5","5-3","5-5"],"boss":true,"result":"S","comp":[{"ship_id":663,"amount":1,"position":1,"criteria":{}},{"class_id":2,"amount":2,"criteria":{}},{"otherships":true,"amount":[0,3],"criteria":{}}],"times":1},"rewards":{"resources":[1945,2021,0,0],"other":[{"category":"furniture","id":533,"stars":0,"amount":1},{"category":"equipment","id":407,"stars":0,"amount":1}]}}
+{
+  "game_id": 940,
+  "wiki_id": "B168",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.7234563Z",
+  "prereqs": [
+    823,
+    860
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "1-4",
+          "2-5",
+          "5-3",
+          "5-5"
+        ],
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": 663,
+        "amount": 1,
+        "position": 1,
+        "criteria": {}
+      },
+      {
+        "class_id": 2,
+        "amount": 2,
+        "criteria": {}
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          3
+        ],
+        "criteria": {}
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      1945,
+      2021,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "furniture",
+        "id": 533,
+        "stars": 0,
+        "amount": 1
+      },
+      {
+        "category": "equipment",
+        "id": 407,
+        "stars": 0,
+        "amount": 1
+      }
+    ]
+  }
+}

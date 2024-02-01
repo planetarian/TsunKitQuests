@@ -1,1 +1,44 @@
-{"game_id":420,"wiki_id":"D19","category":"expedition","frequency":"onetime","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[287,410],"requirements":{"category":"expedition","expeds":[{"id":["26","35"],"times":1}]},"rewards":{"resources":[200,200,400,0],"other":[{"category":"inventory","id":4,"amount":2},{"category":"inventory","id":12,"amount":1}]}}
+{
+  "game_id": 420,
+  "wiki_id": "D19",
+  "category": "expedition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:01.4915984Z",
+  "unverified": true,
+  "prereqs": [
+    287,
+    410
+  ],
+  "requirements": {
+    "category": "expedition",
+    "expeds": [
+      {
+        "id": [
+          "26",
+          "35"
+        ],
+        "times": 1
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      200,
+      200,
+      400,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 4,
+        "amount": 2
+      },
+      {
+        "category": "inventory",
+        "id": 12,
+        "amount": 1
+      }
+    ]
+  }
+}

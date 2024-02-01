@@ -1,1 +1,89 @@
-{"game_id":342,"wiki_id":"Cq4","category":"exercise","frequency":"quarterly","updated":"2024-01-30T11:25:29.3685675Z","prereqs":[307,428],"requirements":{"category":"exercise","result":"A","daily":true,"comp":[{"class_id":[3,2,1],"amount":1},{"class_id":[2,1],"amount":3},{"otherships":true,"amount":[0,2]}],"times":4},"rewards":{"resources":[300,300,300,0],"other":[{"choices":[{"category":"inventory","id":3,"stars":0,"amount":4},{"category":"equipment","id":226,"stars":0,"amount":1}]},{"choices":[{"category":"equipment","id":25,"stars":0,"amount":2},{"category":"equipment","id":49,"stars":0,"amount":3},{"category":"inventory","id":1,"stars":0,"amount":4}]}]}}
+{
+  "game_id": 342,
+  "wiki_id": "Cq4",
+  "category": "exercise",
+  "frequency": "quarterly",
+  "updated": "2024-02-01T06:37:02.5267959Z",
+  "prereqs": [
+    307,
+    428
+  ],
+  "requirements": {
+    "category": "exercise",
+    "result": "A",
+    "daily": true,
+    "comp": [
+      {
+        "class_id": [
+          3,
+          2,
+          1
+        ],
+        "amount": 1
+      },
+      {
+        "class_id": [
+          2,
+          1
+        ],
+        "amount": 3
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
+      }
+    ],
+    "times": 4
+  },
+  "rewards": {
+    "resources": [
+      300,
+      300,
+      300,
+      0
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 4
+          },
+          {
+            "category": "equipment",
+            "id": 226,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 25,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "equipment",
+            "id": 49,
+            "stars": 0,
+            "amount": 3
+          },
+          {
+            "category": "inventory",
+            "id": 1,
+            "stars": 0,
+            "amount": 4
+          }
+        ]
+      }
+    ]
+  }
+}

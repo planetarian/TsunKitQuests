@@ -1,1 +1,45 @@
-{"game_id":137,"wiki_id":"A35","category":"composition","frequency":"onetime","updated":"2024-01-30T02:24:20.9891877Z","prereqs":[248],"requirements":{"category":"fleet","comp":[{"ship_id":[62,63,65],"amount":3},{"otherships":true,"amount":[0,3]}]},"rewards":{"resources":[0,0,300,0],"other":[{"category":"inventory","id":3,"amount":5}]}}
+{
+  "game_id": 137,
+  "wiki_id": "A35",
+  "category": "composition",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.245343Z",
+  "prereqs": [
+    248
+  ],
+  "requirements": {
+    "category": "fleet",
+    "comp": [
+      {
+        "ship_id": [
+          62,
+          63,
+          65
+        ],
+        "amount": 3
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      300,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 5
+      }
+    ]
+  }
+}

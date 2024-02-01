@@ -1,1 +1,28 @@
-{"game_id":202,"wiki_id":"B1","category":"sortie","frequency":"onetime","updated":"2024-01-30T05:14:14.052269Z","prereqs":[],"requirements":{"category":"simple","subcategory":"battle","times":1},"rewards":{"resources":[20,20,0,0],"other":[{"category":"inventory","id":1,"amount":1}]}}
+{
+  "game_id": 202,
+  "wiki_id": "B1",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.4116155Z",
+  "prereqs": [],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "battle",
+    "times": 1
+  },
+  "rewards": {
+    "resources": [
+      20,
+      20,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,1 +1,103 @@
-{"game_id":1114,"wiki_id":"F108","category":"factory","frequency":"onetime","updated":"2024-02-01T02:18:35.2243391Z","prereqs":[1112],"requirements":{"category":"conversion","secretary":{},"consume":[{"category":"equipment","id":7,"amount":3},{"category":"inventory","id":2,"amount":8}],"scrap":[{"category":"equipgroup","id":1,"amount":3},{"category":"equipgroup","id":2,"amount":3},{"category":"equipgroup","id":4,"amount":3}],"resources":[0,0,0,800]},"rewards":{"resources":[0,200,200,0],"other":[{"choices":[{"category":"inventory","id":75,"stars":0,"amount":1},{"category":"inventory","id":77,"stars":0,"amount":1},{"category":"inventory","id":3,"stars":0,"amount":5}]},{"choices":[{"category":"inventory","id":94,"stars":0,"amount":1},{"category":"inventory","id":92,"stars":0,"amount":1},{"category":"inventory","id":4,"stars":0,"amount":3}]}]}}
+{
+  "game_id": 1114,
+  "wiki_id": "F108",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.1378034Z",
+  "prereqs": [
+    1112
+  ],
+  "requirements": {
+    "category": "conversion",
+    "secretary": {},
+    "consume": [
+      {
+        "category": "equipment",
+        "id": 7,
+        "amount": 3
+      },
+      {
+        "category": "inventory",
+        "id": 2,
+        "amount": 8
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipgroup",
+        "id": 1,
+        "amount": 3
+      },
+      {
+        "category": "equipgroup",
+        "id": 2,
+        "amount": 3
+      },
+      {
+        "category": "equipgroup",
+        "id": 4,
+        "amount": 3
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      0,
+      800
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      200,
+      200,
+      0
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 75,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 77,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 5
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 94,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 92,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 3
+          }
+        ]
+      }
+    ]
+  }
+}

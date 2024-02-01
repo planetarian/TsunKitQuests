@@ -1,1 +1,75 @@
-{"game_id":1104,"wiki_id":"Fy6","category":"factory","frequency":"annual","updated":"2024-01-30T09:21:50.0522895Z","prereqs":[1103],"requirements":{"category":"conversion","secretary_id":[],"consume":[{"category":"equipment","id":46,"amount":2},{"category":"equipment","id":28,"amount":2},{"category":"inventory","id":3,"amount":100}],"scrap":[{"category":"equipment","id":106,"amount":3}],"resources":[100,0,0,0]},"rewards":{"resources":[100,0,0,0],"other":[{"category":"equipment","id":210,"stars":0,"amount":1},{"choices":[{"category":"inventory","id":3,"stars":0,"amount":5},{"category":"inventory","id":4,"stars":0,"amount":2}]}]}}
+{
+  "game_id": 1104,
+  "wiki_id": "Fy6",
+  "category": "factory",
+  "frequency": "annual",
+  "updated": "2024-02-01T06:37:02.1092191Z",
+  "prereqs": [
+    1103
+  ],
+  "requirements": {
+    "category": "conversion",
+    "consume": [
+      {
+        "category": "equipment",
+        "id": 46,
+        "amount": 2
+      },
+      {
+        "category": "equipment",
+        "id": 28,
+        "amount": 2
+      },
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 100
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipment",
+        "id": 106,
+        "amount": 3
+      }
+    ],
+    "resources": [
+      100,
+      0,
+      0,
+      0
+    ]
+  },
+  "rewards": {
+    "resources": [
+      100,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 210,
+        "stars": 0,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 5
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,1 +1,85 @@
-{"game_id":854,"wiki_id":"Bq2","category":"sortie","frequency":"quarterly","updated":"2023-12-03T00:00:00","unverified":true,"prereqs":[220,846],"requirements":{"category":"and","list":[{"category":"sortie","map":"2-4","boss":true,"result":"A","times":1},{"category":"sortie","map":"6-1","boss":true,"result":"A","times":1},{"category":"sortie","map":"6-3","boss":true,"result":"A","times":1},{"category":"sortie","map":"6-4","boss":true,"result":"S","times":1}]},"rewards":{"resources":[0,2000,0,0],"other":[{"category":"inventory","id":4,"amount":4},{"category":"inventory","id":59,"amount":3},{"category":"senka","amount":350}]}}
+{
+  "game_id": 854,
+  "wiki_id": "Bq2",
+  "category": "sortie",
+  "frequency": "quarterly",
+  "updated": "2024-02-01T06:37:01.9419252Z",
+  "unverified": true,
+  "prereqs": [
+    220,
+    846
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "sortie": [
+          {
+            "map": "2-4",
+            "boss": true,
+            "result": "A",
+            "times": 1
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "sortie": [
+          {
+            "map": "6-1",
+            "boss": true,
+            "result": "A",
+            "times": 1
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "sortie": [
+          {
+            "map": "6-3",
+            "boss": true,
+            "result": "A",
+            "times": 1
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "sortie": [
+          {
+            "map": "6-4",
+            "boss": true,
+            "result": "S",
+            "times": 1
+          }
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      2000,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 4,
+        "amount": 4
+      },
+      {
+        "category": "inventory",
+        "id": 59,
+        "amount": 3
+      },
+      {
+        "category": "senka",
+        "amount": 350
+      }
+    ]
+  }
+}

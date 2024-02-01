@@ -1,1 +1,39 @@
-{"game_id":314,"wiki_id":"Cs2","category":"exercise","frequency":"seasonal","updated":"2024-01-30T11:28:02.838185Z","prereqs":[206,303],"requirements":{"category":"exercise","result":"B","daily":true,"times":8},"rewards":{"resources":[300,1000,0,0],"other":[{"category":"inventory","id":1,"stars":0,"amount":3},{"category":"inventory","id":54,"stars":0,"amount":1}]}}
+{
+  "game_id": 314,
+  "wiki_id": "Cs2",
+  "category": "exercise",
+  "frequency": "seasonal",
+  "updated": "2024-02-01T06:37:02.5243196Z",
+  "prereqs": [
+    206,
+    303
+  ],
+  "requirements": {
+    "category": "exercise",
+    "result": "B",
+    "daily": true,
+    "times": 8
+  },
+  "rewards": {
+    "resources": [
+      300,
+      1000,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "stars": 0,
+        "amount": 3
+      },
+      {
+        "category": "inventory",
+        "id": 54,
+        "stars": 0,
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"game_id":204,"wiki_id":"B4","category":"sortie","frequency":"onetime","updated":"2024-01-30T05:16:04.0872735Z","prereqs":[203],"requirements":{"category":"sortie","map":"1-2","boss":true,"times":1},"rewards":{"resources":[40,40,0,0],"other":[{"category":"inventory","id":1,"amount":1}]}}
+{
+  "game_id": 204,
+  "wiki_id": "B4",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-01T06:37:02.4161494Z",
+  "prereqs": [
+    203
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "1-2",
+        "boss": true,
+        "times": 1
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      40,
+      40,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 1
+      }
+    ]
+  }
+}
