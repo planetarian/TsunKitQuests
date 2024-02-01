@@ -3,7 +3,7 @@
   "wiki_id": "B163",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T06:37:02.6494501Z",
+  "updated": "2024-02-01T06:53:25.9930472Z",
   "prereqs": [
     298,
     299
@@ -15,11 +15,15 @@
         "map": [
           "2-2",
           "3-2",
-          "7-3P",
-          "1-6"
+          "7-3P"
         ],
         "boss": true,
         "result": "S",
+        "times": 1
+      },
+      {
+        "map": "1-6",
+        "node": "N",
         "times": 1
       }
     ],
