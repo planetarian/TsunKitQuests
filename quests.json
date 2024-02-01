@@ -7459,7 +7459,7 @@
     "wiki_id": "B32",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T06:37:02.5163084Z",
+    "updated": "2024-02-01T06:42:52.5382338Z",
     "prereqs": [
       259
     ],
@@ -7492,6 +7492,7 @@
           ]
         },
         {
+          "otherships": true,
           "amount": 3
         }
       ],
