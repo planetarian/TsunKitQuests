@@ -12945,9 +12945,10 @@
     "wiki_id": "Cy9",
     "category": "exercise",
     "frequency": "annual",
-    "updated": "2024-02-01T07:32:47.3565572Z",
+    "updated": "2024-02-02T23:15:05.7214123Z",
     "prereqs": [
-      343
+      343,
+      610
     ],
     "requirements": {
       "category": "exercise",
@@ -17668,6 +17669,47 @@
         {
           "category": "equipment",
           "id": 169,
+          "amount": 1
+        }
+      ]
+    }
+  },
+  "644": {
+    "game_id": 644,
+    "wiki_id": "F40",
+    "category": "factory",
+    "frequency": "onetime",
+    "updated": "2024-02-01T07:32:47.280673Z",
+    "unverified": true,
+    "prereqs": [
+      643
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "consume": [
+        {
+          "category": "equipment",
+          "id": 169,
+          "amount": 1
+        },
+        {
+          "category": "equipment",
+          "id": 17,
+          "amount": 2
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        0,
+        0,
+        300
+      ],
+      "other": [
+        {
+          "category": "equipment",
+          "id": 180,
           "amount": 1
         }
       ]
@@ -23667,9 +23709,10 @@
     "wiki_id": "Bq12",
     "category": "sortie",
     "frequency": "quarterly",
-    "updated": "2024-02-02T22:33:56.0378507Z",
+    "updated": "2024-02-02T23:15:03.4795131Z",
     "unverified": true,
     "prereqs": [
+      247,
       284
     ],
     "requirements": {
@@ -25014,10 +25057,11 @@
     "wiki_id": "Bq3",
     "category": "sortie",
     "frequency": "quarterly",
-    "updated": "2024-02-01T07:32:47.2016463Z",
+    "updated": "2024-02-02T23:15:03.6232433Z",
     "unverified": true,
     "prereqs": [
-      217
+      217,
+      617
     ],
     "requirements": {
       "category": "sortie",
@@ -25064,9 +25108,10 @@
     "wiki_id": "Bq4",
     "category": "sortie",
     "frequency": "quarterly",
-    "updated": "2024-02-02T22:33:56.200962Z",
+    "updated": "2024-02-02T23:15:03.638284Z",
     "unverified": true,
     "prereqs": [
+      846,
       861
     ],
     "requirements": {
@@ -25663,9 +25708,11 @@
     "wiki_id": "Bq5",
     "category": "sortie",
     "frequency": "quarterly",
-    "updated": "2024-02-02T22:33:56.2857818Z",
+    "updated": "2024-02-02T23:15:03.7234233Z",
     "unverified": true,
     "prereqs": [
+      215,
+      207,
       411
     ],
     "requirements": {
@@ -27318,9 +27365,10 @@
     "wiki_id": "Bq9",
     "category": "sortie",
     "frequency": "quarterly",
-    "updated": "2024-02-02T22:33:56.4928914Z",
+    "updated": "2024-02-02T23:15:03.9352666Z",
     "unverified": true,
     "prereqs": [
+      206,
       411
     ],
     "requirements": {
@@ -33202,6 +33250,96 @@
       ]
     }
   },
+  "993": {
+    "game_id": 993,
+    "wiki_id": "B193",
+    "category": "sortie",
+    "frequency": "onetime",
+    "updated": "2024-02-01T08:21:45.7495946Z",
+    "prereqs": [
+      992,
+      933
+    ],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "2-5",
+            "7-4P",
+            "5-3",
+            "5-4",
+            "6-4"
+          ],
+          "boss": true,
+          "result": "S",
+          "times": 1
+        }
+      ],
+      "comp": [
+        {
+          "ship_id": 951,
+          "amount": 1,
+          "position": 1
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            5
+          ]
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        1945,
+        410,
+        2023,
+        707
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 57,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 505,
+              "stars": 2,
+              "amount": 1
+            },
+            {
+              "category": "equipment",
+              "id": 43,
+              "stars": 0,
+              "amount": 3
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 266,
+              "stars": 10,
+              "amount": 1
+            },
+            {
+              "category": "equipment",
+              "id": 412,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
   "995": {
     "game_id": 995,
     "wiki_id": "B189",
@@ -35817,6 +35955,103 @@
               "id": 94,
               "stars": 0,
               "amount": 4
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "1131": {
+    "game_id": 1131,
+    "wiki_id": "F119",
+    "category": "factory",
+    "frequency": "onetime",
+    "updated": "2024-02-01T07:32:47.3402482Z",
+    "prereqs": [
+      992
+    ],
+    "requirements": {
+      "category": "conversion",
+      "consume": [
+        {
+          "category": "equipment",
+          "id": 42,
+          "amount": 1
+        }
+      ],
+      "scrap": [
+        {
+          "category": "equipgroup",
+          "id": 1,
+          "amount": 18
+        },
+        {
+          "category": "equipgroup",
+          "id": 2,
+          "amount": 12
+        },
+        {
+          "category": "equipgroup",
+          "id": 15,
+          "amount": 6
+        }
+      ],
+      "resources": [
+        0,
+        2500,
+        3000,
+        0
+      ]
+    },
+    "rewards": {
+      "resources": [
+        250,
+        0,
+        0,
+        0
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 63,
+              "stars": 3,
+              "amount": 3
+            },
+            {
+              "category": "equipment",
+              "id": 91,
+              "stars": 2,
+              "amount": 2
+            },
+            {
+              "category": "inventory",
+              "id": 75,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 310,
+              "stars": 3,
+              "amount": 1
+            },
+            {
+              "category": "equipment",
+              "id": 139,
+              "stars": 2,
+              "amount": 1
+            },
+            {
+              "category": "equipment",
+              "id": 90,
+              "stars": 0,
+              "amount": 2
             }
           ]
         }

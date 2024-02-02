@@ -3,9 +3,10 @@
   "wiki_id": "Cy9",
   "category": "exercise",
   "frequency": "annual",
-  "updated": "2024-02-01T07:32:47.3565572Z",
+  "updated": "2024-02-02T23:15:05.7214123Z",
   "prereqs": [
-    343
+    343,
+    610
   ],
   "requirements": {
     "category": "exercise",

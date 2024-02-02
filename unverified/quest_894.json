@@ -3,9 +3,10 @@
   "wiki_id": "Bq9",
   "category": "sortie",
   "frequency": "quarterly",
-  "updated": "2024-02-02T22:33:56.4928914Z",
+  "updated": "2024-02-02T23:15:03.9352666Z",
   "unverified": true,
   "prereqs": [
+    206,
     411
   ],
   "requirements": {
