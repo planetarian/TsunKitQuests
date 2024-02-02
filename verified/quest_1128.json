@@ -3,8 +3,10 @@
   "wiki_id": "F116",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.3036769Z",
-  "prereqs": [],
+  "updated": "2024-02-02T22:45:11.9068479Z",
+  "prereqs": [
+    292
+  ],
   "requirements": {
     "category": "conversion",
     "secretary": {

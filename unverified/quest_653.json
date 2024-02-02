@@ -3,9 +3,12 @@
   "wiki_id": "Fq9",
   "category": "factory",
   "frequency": "quarterly",
-  "updated": "2024-02-01T07:32:47.235497Z",
+  "updated": "2024-02-02T22:45:10.0805615Z",
   "unverified": true,
-  "prereqs": [],
+  "prereqs": [
+    208,
+    607
+  ],
   "requirements": {
     "category": "equipexchange",
     "consume": [

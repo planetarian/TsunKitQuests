@@ -18104,6 +18104,93 @@
       ]
     }
   },
+  "653": {
+    "game_id": 653,
+    "wiki_id": "Fq9",
+    "category": "factory",
+    "frequency": "quarterly",
+    "updated": "2024-02-02T22:45:10.0805615Z",
+    "unverified": true,
+    "prereqs": [
+      208,
+      607
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "consume": [
+        {
+          "category": "inventory",
+          "id": 44,
+          "amount": 6000
+        },
+        {
+          "category": "equipment",
+          "id": 7,
+          "amount": 3
+        },
+        {
+          "category": "equipment",
+          "id": 19,
+          "amount": 3
+        }
+      ],
+      "scrap": [
+        {
+          "category": "equipment",
+          "id": 4,
+          "amount": 6
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        0,
+        600,
+        600
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 68,
+              "amount": 1
+            },
+            {
+              "category": "equipment",
+              "id": 20,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 168,
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 44,
+              "amount": 3
+            },
+            {
+              "category": "equipment",
+              "id": 51,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 346,
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
   "654": {
     "game_id": 654,
     "wiki_id": "Fy2",
@@ -33964,8 +34051,9 @@
     "wiki_id": "F96",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.3243533Z",
+    "updated": "2024-02-02T22:45:11.6292789Z",
     "prereqs": [
+      634,
       635
     ],
     "requirements": {
@@ -35521,6 +35609,139 @@
         {
           "category": "equipment",
           "id": 501,
+          "stars": 0,
+          "amount": 1
+        }
+      ]
+    }
+  },
+  "1128": {
+    "game_id": 1128,
+    "wiki_id": "F116",
+    "category": "factory",
+    "frequency": "onetime",
+    "updated": "2024-02-02T22:45:11.9068479Z",
+    "prereqs": [
+      292
+    ],
+    "requirements": {
+      "category": "conversion",
+      "secretary": {
+        "ship_id": 593
+      },
+      "slots": [
+        {
+          "slot": 1,
+          "id": 502,
+          "stars": 3
+        }
+      ],
+      "consume": [
+        {
+          "category": "equipment",
+          "id": 7,
+          "amount": 5
+        },
+        {
+          "category": "inventory",
+          "id": 75,
+          "amount": 2
+        },
+        {
+          "category": "inventory",
+          "id": 3,
+          "amount": 48
+        }
+      ],
+      "resources": [
+        0,
+        960,
+        0,
+        800
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "other": [
+        {
+          "category": "equipment",
+          "id": 503,
+          "stars": 0,
+          "amount": 1
+        }
+      ]
+    }
+  },
+  "1129": {
+    "game_id": 1129,
+    "wiki_id": "F117",
+    "category": "factory",
+    "frequency": "onetime",
+    "updated": "2024-02-02T22:45:11.9234706Z",
+    "prereqs": [
+      658,
+      1102
+    ],
+    "requirements": {
+      "category": "conversion",
+      "secretary": {
+        "class_id": [
+          13,
+          14
+        ]
+      },
+      "slots": [
+        {
+          "slot": 1,
+          "id": 213,
+          "stars": 10
+        }
+      ],
+      "consume": [
+        {
+          "category": "equipment",
+          "id": 125,
+          "amount": 4
+        },
+        {
+          "category": "equipment",
+          "id": 129,
+          "amount": 3
+        },
+        {
+          "category": "inventory",
+          "id": 94,
+          "amount": 2
+        },
+        {
+          "category": "inventory",
+          "id": 3,
+          "amount": 36
+        }
+      ],
+      "resources": [
+        0,
+        800,
+        0,
+        0
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "other": [
+        {
+          "category": "equipment",
+          "id": 214,
           "stars": 0,
           "amount": 1
         }
