@@ -3,9 +3,13 @@
   "wiki_id": "Cq2",
   "category": "exercise",
   "frequency": "quarterly",
-  "updated": "2024-02-01T07:32:47.2168571Z",
+  "updated": "2024-02-02T22:33:54.0293112Z",
   "unverified": true,
-  "prereqs": [],
+  "prereqs": [
+    120,
+    254,
+    201
+  ],
   "requirements": {
     "category": "exercise",
     "victory": true,

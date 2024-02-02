@@ -3,9 +3,11 @@
   "wiki_id": "Cm2",
   "category": "exercise",
   "frequency": "monthly",
-  "updated": "2024-02-01T07:32:47.2665679Z",
+  "updated": "2024-02-02T22:33:53.8132047Z",
   "unverified": true,
   "prereqs": [
+    618,
+    675,
     676
   ],
   "requirements": {

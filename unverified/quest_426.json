@@ -3,10 +3,11 @@
   "wiki_id": "Dq1",
   "category": "expedition",
   "frequency": "quarterly",
-  "updated": "2024-02-01T07:32:47.2954114Z",
+  "updated": "2024-02-02T22:33:54.3156919Z",
   "unverified": true,
   "prereqs": [
-    810
+    810,
+    617
   ],
   "requirements": {
     "category": "expedition",

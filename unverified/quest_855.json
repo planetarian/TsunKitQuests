@@ -3,9 +3,10 @@
   "wiki_id": "B98",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2366159Z",
+  "updated": "2024-02-02T22:33:56.1314499Z",
   "unverified": true,
   "prereqs": [
+    208,
     216
   ],
   "requirements": {

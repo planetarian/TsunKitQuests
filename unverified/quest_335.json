@@ -3,9 +3,11 @@
   "wiki_id": "C35",
   "category": "exercise",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2101551Z",
+  "updated": "2024-02-02T22:33:54.0061871Z",
   "unverified": true,
-  "prereqs": [],
+  "prereqs": [
+    320
+  ],
   "requirements": {
     "category": "exercise",
     "victory": true,

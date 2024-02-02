@@ -3,9 +3,10 @@
   "wiki_id": "F71",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2219344Z",
+  "updated": "2024-02-02T22:33:55.3721085Z",
   "unverified": true,
   "prereqs": [
+    604,
     605
   ],
   "requirements": {

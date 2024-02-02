@@ -655,9 +655,9 @@
     "wiki_id": "A9",
     "category": "composition",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.3193318Z",
+    "updated": "2024-02-02T22:33:57.1845037Z",
     "prereqs": [
-      104
+      120
     ],
     "requirements": {
       "category": "fleet",
@@ -4675,8 +4675,10 @@
     "wiki_id": "A94",
     "category": "composition",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.3496692Z",
-    "prereqs": [],
+    "updated": "2024-02-02T22:33:57.8190821Z",
+    "prereqs": [
+      120
+    ],
     "requirements": {
       "category": "fleet",
       "comp": [
@@ -4781,8 +4783,11 @@
     "wiki_id": "B1",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.3644098Z",
-    "prereqs": [],
+    "updated": "2024-02-02T22:33:57.8296158Z",
+    "prereqs": [
+      838,
+      216
+    ],
     "requirements": {
       "category": "simple",
       "subcategory": "battle",
@@ -6046,9 +6051,10 @@
     "wiki_id": "B19",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.3507326Z",
+    "updated": "2024-02-02T22:33:57.9788515Z",
     "prereqs": [
-      128
+      838,
+      216
     ],
     "requirements": {
       "category": "sortie",
@@ -6102,9 +6108,11 @@
     "wiki_id": "B135",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.1852532Z",
+    "updated": "2024-02-02T22:33:53.1197578Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      206
+    ],
     "requirements": {
       "category": "sortie",
       "sortie": [
@@ -6251,9 +6259,12 @@
     "wiki_id": "B138",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2508267Z",
+    "updated": "2024-02-02T22:33:53.143996Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      110,
+      235
+    ],
     "requirements": {
       "category": "or",
       "list": [
@@ -7534,11 +7545,11 @@
     "wiki_id": "Bw10",
     "category": "sortie",
     "frequency": "weekly",
-    "updated": "2024-02-01T07:32:47.2734625Z",
+    "updated": "2024-02-02T22:33:53.2476844Z",
     "unverified": true,
     "prereqs": [
-      146,
-      221
+      221,
+      618
     ],
     "requirements": {
       "category": "sortie",
@@ -8496,11 +8507,10 @@
     "wiki_id": "B47",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2614825Z",
+    "updated": "2024-02-02T22:33:53.4230875Z",
     "unverified": true,
     "prereqs": [
-      157,
-      309
+      157
     ],
     "requirements": {
       "category": "sortie",
@@ -8555,10 +8565,9 @@
     "wiki_id": "Bm8",
     "category": "sortie",
     "frequency": "monthly",
-    "updated": "2024-02-01T07:32:47.1606777Z",
+    "updated": "2024-02-02T22:33:53.4362639Z",
     "unverified": true,
     "prereqs": [
-      265,
       311
     ],
     "requirements": {
@@ -9066,10 +9075,9 @@
     "wiki_id": "B48",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.1703707Z",
+    "updated": "2024-02-02T22:33:53.4979257Z",
     "unverified": true,
     "prereqs": [
-      201,
       205,
       216
     ],
@@ -9266,11 +9274,10 @@
     "wiki_id": "B128",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2096588Z",
+    "updated": "2024-02-02T22:33:53.5525008Z",
     "unverified": true,
     "prereqs": [
       287,
-      673,
       674
     ],
     "requirements": {
@@ -9411,10 +9418,11 @@
     "wiki_id": "B133",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2342227Z",
+    "updated": "2024-02-02T22:33:53.5757404Z",
     "unverified": true,
     "prereqs": [
-      290
+      290,
+      303
     ],
     "requirements": {
       "category": "sortie",
@@ -9885,9 +9893,10 @@
     "wiki_id": "B125",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.284303Z",
+    "updated": "2024-02-02T22:33:53.6423999Z",
     "unverified": true,
     "prereqs": [
+      206,
       303
     ],
     "requirements": {
@@ -10386,9 +10395,12 @@
     "wiki_id": "Cs3",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2755705Z",
+    "updated": "2024-02-02T22:33:53.7733946Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      206,
+      303
+    ],
     "requirements": {
       "category": "exercise",
       "victory": true,
@@ -10468,9 +10480,10 @@
     "wiki_id": "C15",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.1977922Z",
+    "updated": "2024-02-02T22:33:53.7989483Z",
     "unverified": true,
     "prereqs": [
+      206,
       673
     ],
     "requirements": {
@@ -10562,9 +10575,11 @@
     "wiki_id": "Cm2",
     "category": "exercise",
     "frequency": "monthly",
-    "updated": "2024-02-01T07:32:47.2665679Z",
+    "updated": "2024-02-02T22:33:53.8132047Z",
     "unverified": true,
     "prereqs": [
+      618,
+      675,
       676
     ],
     "requirements": {
@@ -10686,9 +10701,11 @@
     "wiki_id": "C18",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2564383Z",
+    "updated": "2024-02-02T22:33:53.8353754Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      216
+    ],
     "requirements": {
       "category": "exercise",
       "victory": true,
@@ -10740,9 +10757,10 @@
     "wiki_id": "C20",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.1737686Z",
+    "updated": "2024-02-02T22:33:53.84861Z",
     "unverified": true,
     "prereqs": [
+      301,
       682
     ],
     "requirements": {
@@ -10795,10 +10813,11 @@
     "wiki_id": "C21",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2382534Z",
+    "updated": "2024-02-02T22:33:53.8619814Z",
     "unverified": true,
     "prereqs": [
-      193
+      193,
+      317
     ],
     "requirements": {
       "category": "exercise",
@@ -10863,9 +10882,10 @@
     "wiki_id": "C22",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2716926Z",
+    "updated": "2024-02-02T22:33:53.8768614Z",
     "unverified": true,
     "prereqs": [
+      232,
       247
     ],
     "requirements": {
@@ -11011,10 +11031,11 @@
     "wiki_id": "Cs5",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2334798Z",
+    "updated": "2024-02-02T22:33:53.9004834Z",
     "unverified": true,
     "prereqs": [
-      303
+      206,
+      313
     ],
     "requirements": {
       "category": "exercise",
@@ -11048,9 +11069,10 @@
     "wiki_id": "C25",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2943758Z",
+    "updated": "2024-02-02T22:33:53.9133651Z",
     "unverified": true,
     "prereqs": [
+      104,
       210
     ],
     "requirements": {
@@ -11105,10 +11127,11 @@
     "wiki_id": "C27",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2048024Z",
+    "updated": "2024-02-02T22:33:53.9268781Z",
     "unverified": true,
     "prereqs": [
-      195
+      195,
+      327
     ],
     "requirements": {
       "category": "exercise",
@@ -11157,9 +11180,12 @@
     "wiki_id": "Cq1",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2069938Z",
+    "updated": "2024-02-02T22:33:53.9418778Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      209,
+      201
+    ],
     "requirements": {
       "category": "exercise",
       "victory": true,
@@ -11293,9 +11319,12 @@
     "wiki_id": "C32",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2093863Z",
+    "updated": "2024-02-02T22:33:53.9688946Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      301,
+      206
+    ],
     "requirements": {
       "category": "exercise",
       "victory": true,
@@ -11372,9 +11401,11 @@
     "wiki_id": "C33",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.265248Z",
+    "updated": "2024-02-02T22:33:53.9839284Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      209
+    ],
     "requirements": {
       "category": "exercise",
       "victory": true,
@@ -11512,9 +11543,11 @@
     "wiki_id": "C35",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2101551Z",
+    "updated": "2024-02-02T22:33:54.0061871Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      320
+    ],
     "requirements": {
       "category": "exercise",
       "victory": true,
@@ -11630,9 +11663,13 @@
     "wiki_id": "Cq2",
     "category": "exercise",
     "frequency": "quarterly",
-    "updated": "2024-02-01T07:32:47.2168571Z",
+    "updated": "2024-02-02T22:33:54.0293112Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      120,
+      254,
+      201
+    ],
     "requirements": {
       "category": "exercise",
       "victory": true,
@@ -11690,9 +11727,12 @@
     "wiki_id": "C39",
     "category": "exercise",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2085843Z",
+    "updated": "2024-02-02T22:33:54.0434225Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      218,
+      320
+    ],
     "requirements": {
       "category": "exercise",
       "victory": true,
@@ -14306,9 +14346,10 @@
     "wiki_id": "D20",
     "category": "expedition",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2796863Z",
+    "updated": "2024-02-02T22:33:54.2713086Z",
     "unverified": true,
     "prereqs": [
+      402,
       406
     ],
     "requirements": {
@@ -14485,10 +14526,11 @@
     "wiki_id": "Dq1",
     "category": "expedition",
     "frequency": "quarterly",
-    "updated": "2024-02-01T07:32:47.2954114Z",
+    "updated": "2024-02-02T22:33:54.3156919Z",
     "unverified": true,
     "prereqs": [
-      810
+      810,
+      617
     ],
     "requirements": {
       "category": "expedition",
@@ -14920,9 +14962,11 @@
     "wiki_id": "Dy1",
     "category": "expedition",
     "frequency": "annual",
-    "updated": "2024-02-01T07:32:47.2693052Z",
+    "updated": "2024-02-02T22:33:54.4054609Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      425
+    ],
     "requirements": {
       "category": "expedition",
       "expeds": [
@@ -16634,10 +16678,11 @@
     "wiki_id": "F89",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2828839Z",
+    "updated": "2024-02-02T22:33:54.6916732Z",
     "unverified": true,
     "prereqs": [
-      605
+      605,
+      612
     ],
     "requirements": {
       "category": "conversion",
@@ -16912,9 +16957,10 @@
     "wiki_id": "F24",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2138966Z",
+    "updated": "2024-02-02T22:33:54.7582378Z",
     "unverified": true,
     "prereqs": [
+      164,
       626
     ],
     "requirements": {
@@ -16953,10 +16999,11 @@
     "wiki_id": "Fm2",
     "category": "factory",
     "frequency": "monthly",
-    "updated": "2024-02-01T07:32:47.2043306Z",
+    "updated": "2024-02-02T22:33:54.7750534Z",
     "unverified": true,
     "prereqs": [
       265,
+      264,
       627
     ],
     "requirements": {
@@ -17226,9 +17273,10 @@
     "wiki_id": "F31",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2671305Z",
+    "updated": "2024-02-02T22:33:54.8580823Z",
     "unverified": true,
     "prereqs": [
+      215,
       216
     ],
     "requirements": {
@@ -17333,9 +17381,10 @@
     "wiki_id": "Fq1",
     "category": "factory",
     "frequency": "quarterly",
-    "updated": "2024-02-01T07:32:47.2723933Z",
+    "updated": "2024-02-02T22:33:54.8954844Z",
     "unverified": true,
     "prereqs": [
+      209,
       638
     ],
     "requirements": {
@@ -17619,47 +17668,6 @@
         {
           "category": "equipment",
           "id": 169,
-          "amount": 1
-        }
-      ]
-    }
-  },
-  "644": {
-    "game_id": 644,
-    "wiki_id": "F40",
-    "category": "factory",
-    "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.280673Z",
-    "unverified": true,
-    "prereqs": [
-      643
-    ],
-    "requirements": {
-      "category": "equipexchange",
-      "consume": [
-        {
-          "category": "equipment",
-          "id": 169,
-          "amount": 1
-        },
-        {
-          "category": "equipment",
-          "id": 17,
-          "amount": 2
-        }
-      ]
-    },
-    "rewards": {
-      "resources": [
-        0,
-        0,
-        0,
-        300
-      ],
-      "other": [
-        {
-          "category": "equipment",
-          "id": 180,
           "amount": 1
         }
       ]
@@ -18046,9 +18054,10 @@
     "wiki_id": "F48",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2436364Z",
+    "updated": "2024-02-02T22:33:55.0584441Z",
     "unverified": true,
     "prereqs": [
+      303,
       604,
       648
     ],
@@ -18091,90 +18100,6 @@
           "category": "inventory",
           "id": 52,
           "amount": 1
-        }
-      ]
-    }
-  },
-  "653": {
-    "game_id": 653,
-    "wiki_id": "Fq9",
-    "category": "factory",
-    "frequency": "quarterly",
-    "updated": "2024-02-01T07:32:47.235497Z",
-    "unverified": true,
-    "prereqs": [],
-    "requirements": {
-      "category": "equipexchange",
-      "consume": [
-        {
-          "category": "inventory",
-          "id": 44,
-          "amount": 6000
-        },
-        {
-          "category": "equipment",
-          "id": 7,
-          "amount": 3
-        },
-        {
-          "category": "equipment",
-          "id": 19,
-          "amount": 3
-        }
-      ],
-      "scrap": [
-        {
-          "category": "equipment",
-          "id": 4,
-          "amount": 6
-        }
-      ]
-    },
-    "rewards": {
-      "resources": [
-        0,
-        0,
-        600,
-        600
-      ],
-      "other": [
-        {
-          "choices": [
-            {
-              "category": "equipment",
-              "id": 68,
-              "amount": 1
-            },
-            {
-              "category": "equipment",
-              "id": 20,
-              "amount": 2
-            },
-            {
-              "category": "equipment",
-              "id": 168,
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "choices": [
-            {
-              "category": "equipment",
-              "id": 44,
-              "amount": 3
-            },
-            {
-              "category": "equipment",
-              "id": 51,
-              "amount": 2
-            },
-            {
-              "category": "equipment",
-              "id": 346,
-              "amount": 1
-            }
-          ]
         }
       ]
     }
@@ -19022,9 +18947,11 @@
     "wiki_id": "F60",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2929746Z",
+    "updated": "2024-02-02T22:33:55.2069657Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      617
+    ],
     "requirements": {
       "category": "equipexchange",
       "consume": [
@@ -19285,9 +19212,11 @@
     "wiki_id": "F64",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2810004Z",
+    "updated": "2024-02-02T22:33:55.2541498Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      109
+    ],
     "requirements": {
       "category": "conversion",
       "slots": [
@@ -19426,9 +19355,10 @@
     "wiki_id": "Fq4",
     "category": "factory",
     "frequency": "quarterly",
-    "updated": "2024-02-01T07:32:47.207253Z",
+    "updated": "2024-02-02T22:33:55.2931663Z",
     "unverified": true,
     "prereqs": [
+      617,
       674
     ],
     "requirements": {
@@ -19492,9 +19422,10 @@
     "wiki_id": "Fw3",
     "category": "factory",
     "frequency": "weekly",
-    "updated": "2024-02-01T07:32:47.2541274Z",
+    "updated": "2024-02-02T22:33:55.3125546Z",
     "unverified": true,
     "prereqs": [
+      612,
       674
     ],
     "requirements": {
@@ -19549,9 +19480,10 @@
     "wiki_id": "Fw4",
     "category": "factory",
     "frequency": "weekly",
-    "updated": "2024-02-01T07:32:47.2622475Z",
+    "updated": "2024-02-02T22:33:55.3273576Z",
     "unverified": true,
     "prereqs": [
+      208,
       674
     ],
     "requirements": {
@@ -19601,12 +19533,11 @@
     "wiki_id": "Fq5",
     "category": "factory",
     "frequency": "quarterly",
-    "updated": "2024-02-01T07:32:47.2779552Z",
+    "updated": "2024-02-02T22:33:55.3571888Z",
     "unverified": true,
     "prereqs": [
-      216,
-      676,
-      702
+      209,
+      216
     ],
     "requirements": {
       "category": "and",
@@ -19682,9 +19613,10 @@
     "wiki_id": "F71",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2219344Z",
+    "updated": "2024-02-02T22:33:55.3721085Z",
     "unverified": true,
     "prereqs": [
+      604,
       605
     ],
     "requirements": {
@@ -19900,9 +19832,12 @@
     "wiki_id": "F73",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.1876963Z",
+    "updated": "2024-02-02T22:33:55.4033008Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      206,
+      604
+    ],
     "requirements": {
       "category": "equipexchange",
       "scrap": [
@@ -20121,9 +20056,10 @@
     "wiki_id": "F76",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.1866291Z",
+    "updated": "2024-02-02T22:33:55.4403753Z",
     "unverified": true,
     "prereqs": [
+      155,
       682
     ],
     "requirements": {
@@ -20276,9 +20212,10 @@
     "wiki_id": "F78",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2393281Z",
+    "updated": "2024-02-02T22:33:55.4668989Z",
     "unverified": true,
     "prereqs": [
+      607,
       685
     ],
     "requirements": {
@@ -20348,9 +20285,10 @@
     "wiki_id": "Fq8",
     "category": "factory",
     "frequency": "quarterly",
-    "updated": "2024-02-01T07:32:47.2633103Z",
+    "updated": "2024-02-02T22:33:55.4842606Z",
     "unverified": true,
     "prereqs": [
+      117,
       674
     ],
     "requirements": {
@@ -20588,10 +20526,11 @@
     "wiki_id": "F82",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2966535Z",
+    "updated": "2024-02-02T22:33:55.5212974Z",
     "unverified": true,
     "prereqs": [
-      303
+      303,
+      604
     ],
     "requirements": {
       "category": "equipexchange",
@@ -20663,9 +20602,12 @@
     "wiki_id": "F83",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2012611Z",
+    "updated": "2024-02-02T22:33:55.5354813Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      218,
+      604
+    ],
     "requirements": {
       "category": "equipexchange",
       "scrap": [
@@ -21700,10 +21642,11 @@
     "wiki_id": "B58",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2864917Z",
+    "updated": "2024-02-02T22:33:55.6634092Z",
     "unverified": true,
     "prereqs": [
       132,
+      148,
       303
     ],
     "requirements": {
@@ -22291,11 +22234,12 @@
     "wiki_id": "B67",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.1931509Z",
+    "updated": "2024-02-02T22:33:55.7698971Z",
     "unverified": true,
     "prereqs": [
       105,
-      206
+      206,
+      217
     ],
     "requirements": {
       "category": "and",
@@ -22667,10 +22611,11 @@
     "wiki_id": "B75",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2275427Z",
+    "updated": "2024-02-02T22:33:55.8404412Z",
     "unverified": true,
     "prereqs": [
-      817
+      817,
+      352
     ],
     "requirements": {
       "category": "sortie",
@@ -22723,9 +22668,10 @@
     "wiki_id": "B76",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2603728Z",
+    "updated": "2024-02-02T22:33:55.8536829Z",
     "unverified": true,
     "prereqs": [
+      107,
       209
     ],
     "requirements": {
@@ -22779,9 +22725,10 @@
     "wiki_id": "B77",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2080906Z",
+    "updated": "2024-02-02T22:33:55.8658105Z",
     "unverified": true,
     "prereqs": [
+      109,
       303
     ],
     "requirements": {
@@ -22918,10 +22865,11 @@
     "wiki_id": "B79",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.1941832Z",
+    "updated": "2024-02-02T22:33:55.8853616Z",
     "unverified": true,
     "prereqs": [
-      826
+      826,
+      411
     ],
     "requirements": {
       "category": "sortie",
@@ -22975,11 +22923,12 @@
     "wiki_id": "B80",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2120165Z",
+    "updated": "2024-02-02T22:33:55.8968286Z",
     "unverified": true,
     "prereqs": [
       273,
-      809
+      809,
+      243
     ],
     "requirements": {
       "category": "sortie",
@@ -23050,10 +22999,11 @@
     "wiki_id": "B82",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.290884Z",
+    "updated": "2024-02-02T22:33:55.9214503Z",
     "unverified": true,
     "prereqs": [
-      206
+      206,
+      216
     ],
     "requirements": {
       "category": "sortie",
@@ -23154,9 +23104,11 @@
     "wiki_id": "B83",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.253782Z",
+    "updated": "2024-02-02T22:33:55.9437111Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      206
+    ],
     "requirements": {
       "category": "sortie",
       "sortie": [
@@ -23374,10 +23326,11 @@
     "wiki_id": "B87",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2485517Z",
+    "updated": "2024-02-02T22:33:55.9908187Z",
     "unverified": true,
     "prereqs": [
-      116
+      116,
+      207
     ],
     "requirements": {
       "category": "sortie",
@@ -23435,9 +23388,10 @@
     "wiki_id": "B88",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2255906Z",
+    "updated": "2024-02-02T22:33:56.0038134Z",
     "unverified": true,
     "prereqs": [
+      208,
       838
     ],
     "requirements": {
@@ -23506,9 +23460,10 @@
     "wiki_id": "B89",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2658241Z",
+    "updated": "2024-02-02T22:33:56.015818Z",
     "unverified": true,
     "prereqs": [
+      208,
       233
     ],
     "requirements": {
@@ -23625,10 +23580,9 @@
     "wiki_id": "Bq12",
     "category": "sortie",
     "frequency": "quarterly",
-    "updated": "2024-02-01T07:32:47.2411078Z",
+    "updated": "2024-02-02T22:33:56.0378507Z",
     "unverified": true,
     "prereqs": [
-      247,
       284
     ],
     "requirements": {
@@ -23872,9 +23826,11 @@
     "wiki_id": "B93",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.296267Z",
+    "updated": "2024-02-02T22:33:56.0676386Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      207
+    ],
     "requirements": {
       "category": "and",
       "list": [
@@ -24204,9 +24160,11 @@
     "wiki_id": "B97",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2922175Z",
+    "updated": "2024-02-02T22:33:56.1070105Z",
     "unverified": true,
     "prereqs": [
+      207,
+      287,
       839
     ],
     "requirements": {
@@ -24355,9 +24313,10 @@
     "wiki_id": "B98",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2366159Z",
+    "updated": "2024-02-02T22:33:56.1314499Z",
     "unverified": true,
     "prereqs": [
+      208,
       216
     ],
     "requirements": {
@@ -25018,10 +24977,9 @@
     "wiki_id": "Bq4",
     "category": "sortie",
     "frequency": "quarterly",
-    "updated": "2024-02-01T07:32:47.2835933Z",
+    "updated": "2024-02-02T22:33:56.200962Z",
     "unverified": true,
     "prereqs": [
-      846,
       861
     ],
     "requirements": {
@@ -25312,9 +25270,12 @@
     "wiki_id": "B107",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2752393Z",
+    "updated": "2024-02-02T22:33:56.2398909Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      401,
+      612
+    ],
     "requirements": {
       "category": "sortie",
       "sortie": [
@@ -25369,9 +25330,10 @@
     "wiki_id": "B108",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2534266Z",
+    "updated": "2024-02-02T22:33:56.2523237Z",
     "unverified": true,
     "prereqs": [
+      131,
       839
     ],
     "requirements": {
@@ -25614,9 +25576,11 @@
     "wiki_id": "Bq5",
     "category": "sortie",
     "frequency": "quarterly",
-    "updated": "2024-02-01T07:32:47.2067185Z",
+    "updated": "2024-02-02T22:33:56.2857818Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      411
+    ],
     "requirements": {
       "category": "sortie",
       "sortie": [
@@ -25683,9 +25647,11 @@
     "wiki_id": "B110",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.169482Z",
+    "updated": "2024-02-02T22:33:56.2981603Z",
     "unverified": true,
     "prereqs": [
+      186,
+      869,
       873
     ],
     "requirements": {
@@ -25964,10 +25930,11 @@
     "wiki_id": "B112",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2608014Z",
+    "updated": "2024-02-02T22:33:56.3290127Z",
     "unverified": true,
     "prereqs": [
-      189
+      189,
+      860
     ],
     "requirements": {
       "category": "and",
@@ -26455,11 +26422,12 @@
     "wiki_id": "B117",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2926266Z",
+    "updated": "2024-02-02T22:33:56.384572Z",
     "unverified": true,
     "prereqs": [
+      880,
       323,
-      880
+      603
     ],
     "requirements": {
       "category": "sortie",
@@ -26885,10 +26853,12 @@
     "wiki_id": "B121",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2239522Z",
+    "updated": "2024-02-02T22:33:56.434272Z",
     "unverified": true,
     "prereqs": [
-      880
+      880,
+      257,
+      402
     ],
     "requirements": {
       "category": "sortie",
@@ -27029,10 +26999,12 @@
     "wiki_id": "B123",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2432874Z",
+    "updated": "2024-02-02T22:33:56.4557174Z",
     "unverified": true,
     "prereqs": [
-      195
+      195,
+      870,
+      603
     ],
     "requirements": {
       "category": "sortie",
@@ -27198,11 +27170,11 @@
     "wiki_id": "Bq8",
     "category": "sortie",
     "frequency": "quarterly",
-    "updated": "2024-02-01T07:32:47.2331695Z",
+    "updated": "2024-02-02T22:33:56.4794639Z",
     "unverified": true,
     "prereqs": [
-      214,
-      299
+      299,
+      404
     ],
     "requirements": {
       "category": "sortie",
@@ -27259,9 +27231,11 @@
     "wiki_id": "Bq9",
     "category": "sortie",
     "frequency": "quarterly",
-    "updated": "2024-02-01T07:32:47.2905469Z",
+    "updated": "2024-02-02T22:33:56.4928914Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      411
+    ],
     "requirements": {
       "category": "sortie",
       "sortie": [
@@ -27341,10 +27315,11 @@
     "wiki_id": "B127",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.2104469Z",
+    "updated": "2024-02-02T22:33:56.5054065Z",
     "unverified": true,
     "prereqs": [
-      894
+      894,
+      312
     ],
     "requirements": {
       "category": "sortie",
@@ -27969,9 +27944,11 @@
     "wiki_id": "By1",
     "category": "sortie",
     "frequency": "annual",
-    "updated": "2024-02-01T07:32:47.2589529Z",
+    "updated": "2024-02-02T22:33:56.5657208Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      198
+    ],
     "requirements": {
       "category": "sortie",
       "sortie": [
@@ -28051,9 +28028,13 @@
     "wiki_id": "By2",
     "category": "sortie",
     "frequency": "annual",
-    "updated": "2024-02-01T07:32:47.2491218Z",
+    "updated": "2024-02-02T22:33:56.5796518Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      217,
+      303,
+      434
+    ],
     "requirements": {
       "category": "and",
       "list": [
@@ -28156,9 +28137,12 @@
     "wiki_id": "B142",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.1924004Z",
+    "updated": "2024-02-02T22:33:56.5931597Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      812,
+      303
+    ],
     "requirements": {
       "category": "sortie",
       "sortie": [
@@ -28424,9 +28408,12 @@
     "wiki_id": "By4",
     "category": "sortie",
     "frequency": "annual",
-    "updated": "2024-02-01T07:32:47.240374Z",
+    "updated": "2024-02-02T22:33:56.6066253Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      838,
+      905
+    ],
     "requirements": {
       "category": "sortie",
       "sortie": [
@@ -33128,186 +33115,6 @@
       ]
     }
   },
-  "992": {
-    "game_id": 992,
-    "wiki_id": "2307",
-    "category": "sortie",
-    "frequency": "event",
-    "updated": "2024-02-01T08:54:16.8577855Z",
-    "unavailable": true,
-    "prereqs": [],
-    "requirements": {
-      "category": "sortie",
-      "sortie": [
-        {
-          "map": [
-            "1-3",
-            "1-4",
-            "1-5"
-          ],
-          "boss": true,
-          "result": "A",
-          "times": 3
-        }
-      ],
-      "comp": [
-        {
-          "ship_id": [
-            181,
-            20,
-            186,
-            190
-          ],
-          "amount": 2
-        },
-        {
-          "otherships": true,
-          "amount": [
-            0,
-            4
-          ]
-        }
-      ]
-    },
-    "rewards": {
-      "resources": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "other": [
-        {
-          "choices": [
-            {
-              "category": "inventory",
-              "id": 59,
-              "stars": 0,
-              "amount": 2
-            },
-            {
-              "category": "inventory",
-              "id": 64,
-              "stars": 0,
-              "amount": 1
-            },
-            {
-              "category": "equipment",
-              "id": 43,
-              "stars": 0,
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "choices": [
-            {
-              "category": "inventory",
-              "id": 58,
-              "stars": 0,
-              "amount": 1
-            },
-            {
-              "category": "inventory",
-              "id": 49,
-              "stars": 0,
-              "amount": 1
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "993": {
-    "game_id": 993,
-    "wiki_id": "B193",
-    "category": "sortie",
-    "frequency": "onetime",
-    "updated": "2024-02-01T08:21:45.7495946Z",
-    "prereqs": [
-      992,
-      933
-    ],
-    "requirements": {
-      "category": "sortie",
-      "sortie": [
-        {
-          "map": [
-            "2-5",
-            "7-4P",
-            "5-3",
-            "5-4",
-            "6-4"
-          ],
-          "boss": true,
-          "result": "S",
-          "times": 1
-        }
-      ],
-      "comp": [
-        {
-          "ship_id": 951,
-          "amount": 1,
-          "position": 1
-        },
-        {
-          "otherships": true,
-          "amount": [
-            0,
-            5
-          ]
-        }
-      ]
-    },
-    "rewards": {
-      "resources": [
-        1945,
-        410,
-        2023,
-        707
-      ],
-      "other": [
-        {
-          "choices": [
-            {
-              "category": "inventory",
-              "id": 57,
-              "stars": 0,
-              "amount": 2
-            },
-            {
-              "category": "equipment",
-              "id": 505,
-              "stars": 2,
-              "amount": 1
-            },
-            {
-              "category": "equipment",
-              "id": 43,
-              "stars": 0,
-              "amount": 3
-            }
-          ]
-        },
-        {
-          "choices": [
-            {
-              "category": "equipment",
-              "id": 266,
-              "stars": 10,
-              "amount": 1
-            },
-            {
-              "category": "equipment",
-              "id": 412,
-              "stars": 0,
-              "amount": 1
-            }
-          ]
-        }
-      ]
-    }
-  },
   "995": {
     "game_id": 995,
     "wiki_id": "B189",
@@ -33513,8 +33320,10 @@
     "wiki_id": "B191",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T08:16:07.8571265Z",
-    "prereqs": [],
+    "updated": "2024-02-02T22:34:01.2842583Z",
+    "prereqs": [
+      235
+    ],
     "requirements": {
       "category": "or",
       "list": [
@@ -33962,8 +33771,11 @@
     "wiki_id": "B196",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-01T08:25:32.0195962Z",
-    "prereqs": [],
+    "updated": "2024-02-02T22:33:56.6474552Z",
+    "prereqs": [
+      838,
+      216
+    ],
     "requirements": {
       "category": "sortie",
       "sortie": [
@@ -35715,134 +35527,6 @@
       ]
     }
   },
-  "1128": {
-    "game_id": 1128,
-    "wiki_id": "F116",
-    "category": "factory",
-    "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.3036769Z",
-    "prereqs": [],
-    "requirements": {
-      "category": "conversion",
-      "secretary": {
-        "ship_id": 593
-      },
-      "slots": [
-        {
-          "slot": 1,
-          "id": 502,
-          "stars": 3
-        }
-      ],
-      "consume": [
-        {
-          "category": "equipment",
-          "id": 7,
-          "amount": 5
-        },
-        {
-          "category": "inventory",
-          "id": 75,
-          "amount": 2
-        },
-        {
-          "category": "inventory",
-          "id": 3,
-          "amount": 48
-        }
-      ],
-      "resources": [
-        0,
-        960,
-        0,
-        800
-      ]
-    },
-    "rewards": {
-      "resources": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "other": [
-        {
-          "category": "equipment",
-          "id": 503,
-          "stars": 0,
-          "amount": 1
-        }
-      ]
-    }
-  },
-  "1129": {
-    "game_id": 1129,
-    "wiki_id": "F117",
-    "category": "factory",
-    "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.3021845Z",
-    "prereqs": [],
-    "requirements": {
-      "category": "conversion",
-      "secretary": {
-        "class_id": [
-          13,
-          14
-        ]
-      },
-      "slots": [
-        {
-          "slot": 1,
-          "id": 213,
-          "stars": 10
-        }
-      ],
-      "consume": [
-        {
-          "category": "equipment",
-          "id": 125,
-          "amount": 4
-        },
-        {
-          "category": "equipment",
-          "id": 129,
-          "amount": 3
-        },
-        {
-          "category": "inventory",
-          "id": 94,
-          "amount": 2
-        },
-        {
-          "category": "inventory",
-          "id": 3,
-          "amount": 36
-        }
-      ],
-      "resources": [
-        0,
-        800,
-        0,
-        0
-      ]
-    },
-    "rewards": {
-      "resources": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "other": [
-        {
-          "category": "equipment",
-          "id": 214,
-          "stars": 0,
-          "amount": 1
-        }
-      ]
-    }
-  },
   "1130": {
     "game_id": 1130,
     "wiki_id": "F118",
@@ -35912,103 +35596,6 @@
               "id": 94,
               "stars": 0,
               "amount": 4
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "1131": {
-    "game_id": 1131,
-    "wiki_id": "F119",
-    "category": "factory",
-    "frequency": "onetime",
-    "updated": "2024-02-01T07:32:47.3402482Z",
-    "prereqs": [
-      992
-    ],
-    "requirements": {
-      "category": "conversion",
-      "consume": [
-        {
-          "category": "equipment",
-          "id": 42,
-          "amount": 1
-        }
-      ],
-      "scrap": [
-        {
-          "category": "equipgroup",
-          "id": 1,
-          "amount": 18
-        },
-        {
-          "category": "equipgroup",
-          "id": 2,
-          "amount": 12
-        },
-        {
-          "category": "equipgroup",
-          "id": 15,
-          "amount": 6
-        }
-      ],
-      "resources": [
-        0,
-        2500,
-        3000,
-        0
-      ]
-    },
-    "rewards": {
-      "resources": [
-        250,
-        0,
-        0,
-        0
-      ],
-      "other": [
-        {
-          "choices": [
-            {
-              "category": "equipment",
-              "id": 63,
-              "stars": 3,
-              "amount": 3
-            },
-            {
-              "category": "equipment",
-              "id": 91,
-              "stars": 2,
-              "amount": 2
-            },
-            {
-              "category": "inventory",
-              "id": 75,
-              "stars": 0,
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "choices": [
-            {
-              "category": "equipment",
-              "id": 310,
-              "stars": 3,
-              "amount": 1
-            },
-            {
-              "category": "equipment",
-              "id": 139,
-              "stars": 2,
-              "amount": 1
-            },
-            {
-              "category": "equipment",
-              "id": 90,
-              "stars": 0,
-              "amount": 2
             }
           ]
         }

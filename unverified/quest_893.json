@@ -3,11 +3,11 @@
   "wiki_id": "Bq8",
   "category": "sortie",
   "frequency": "quarterly",
-  "updated": "2024-02-01T07:32:47.2331695Z",
+  "updated": "2024-02-02T22:33:56.4794639Z",
   "unverified": true,
   "prereqs": [
-    214,
-    299
+    299,
+    404
   ],
   "requirements": {
     "category": "sortie",

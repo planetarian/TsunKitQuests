@@ -3,10 +3,12 @@
   "wiki_id": "B123",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2432874Z",
+  "updated": "2024-02-02T22:33:56.4557174Z",
   "unverified": true,
   "prereqs": [
-    195
+    195,
+    870,
+    603
   ],
   "requirements": {
     "category": "sortie",

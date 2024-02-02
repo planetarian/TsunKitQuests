@@ -3,9 +3,11 @@
   "wiki_id": "F64",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2810004Z",
+  "updated": "2024-02-02T22:33:55.2541498Z",
   "unverified": true,
-  "prereqs": [],
+  "prereqs": [
+    109
+  ],
   "requirements": {
     "category": "conversion",
     "slots": [

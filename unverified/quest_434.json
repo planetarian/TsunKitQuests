@@ -3,9 +3,11 @@
   "wiki_id": "Dy1",
   "category": "expedition",
   "frequency": "annual",
-  "updated": "2024-02-01T07:32:47.2693052Z",
+  "updated": "2024-02-02T22:33:54.4054609Z",
   "unverified": true,
-  "prereqs": [],
+  "prereqs": [
+    425
+  ],
   "requirements": {
     "category": "expedition",
     "expeds": [

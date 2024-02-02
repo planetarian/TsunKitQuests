@@ -3,10 +3,11 @@
   "wiki_id": "B112",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2608014Z",
+  "updated": "2024-02-02T22:33:56.3290127Z",
   "unverified": true,
   "prereqs": [
-    189
+    189,
+    860
   ],
   "requirements": {
     "category": "and",

@@ -3,8 +3,10 @@
   "wiki_id": "B191",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T08:16:07.8571265Z",
-  "prereqs": [],
+  "updated": "2024-02-02T22:34:01.2842583Z",
+  "prereqs": [
+    235
+  ],
   "requirements": {
     "category": "or",
     "list": [

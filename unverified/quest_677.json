@@ -3,9 +3,10 @@
   "wiki_id": "Fw4",
   "category": "factory",
   "frequency": "weekly",
-  "updated": "2024-02-01T07:32:47.2622475Z",
+  "updated": "2024-02-02T22:33:55.3273576Z",
   "unverified": true,
   "prereqs": [
+    208,
     674
   ],
   "requirements": {

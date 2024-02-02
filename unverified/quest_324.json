@@ -3,9 +3,10 @@
   "wiki_id": "C22",
   "category": "exercise",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2716926Z",
+  "updated": "2024-02-02T22:33:53.8768614Z",
   "unverified": true,
   "prereqs": [
+    232,
     247
   ],
   "requirements": {

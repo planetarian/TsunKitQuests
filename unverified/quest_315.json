@@ -3,9 +3,12 @@
   "wiki_id": "Cs3",
   "category": "exercise",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2755705Z",
+  "updated": "2024-02-02T22:33:53.7733946Z",
   "unverified": true,
-  "prereqs": [],
+  "prereqs": [
+    206,
+    303
+  ],
   "requirements": {
     "category": "exercise",
     "victory": true,

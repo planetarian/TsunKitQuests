@@ -3,10 +3,11 @@
   "wiki_id": "Fm2",
   "category": "factory",
   "frequency": "monthly",
-  "updated": "2024-02-01T07:32:47.2043306Z",
+  "updated": "2024-02-02T22:33:54.7750534Z",
   "unverified": true,
   "prereqs": [
     265,
+    264,
     627
   ],
   "requirements": {
