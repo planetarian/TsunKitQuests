@@ -3,10 +3,11 @@
   "wiki_id": "By1",
   "category": "sortie",
   "frequency": "annual",
-  "updated": "2024-02-02T22:33:56.5657208Z",
+  "updated": "2024-02-03T06:26:41.554091Z",
   "unverified": true,
   "prereqs": [
-    198
+    276,
+    662
   ],
   "requirements": {
     "category": "sortie",

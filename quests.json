@@ -655,9 +655,9 @@
     "wiki_id": "A9",
     "category": "composition",
     "frequency": "onetime",
-    "updated": "2024-02-02T22:33:57.1845037Z",
+    "updated": "2024-02-03T06:26:41.9761664Z",
     "prereqs": [
-      120
+      104
     ],
     "requirements": {
       "category": "fleet",
@@ -4783,11 +4783,8 @@
     "wiki_id": "B1",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-02T22:33:57.8296158Z",
-    "prereqs": [
-      838,
-      216
-    ],
+    "updated": "2024-02-03T06:26:42.4909879Z",
+    "prereqs": [],
     "requirements": {
       "category": "simple",
       "subcategory": "battle",
@@ -6051,10 +6048,9 @@
     "wiki_id": "B19",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2024-02-02T22:33:57.9788515Z",
+    "updated": "2024-02-03T06:26:42.6146446Z",
     "prereqs": [
-      838,
-      216
+      128
     ],
     "requirements": {
       "category": "sortie",
@@ -28079,10 +28075,11 @@
     "wiki_id": "By1",
     "category": "sortie",
     "frequency": "annual",
-    "updated": "2024-02-02T22:33:56.5657208Z",
+    "updated": "2024-02-03T06:26:41.554091Z",
     "unverified": true,
     "prereqs": [
-      198
+      276,
+      662
     ],
     "requirements": {
       "category": "sortie",
