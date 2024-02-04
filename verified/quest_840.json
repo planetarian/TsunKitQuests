@@ -3,7 +3,7 @@
   "wiki_id": "2401",
   "category": "sortie",
   "frequency": "event",
-  "updated": "2024-02-04T09:19:56.1187791Z",
+  "updated": "2024-02-04T09:54:57.8377727Z",
   "prereqs": [],
   "requirements": {
     "category": "sortie",
@@ -67,10 +67,10 @@
   },
   "rewards": {
     "resources": [
+      230,
       0,
-      0,
-      0,
-      0
+      230,
+      230
     ],
     "other": [
       {
