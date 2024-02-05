@@ -3,7 +3,7 @@
   "wiki_id": "F112",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.345879Z",
+  "updated": "2024-02-05T04:12:30.2788203Z",
   "prereqs": [
     982,
     1102
@@ -15,7 +15,8 @@
     },
     "slots": [
       {
-        "id": 284
+        "id": 284,
+        "conversion": "starslost"
       }
     ],
     "consume": [
