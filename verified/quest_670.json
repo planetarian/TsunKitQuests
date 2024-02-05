@@ -3,8 +3,7 @@
   "wiki_id": "F63",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2050575Z",
-  "unverified": true,
+  "updated": "2024-02-05T04:40:40.6293146Z",
   "prereqs": [
     669,
     864
@@ -16,7 +15,8 @@
         "slot": 1,
         "id": 206,
         "fullyskilled": true,
-        "stars": 10
+        "stars": 10,
+        "conversion": "starslost"
       }
     ],
     "consume": [
@@ -52,7 +52,7 @@
       0,
       0,
       0,
-      6000
+      8000
     ]
   },
   "rewards": {
