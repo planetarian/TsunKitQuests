@@ -3,7 +3,7 @@
   "wiki_id": "F107",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.3551521Z",
+  "updated": "2024-02-05T04:12:03.6004492Z",
   "prereqs": [
     644,
     690
@@ -14,7 +14,8 @@
       {
         "category": "equipment",
         "id": 453,
-        "amount": 1
+        "amount": 1,
+        "conversion": "starslost"
       },
       {
         "category": "equipment",
