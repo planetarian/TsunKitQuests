@@ -3,8 +3,7 @@
   "wiki_id": "F86",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2600111Z",
-  "unverified": true,
+  "updated": "2024-02-05T04:10:00.7285043Z",
   "prereqs": [
     331,
     693
@@ -20,7 +19,15 @@
     "slots": [
       {
         "slot": 1,
-        "id": 57
+        "id": 57,
+        "conversion": "starslost"
+      }
+    ],
+    "consume": [
+      {
+        "category": "inventory",
+        "id": 77,
+        "amount": 1
       }
     ],
     "scrap": [
@@ -38,11 +45,6 @@
         "category": "equipment",
         "id": 26,
         "amount": 2
-      },
-      {
-        "category": "inventory",
-        "id": 77,
-        "amount": 1
       }
     ],
     "resources": [
