@@ -3,8 +3,7 @@
   "wiki_id": "F89",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:54.6916732Z",
-  "unverified": true,
+  "updated": "2024-02-05T04:11:04.8501783Z",
   "prereqs": [
     605,
     612
@@ -14,7 +13,8 @@
     "slots": [
       {
         "slot": 1,
-        "id": 37
+        "id": 37,
+        "conversion": "starslost"
       }
     ],
     "consume": [
