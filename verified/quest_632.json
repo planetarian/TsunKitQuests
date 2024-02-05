@@ -3,8 +3,7 @@
   "wiki_id": "F29",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2251446Z",
-  "unverified": true,
+  "updated": "2024-02-05T04:29:27.7508883Z",
   "prereqs": [
     625,
     630
@@ -17,7 +16,8 @@
     "slots": [
       {
         "id": 155,
-        "fullyskilled": true
+        "fullyskilled": true,
+        "conversion": "starslost"
       }
     ],
     "scrap": [
