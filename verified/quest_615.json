@@ -3,8 +3,7 @@
   "wiki_id": "F14",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2803597Z",
-  "unverified": true,
+  "updated": "2024-02-05T04:18:57.1106188Z",
   "prereqs": [
     250
   ],
@@ -12,7 +11,8 @@
     "category": "conversion",
     "slots": [
       {
-        "id": 99
+        "id": 99,
+        "conversion": "starskept"
       }
     ],
     "scrap": [
