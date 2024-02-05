@@ -3,16 +3,23 @@
   "wiki_id": "F15",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2099005Z",
-  "unverified": true,
+  "updated": "2024-02-05T04:20:05.6561012Z",
   "prereqs": [
     253
   ],
   "requirements": {
     "category": "conversion",
+    "secretary": {
+      "class_id": [
+        11,
+        7,
+        18
+      ]
+    },
     "slots": [
       {
-        "id": 109
+        "id": 109,
+        "conversion": "starskept"
       }
     ],
     "scrap": [
