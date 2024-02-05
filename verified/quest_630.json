@@ -3,8 +3,7 @@
   "wiki_id": "F28",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.1915509Z",
-  "unverified": true,
+  "updated": "2024-02-05T04:28:51.7159754Z",
   "prereqs": [
     166,
     626
@@ -17,7 +16,8 @@
     "slots": [
       {
         "id": 96,
-        "fullyskilled": true
+        "fullyskilled": true,
+        "conversion": "starskept"
       }
     ],
     "scrap": [
