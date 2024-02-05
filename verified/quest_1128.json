@@ -3,7 +3,7 @@
   "wiki_id": "F116",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:45:11.9068479Z",
+  "updated": "2024-02-05T04:13:07.3925784Z",
   "prereqs": [
     292
   ],
@@ -16,7 +16,8 @@
       {
         "slot": 1,
         "id": 502,
-        "stars": 3
+        "stars": 3,
+        "conversion": "starslost"
       }
     ],
     "consume": [
