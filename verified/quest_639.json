@@ -3,8 +3,7 @@
   "wiki_id": "F36",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2585649Z",
-  "unverified": true,
+  "updated": "2024-02-05T04:33:46.9692327Z",
   "prereqs": [
     638,
     818
@@ -17,11 +16,13 @@
     "slots": [
       {
         "id": 58,
-        "stars": 10
+        "stars": 10,
+        "conversion": "starslost"
       },
       {
         "id": 125,
-        "stars": 10
+        "stars": 10,
+        "conversion": "starslost"
       }
     ],
     "consume": [
@@ -41,14 +42,15 @@
     ],
     "other": [
       {
-        "category": "inventory",
-        "id": 4,
-        "amount": 6
-      },
-      {
         "category": "equipment",
         "id": 179,
         "amount": 1
+      },
+      {
+        "category": "inventory",
+        "id": 4,
+        "stars": 0,
+        "amount": 6
       }
     ]
   }
