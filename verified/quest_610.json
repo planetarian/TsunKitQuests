@@ -3,8 +3,7 @@
   "wiki_id": "F10",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2290434Z",
-  "unverified": true,
+  "updated": "2024-02-05T04:23:16.3995188Z",
   "prereqs": [
     704
   ],
@@ -23,7 +22,9 @@
     "other": [
       {
         "category": "feature",
-        "id": 6
+        "id": 5,
+        "stars": 0,
+        "amount": 1
       }
     ]
   }
