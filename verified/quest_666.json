@@ -3,8 +3,7 @@
   "wiki_id": "F58",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2582151Z",
-  "unverified": true,
+  "updated": "2024-02-05T04:35:05.2122434Z",
   "prereqs": [
     607,
     859
@@ -18,7 +17,8 @@
       {
         "slot": 4,
         "id": 79,
-        "stars": 10
+        "stars": 10,
+        "conversion": "starslost"
       }
     ],
     "consume": [
