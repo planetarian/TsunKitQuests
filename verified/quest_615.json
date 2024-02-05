@@ -3,12 +3,19 @@
   "wiki_id": "F14",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-05T04:18:57.1106188Z",
+  "updated": "2024-02-05T04:21:09.8975697Z",
   "prereqs": [
     250
   ],
   "requirements": {
     "category": "conversion",
+    "secretary": {
+      "class_id": [
+        11,
+        7,
+        18
+      ]
+    },
     "slots": [
       {
         "id": 99,
