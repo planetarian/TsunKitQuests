@@ -3,8 +3,7 @@
   "wiki_id": "F121",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.3777818Z",
-  "unverified": true,
+  "updated": "2024-02-05T04:16:44.6268119Z",
   "prereqs": [
     1001,
     1131
@@ -20,7 +19,8 @@
     "slots": [
       {
         "slot": 1,
-        "id": 240
+        "id": 240,
+        "conversion": "starslost"
       }
     ],
     "consume": [
@@ -28,7 +28,8 @@
         "category": "equipment",
         "id": 450,
         "amount": 1,
-        "stars": 4
+        "stars": 4,
+        "conversion": "starslost"
       },
       {
         "category": "inventory",
