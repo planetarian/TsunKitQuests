@@ -1,0 +1,54 @@
+{
+  "game_id": 326,
+  "wiki_id": "Cs5",
+  "category": "exercise",
+  "frequency": "seasonal",
+  "updated": "2024-02-06T17:32:42.6658646Z",
+  "prereqs": [
+    206,
+    313
+  ],
+  "requirements": {
+    "category": "exercise",
+    "result": "B",
+    "daily": true,
+    "times": 8
+  },
+  "rewards": {
+    "resources": [
+      0,
+      300,
+      0,
+      1000
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 54,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 60,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 42,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 39,
+            "stars": 0,
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  }
+}
