@@ -3,15 +3,14 @@
   "wiki_id": "Cq3",
   "category": "exercise",
   "frequency": "quarterly",
-  "updated": "2024-02-01T07:32:47.2040896Z",
-  "unverified": true,
+  "updated": "2024-02-06T17:37:30.8403833Z",
   "prereqs": [
     177,
     337
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "S",
     "daily": true,
     "comp": [
       {
@@ -22,6 +21,13 @@
           486
         ],
         "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ],
     "times": 3
