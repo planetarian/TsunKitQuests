@@ -3,8 +3,7 @@
   "wiki_id": "B78",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2519414Z",
-  "unverified": true,
+  "updated": "2024-02-07T17:04:30.5541044Z",
   "prereqs": [
     177
   ],
@@ -27,6 +26,13 @@
           14
         ],
         "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ]
   },
