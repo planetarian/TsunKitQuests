@@ -3,8 +3,7 @@
   "wiki_id": "B45",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.1950509Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:45:31.1407115Z",
   "prereqs": [
     155,
     274
@@ -15,7 +14,7 @@
       {
         "map": "1-5",
         "boss": true,
-        "result": "B",
+        "result": "A",
         "times": 1
       }
     ],
@@ -28,6 +27,13 @@
           37
         ],
         "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ],
     "disallowed": "otherships"
