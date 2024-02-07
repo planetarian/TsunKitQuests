@@ -1,0 +1,64 @@
+{
+  "game_id": 825,
+  "wiki_id": "B77",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-07T17:04:14.0449087Z",
+  "prereqs": [
+    109,
+    303
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "2-2",
+          "2-3"
+        ],
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "class_id": [
+          3,
+          4,
+          21
+        ],
+        "amount": 1,
+        "position": 1
+      },
+      {
+        "class_id": 2,
+        "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": 1
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      600,
+      600,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 52,
+        "amount": 1
+      },
+      {
+        "category": "inventory",
+        "id": 59,
+        "amount": 1
+      }
+    ]
+  }
+}
