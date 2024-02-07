@@ -3,8 +3,7 @@
   "wiki_id": "B42",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.291858Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:44:09.2567171Z",
   "prereqs": [
     120
   ],
@@ -27,6 +26,13 @@
           37
         ],
         "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ],
     "disallowed": "otherships"
