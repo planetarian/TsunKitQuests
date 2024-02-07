@@ -3,8 +3,7 @@
   "wiki_id": "B65",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2515616Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:56:53.5077759Z",
   "prereqs": [
     239,
     811
@@ -26,7 +25,10 @@
       },
       {
         "otherships": true,
-        "amount": 5
+        "amount": [
+          0,
+          5
+        ]
       }
     ]
   },
@@ -46,7 +48,7 @@
       {
         "category": "inventory",
         "id": 59,
-        "amount": 1
+        "amount": 2
       }
     ]
   }
