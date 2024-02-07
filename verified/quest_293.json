@@ -3,8 +3,7 @@
   "wiki_id": "B53",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2135453Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:51:47.4979737Z",
   "prereqs": [
     164
   ],
@@ -24,20 +23,19 @@
         "position": 1
       },
       {
-        "ship_id": 116,
-        "amount": 1
-      },
-      {
-        "ship_id": 108,
-        "note": "軽母"
-      },
-      {
-        "ship_id": 109,
-        "note": "軽母"
+        "ship_id": [
+          116,
+          108,
+          109
+        ],
+        "amount": 3
       },
       {
         "otherships": true,
-        "amount": 2
+        "amount": [
+          0,
+          2
+        ]
       }
     ]
   },
