@@ -3,8 +3,7 @@
   "wiki_id": "B51",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2142653Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:47:53.4923214Z",
   "prereqs": [
     162
   ],
@@ -27,6 +26,13 @@
           101
         ],
         "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ]
   },
