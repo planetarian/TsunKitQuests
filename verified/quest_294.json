@@ -3,8 +3,7 @@
   "wiki_id": "B54",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.1937585Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:52:27.330837Z",
   "prereqs": [
     166
   ],
@@ -27,17 +26,11 @@
         "ship_id": [
           117,
           82,
-          88
+          88,
+          108,
+          109
         ],
-        "amount": 3
-      },
-      {
-        "ship_id": 108,
-        "note": "軽母"
-      },
-      {
-        "ship_id": 109,
-        "note": "軽母"
+        "amount": 5
       }
     ]
   },
