@@ -3,8 +3,7 @@
   "wiki_id": "B73",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2593194Z",
-  "unverified": true,
+  "updated": "2024-02-07T17:01:23.9287949Z",
   "prereqs": [
     175
   ],
@@ -13,6 +12,7 @@
     "sortie": [
       {
         "map": "1-6",
+        "node": "N",
         "result": "clear",
         "times": 1
       }
