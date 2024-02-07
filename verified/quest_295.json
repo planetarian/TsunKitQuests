@@ -3,8 +3,7 @@
   "wiki_id": "B55",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2338249Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:53:00.9953701Z",
   "prereqs": [
     168
   ],
@@ -32,7 +31,10 @@
       },
       {
         "otherships": true,
-        "amount": 3
+        "amount": [
+          0,
+          3
+        ]
       }
     ]
   },
