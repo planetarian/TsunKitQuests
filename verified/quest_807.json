@@ -3,8 +3,7 @@
   "wiki_id": "B60",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.268284Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:55:17.7142439Z",
   "prereqs": [
     171,
     201
@@ -14,6 +13,7 @@
     "sortie": [
       {
         "map": "1-6",
+        "node": "N",
         "result": "clear",
         "times": 1
       }
@@ -32,7 +32,10 @@
       },
       {
         "otherships": true,
-        "amount": 3
+        "amount": [
+          0,
+          3
+        ]
       }
     ]
   },
@@ -51,7 +54,8 @@
       },
       {
         "category": "inventory",
-        "id": 62,
+        "id": 60,
+        "stars": 0,
         "amount": 1
       }
     ]
