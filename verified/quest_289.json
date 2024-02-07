@@ -3,7 +3,7 @@
   "wiki_id": "B52",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-07T16:48:13.6362487Z",
+  "updated": "2024-02-07T16:48:42.1246588Z",
   "prereqs": [
     163
   ],
@@ -20,7 +20,7 @@
     "comp": [
       {
         "ship_id": 64,
-        "amount": 1,
+        "amount": 0,
         "position": 1
       },
       {
