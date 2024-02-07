@@ -3,8 +3,7 @@
   "wiki_id": "B43",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2973496Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:44:43.2704944Z",
   "prereqs": [
     153
   ],
@@ -25,6 +24,13 @@
           52
         ],
         "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          2,
+          4
+        ]
       }
     ]
   },
