@@ -3,8 +3,7 @@
   "wiki_id": "B71",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.298064Z",
-  "unverified": true,
+  "updated": "2024-02-07T17:00:22.807078Z",
   "prereqs": [
     817
   ],
@@ -13,6 +12,7 @@
     "sortie": [
       {
         "map": "1-6",
+        "node": "N",
         "result": "clear",
         "times": 1
       }
@@ -28,7 +28,10 @@
       },
       {
         "otherships": true,
-        "amount": 1
+        "amount": [
+          0,
+          1
+        ]
       }
     ]
   },
