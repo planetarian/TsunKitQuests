@@ -3,8 +3,7 @@
   "wiki_id": "B40",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.1957701Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:43:19.5148371Z",
   "prereqs": [
     416
   ],
@@ -20,11 +19,7 @@
     ],
     "comp": [
       {
-        "ship_id": [
-          271,
-          428
-        ],
-        "position": 1
+        "ship_id": 271
       },
       {
         "class_id": 3,
@@ -33,6 +28,13 @@
       {
         "class_id": 2,
         "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ]
   },
