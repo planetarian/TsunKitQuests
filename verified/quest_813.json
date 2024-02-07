@@ -3,8 +3,7 @@
   "wiki_id": "B66",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2495616Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:57:21.3458302Z",
   "prereqs": [
     806,
     812
@@ -26,7 +25,10 @@
       },
       {
         "otherships": true,
-        "amount": 5
+        "amount": [
+          0,
+          5
+        ]
       }
     ]
   },
