@@ -1,0 +1,40 @@
+{
+  "game_id": 816,
+  "wiki_id": "B67",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-07T16:57:52.928344Z",
+  "prereqs": [
+    105,
+    206,
+    217
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "2-2",
+          "2-3"
+        ],
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      1000,
+      1000,
+      1000,
+      0
+    ],
+    "other": [
+      {
+        "category": "furniture",
+        "id": 286
+      }
+    ]
+  }
+}
