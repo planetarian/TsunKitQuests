@@ -3,8 +3,7 @@
   "wiki_id": "B68",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2675088Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:58:45.8094755Z",
   "prereqs": [
     173
   ],
@@ -20,15 +19,12 @@
     ],
     "comp": [
       {
-        "ship_id": 158,
-        "position": 1
-      },
-      {
         "ship_id": [
-          469,
-          145
+          158,
+          145,
+          469
         ],
-        "amount": 2
+        "amount": 3
       },
       {
         "class_id": 2,
@@ -36,7 +32,10 @@
       },
       {
         "otherships": true,
-        "amount": 1
+        "amount": [
+          0,
+          1
+        ]
       }
     ]
   },
