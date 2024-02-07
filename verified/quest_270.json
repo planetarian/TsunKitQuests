@@ -3,8 +3,7 @@
   "wiki_id": "B39",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.1860189Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:42:46.8889858Z",
   "prereqs": [
     151
   ],
@@ -30,6 +29,13 @@
       {
         "class_id": 2,
         "amount": 1
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ]
   },
