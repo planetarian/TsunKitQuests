@@ -3,8 +3,7 @@
   "wiki_id": "B46",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2053127Z",
-  "unverified": true,
+  "updated": "2024-02-07T16:46:05.8538878Z",
   "prereqs": [
     156
   ],
@@ -21,6 +20,7 @@
     "comp": [
       {
         "ship_id": 114,
+        "amount": 1,
         "position": 1
       },
       {
