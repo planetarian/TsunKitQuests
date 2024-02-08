@@ -3,8 +3,7 @@
   "wiki_id": "B82",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:55.9214503Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:21:08.1004511Z",
   "prereqs": [
     206,
     216
@@ -30,12 +29,13 @@
     "other": [
       {
         "category": "equipment",
-        "id": 145,
+        "id": 74,
         "amount": 1
       },
       {
         "category": "equipment",
-        "id": 74,
+        "id": 145,
+        "stars": 0,
         "amount": 1
       }
     ]
