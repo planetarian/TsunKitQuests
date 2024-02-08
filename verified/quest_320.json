@@ -3,14 +3,13 @@
   "wiki_id": "C18",
   "category": "exercise",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:53.8353754Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:09:12.7992301Z",
   "prereqs": [
     216
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "B",
     "daily": true,
     "comp": [
       {
@@ -19,7 +18,10 @@
       },
       {
         "otherships": true,
-        "amount": 2
+        "amount": [
+          0,
+          2
+        ]
       }
     ],
     "times": 4
