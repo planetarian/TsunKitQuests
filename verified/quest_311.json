@@ -3,14 +3,13 @@
   "wiki_id": "Cm1",
   "category": "exercise",
   "frequency": "monthly",
-  "updated": "2024-02-01T07:32:47.2720214Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:18:29.1041505Z",
   "prereqs": [
     216
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "B",
     "daily": true,
     "times": 7
   },
