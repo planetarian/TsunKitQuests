@@ -3,8 +3,7 @@
   "wiki_id": "B101",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.1911554Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:32:59.489308Z",
   "prereqs": [
     181,
     303
@@ -31,15 +30,16 @@
             "position": 1
           },
           {
+            "ship_id": 503,
+            "position": 2
+          },
+          {
             "ship_id": [
               73,
               121
             ],
+            "otherships": true,
             "amount": 2
-          },
-          {
-            "ship_id": 503,
-            "position": 2
           },
           {
             "otherships": true,
