@@ -3,8 +3,7 @@
   "wiki_id": "F38",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.1848462Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:05:34.3484719Z",
   "prereqs": [
     641,
     825
@@ -20,7 +19,7 @@
       {
         "category": "equipment",
         "id": 23,
-        "amount": 2
+        "amount": 1
       }
     ]
   },
@@ -36,6 +35,12 @@
         "category": "equipment",
         "id": 168,
         "amount": 1
+      },
+      {
+        "category": "inventory",
+        "id": 3,
+        "stars": 0,
+        "amount": 2
       }
     ]
   }
