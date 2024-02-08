@@ -3,21 +3,21 @@
   "wiki_id": "Cd1",
   "category": "exercise",
   "frequency": "daily",
-  "updated": "2024-02-01T07:32:47.2303298Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:17:45.8049932Z",
   "prereqs": [
     301
   ],
   "requirements": {
     "category": "exercise",
+    "daily": true,
     "times": 3
   },
   "rewards": {
     "resources": [
       50,
       0,
-      0,
-      50
+      50,
+      0
     ],
     "other": [
       {
