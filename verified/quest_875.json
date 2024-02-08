@@ -3,38 +3,39 @@
   "wiki_id": "Bq6",
   "category": "sortie",
   "frequency": "quarterly",
-  "updated": "2024-02-01T07:32:47.2030626Z",
-  "unverified": true,
+  "updated": "2024-02-08T20:37:22.0815521Z",
   "prereqs": [
     188,
     873
   ],
   "requirements": {
-    "category": "and",
-    "list": [
+    "category": "sortie",
+    "sortie": [
       {
-        "category": "sortie",
-        "sortie": [
-          {
-            "map": "5-4",
-            "boss": true,
-            "result": "S",
-            "times": 2
-          }
+        "map": "5-4",
+        "boss": true,
+        "result": "S",
+        "times": 2
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": 543,
+        "amount": 1
+      },
+      {
+        "ship_id": [
+          345,
+          359,
+          344
         ],
-        "comp": [
-          {
-            "ship_id": 543,
-            "amount": 1
-          },
-          {
-            "ship_id": [
-              345,
-              359,
-              344
-            ],
-            "amount": 1
-          }
+        "amount": 1
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
         ]
       }
     ]
