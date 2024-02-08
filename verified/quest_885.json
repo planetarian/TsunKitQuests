@@ -3,8 +3,7 @@
   "wiki_id": "B118",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2223938Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:44:48.8734741Z",
   "prereqs": [
     324
   ],
@@ -26,6 +25,13 @@
       {
         "ship_id": 553,
         "position": 1
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          5
+        ]
       }
     ]
   },
