@@ -3,8 +3,7 @@
   "wiki_id": "Fm1",
   "category": "factory",
   "frequency": "monthly",
-  "updated": "2024-02-01T07:32:47.2793536Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:53:05.1437716Z",
   "prereqs": [
     114,
     264
@@ -17,7 +16,8 @@
     "slots": [
       {
         "id": 20,
-        "fullyskilled": true
+        "fullyskilled": true,
+        "conversion": "starskept"
       }
     ],
     "consume": [
