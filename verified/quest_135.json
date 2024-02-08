@@ -3,8 +3,7 @@
   "wiki_id": "WA02",
   "category": "composition",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.1824217Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:39:39.3029414Z",
   "prereqs": [
     245
   ],
@@ -13,6 +12,7 @@
     "comp": [
       {
         "otherships": true,
+        "amount": 1,
         "position": 1,
         "lv": [
           100,
