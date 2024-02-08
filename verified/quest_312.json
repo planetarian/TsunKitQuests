@@ -3,8 +3,7 @@
   "wiki_id": "C9",
   "category": "exercise",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2122429Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:06:46.2928834Z",
   "prereqs": [
     216,
     613,
@@ -12,7 +11,7 @@
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "B",
     "daily": true,
     "times": 4
   },
