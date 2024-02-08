@@ -3,8 +3,7 @@
   "wiki_id": "Bm7",
   "category": "sortie",
   "frequency": "monthly",
-  "updated": "2024-02-01T07:32:47.2933307Z",
-  "unverified": true,
+  "updated": "2024-02-08T20:06:59.6735715Z",
   "prereqs": [
     148,
     264
@@ -26,12 +25,17 @@
         "position": 1
       },
       {
-        "class_id": 5,
+        "class_id": 3,
         "amount": 1
       },
       {
-        "class_id": 3,
+        "class_id": 5,
         "amount": 1
+      }
+    ],
+    "comp_banned": [
+      {
+        "class_id": 6
       }
     ]
   },
