@@ -3,8 +3,7 @@
   "wiki_id": "B121",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:56.434272Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:46:43.580328Z",
   "prereqs": [
     880,
     257,
@@ -32,6 +31,13 @@
           145
         ],
         "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ]
       }
     ]
   },
