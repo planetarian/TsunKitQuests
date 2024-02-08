@@ -3,8 +3,7 @@
   "wiki_id": "F51",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.1685894Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:09:16.1869301Z",
   "prereqs": [
     607,
     839
@@ -16,7 +15,8 @@
         "slot": 1,
         "id": 165,
         "fullyskilled": true,
-        "stars": 10
+        "stars": 10,
+        "conversion": "starslost"
       }
     ],
     "consume": [
