@@ -3,8 +3,7 @@
   "wiki_id": "B131",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2700387Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:53:03.9866117Z",
   "prereqs": [
     112,
     606
@@ -28,6 +27,13 @@
       {
         "class_id": 10,
         "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ]
       }
     ]
   },
