@@ -3,8 +3,7 @@
   "wiki_id": "B116",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2407568Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:43:46.3346971Z",
   "prereqs": [
     192,
     230
@@ -23,17 +22,18 @@
       {
         "ship_id": [
           198,
+          464,
           225,
           226
         ],
-        "amount": 3
+        "amount": 4
       },
       {
-        "ship_id": [
-          464,
-          470
-        ],
-        "amount": 1
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ]
   },
