@@ -3,8 +3,7 @@
   "wiki_id": "WB02",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2372184Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:40:29.5312779Z",
   "prereqs": [
     135
   ],
@@ -22,11 +21,16 @@
     "comp": [
       {
         "otherships": true,
+        "amount": 1,
         "position": 1,
         "lv": [
           100,
           999
         ]
+      },
+      {
+        "otherships": true,
+        "amount": 5
       }
     ]
   },
