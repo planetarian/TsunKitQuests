@@ -3,8 +3,7 @@
   "wiki_id": "Fq9",
   "category": "factory",
   "frequency": "quarterly",
-  "updated": "2024-02-02T22:45:10.0805615Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:57:37.3225259Z",
   "prereqs": [
     208,
     607
@@ -25,7 +24,7 @@
       {
         "category": "equipment",
         "id": 19,
-        "amount": 3
+        "amount": 2
       }
     ],
     "scrap": [
