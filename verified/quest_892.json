@@ -3,8 +3,7 @@
   "wiki_id": "B126",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2423043Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:50:42.6822192Z",
   "prereqs": [
     196,
     201
@@ -33,7 +32,10 @@
       },
       {
         "otherships": true,
-        "amount": 4
+        "amount": [
+          0,
+          4
+        ]
       }
     ]
   },
@@ -49,25 +51,6 @@
         "choices": [
           {
             "category": "inventory",
-            "id": 75,
-            "amount": 1
-          },
-          {
-            "category": "inventory",
-            "id": 77,
-            "amount": 1
-          },
-          {
-            "category": "equipment",
-            "id": 68,
-            "amount": 1
-          }
-        ]
-      },
-      {
-        "choices": [
-          {
-            "category": "inventory",
             "id": 70,
             "amount": 1
           },
@@ -75,6 +58,28 @@
             "category": "inventory",
             "id": 4,
             "amount": 4
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 75,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 77,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 68,
+            "stars": 0,
+            "amount": 1
           }
         ]
       }
