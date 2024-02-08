@@ -3,8 +3,7 @@
   "wiki_id": "B105",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2578236Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:36:01.0670546Z",
   "prereqs": [
     185,
     216
@@ -36,6 +35,10 @@
       },
       {
         "class_id": 2,
+        "amount": 2
+      },
+      {
+        "otherships": true,
         "amount": 2
       }
     ]
