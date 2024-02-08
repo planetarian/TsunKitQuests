@@ -3,8 +3,7 @@
   "wiki_id": "Bm6",
   "category": "sortie",
   "frequency": "monthly",
-  "updated": "2024-02-01T07:32:47.1906924Z",
-  "unverified": true,
+  "updated": "2024-02-08T20:06:20.4739723Z",
   "prereqs": [
     221,
     239
@@ -21,12 +20,23 @@
     ],
     "comp": [
       {
-        "class_id": 11,
+        "class_id": [
+          11,
+          7,
+          18
+        ],
         "amount": 2
       },
       {
         "class_id": 2,
         "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ]
   },
