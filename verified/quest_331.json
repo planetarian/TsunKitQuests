@@ -3,24 +3,33 @@
   "wiki_id": "C31",
   "category": "exercise",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.1985523Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:14:07.0752102Z",
   "prereqs": [
     330
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "A",
     "daily": true,
     "comp": [
       {
-        "class_id": 11,
+        "class_id": [
+          11,
+          18
+        ],
         "amount": 2,
         "position": 1
       },
       {
         "class_id": 2,
         "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ],
     "times": 3
