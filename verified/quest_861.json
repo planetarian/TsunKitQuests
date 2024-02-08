@@ -3,8 +3,7 @@
   "wiki_id": "Bq3",
   "category": "sortie",
   "frequency": "quarterly",
-  "updated": "2024-02-02T23:15:03.6232433Z",
-  "unverified": true,
+  "updated": "2024-02-08T20:35:33.248666Z",
   "prereqs": [
     217,
     617
@@ -14,6 +13,7 @@
     "sortie": [
       {
         "map": "1-6",
+        "node": "N",
         "result": "clear",
         "times": 2
       }
@@ -25,6 +25,13 @@
           22
         ],
         "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ]
       }
     ]
   },
