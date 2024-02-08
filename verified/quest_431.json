@@ -3,8 +3,7 @@
   "wiki_id": "D29",
   "category": "expedition",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2969988Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:25:19.4475378Z",
   "prereqs": [
     413,
     430
@@ -14,10 +13,10 @@
     "expeds": [
       {
         "id": [
+          "17",
           "A1",
           "A2",
-          "B1",
-          "17"
+          "B1"
         ],
         "times": 1
       }
@@ -45,12 +44,13 @@
           },
           {
             "category": "equipment",
-            "id": 238,
+            "id": 118,
             "amount": 1
           },
           {
             "category": "equipment",
-            "id": 118,
+            "id": 238,
+            "stars": 0,
             "amount": 1
           }
         ]
