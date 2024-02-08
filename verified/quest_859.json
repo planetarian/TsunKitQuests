@@ -3,8 +3,7 @@
   "wiki_id": "B102",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.261886Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:33:29.647567Z",
   "prereqs": [
     182
   ],
@@ -27,6 +26,7 @@
           82,
           88
         ],
+        "amount": 1,
         "position": 1,
         "lv": [
           50,
@@ -38,6 +38,7 @@
           82,
           88
         ],
+        "amount": 1,
         "position": 2,
         "lv": [
           50,
@@ -51,6 +52,10 @@
       {
         "class_id": 2,
         "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": 1
       }
     ]
   },
