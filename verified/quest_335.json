@@ -3,14 +3,13 @@
   "wiki_id": "C35",
   "category": "exercise",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:54.0061871Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:16:30.5056877Z",
   "prereqs": [
     320
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "S",
     "daily": true,
     "comp": [
       {
@@ -19,6 +18,13 @@
           65
         ],
         "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ]
       }
     ],
     "times": 3
