@@ -3,15 +3,14 @@
   "wiki_id": "C13",
   "category": "exercise",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2300105Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:07:17.4682929Z",
   "prereqs": [
     218,
     418
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "B",
     "daily": true,
     "times": 4
   },
@@ -24,23 +23,25 @@
     ],
     "other": [
       {
+        "category": "inventory",
+        "id": 4,
+        "amount": 2
+      },
+      {
         "choices": [
           {
             "category": "inventory",
             "id": 52,
+            "stars": 0,
             "amount": 1
           },
           {
             "category": "equipment",
             "id": 68,
+            "stars": 0,
             "amount": 1
           }
         ]
-      },
-      {
-        "category": "inventory",
-        "id": 4,
-        "amount": 2
       }
     ]
   }
