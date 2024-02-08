@@ -3,8 +3,7 @@
   "wiki_id": "B104",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2107466Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:35:37.1924005Z",
   "prereqs": [
     184,
     303
@@ -27,10 +26,17 @@
             "ship_id": [
               548,
               418,
-              366,
-              258
+              258,
+              366
             ],
             "amount": 4
+          },
+          {
+            "otherships": true,
+            "amount": [
+              0,
+              2
+            ]
           }
         ]
       }
@@ -58,12 +64,13 @@
           },
           {
             "category": "inventory",
-            "id": 75,
+            "id": 64,
             "amount": 1
           },
           {
             "category": "inventory",
-            "id": 64,
+            "id": 77,
+            "stars": 0,
             "amount": 1
           }
         ]
