@@ -3,8 +3,7 @@
   "wiki_id": "Bm3",
   "category": "sortie",
   "frequency": "monthly",
-  "updated": "2024-02-01T07:32:47.2320469Z",
-  "unverified": true,
+  "updated": "2024-02-08T20:05:10.8832122Z",
   "prereqs": [
     221
   ],
@@ -31,7 +30,7 @@
         "class_id": 2,
         "amount": [
           1,
-          99
+          5
         ]
       }
     ],
