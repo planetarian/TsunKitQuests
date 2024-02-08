@@ -3,8 +3,7 @@
   "wiki_id": "B117",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:56.384572Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:44:22.3359343Z",
   "prereqs": [
     880,
     323,
@@ -31,6 +30,7 @@
           567,
           568
         ],
+        "amount": 1,
         "position": 1
       },
       {
@@ -42,6 +42,13 @@
         "lv": [
           75,
           999
+        ]
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          3
         ]
       }
     ]
