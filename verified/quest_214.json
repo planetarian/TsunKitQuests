@@ -3,13 +3,30 @@
   "wiki_id": "Bw1",
   "category": "sortie",
   "frequency": "weekly",
-  "updated": "2024-02-01T07:32:47.264714Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:19:18.0628868Z",
   "prereqs": [
     216
   ],
   "requirements": {
-    "category": "a-gou"
+    "category": "sortie",
+    "sortie": [
+      {
+        "times": 36
+      },
+      {
+        "boss": true,
+        "times": 24
+      },
+      {
+        "boss": true,
+        "result": "B",
+        "times": 12
+      },
+      {
+        "result": "S",
+        "times": 6
+      }
+    ]
   },
   "rewards": {
     "resources": [
