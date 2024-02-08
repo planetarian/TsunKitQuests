@@ -3,8 +3,7 @@
   "wiki_id": "Bq5",
   "category": "sortie",
   "frequency": "quarterly",
-  "updated": "2024-02-02T23:15:03.7234233Z",
-  "unverified": true,
+  "updated": "2024-02-08T20:36:49.2590634Z",
   "prereqs": [
     215,
     207,
@@ -31,7 +30,10 @@
       },
       {
         "otherships": true,
-        "amount": 5
+        "amount": [
+          0,
+          5
+        ]
       }
     ]
   },
@@ -46,11 +48,6 @@
       {
         "choices": [
           {
-            "category": "inventory",
-            "id": 52,
-            "amount": 1
-          },
-          {
             "category": "equipment",
             "id": 266,
             "stars": 3,
@@ -58,7 +55,14 @@
           },
           {
             "category": "inventory",
+            "id": 52,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
             "id": 57,
+            "stars": 0,
             "amount": 1
           }
         ]
