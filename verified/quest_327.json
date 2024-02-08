@@ -3,20 +3,26 @@
   "wiki_id": "C25",
   "category": "exercise",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:53.9133651Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:11:45.6133645Z",
   "prereqs": [
     104,
     210
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "B",
     "daily": true,
     "comp": [
       {
         "family_id": 18,
         "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ],
     "times": 4
