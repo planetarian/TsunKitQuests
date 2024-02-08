@@ -3,8 +3,7 @@
   "wiki_id": "D30",
   "category": "expedition",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2887532Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:25:42.9338125Z",
   "prereqs": [
     416
   ],
@@ -14,8 +13,8 @@
       {
         "id": [
           "A2",
-          "B1",
-          "10"
+          "10",
+          "B1"
         ],
         "times": 1
       }
@@ -58,7 +57,7 @@
           {
             "category": "equipment",
             "id": 37,
-            "amount": 1
+            "amount": 2
           }
         ]
       }
