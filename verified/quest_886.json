@@ -3,8 +3,7 @@
   "wiki_id": "B119",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2626276Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:45:41.3992997Z",
   "prereqs": [
     324
   ],
@@ -21,11 +20,19 @@
     "comp": [
       {
         "ship_id": 553,
+        "amount": 1,
         "position": 1
       },
       {
         "class_id": 2,
         "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          3
+        ]
       }
     ]
   },
