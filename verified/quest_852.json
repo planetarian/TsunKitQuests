@@ -1,0 +1,63 @@
+{
+  "game_id": 852,
+  "wiki_id": "B96",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2024-02-08T21:28:23.7048498Z",
+  "prereqs": [
+    851
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "6-2",
+          "6-5"
+        ],
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": 508,
+        "position": 1
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          5
+        ]
+      }
+    ],
+    "comp_banned": [
+      {
+        "ship_id": 503
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      1000,
+      0,
+      1000
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 220,
+        "amount": 1
+      },
+      {
+        "category": "equipment",
+        "id": 219,
+        "stars": 0,
+        "amount": 1
+      }
+    ]
+  }
+}
