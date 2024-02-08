@@ -3,13 +3,13 @@
   "wiki_id": "WA01",
   "category": "composition",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2175379Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:39:16.7797843Z",
   "prereqs": [
     306
   ],
   "requirements": {
     "category": "fleet",
+    "fleet_id": 1,
     "comp": [
       {
         "otherships": true,
@@ -17,6 +17,13 @@
         "lv": [
           90,
           99
+        ]
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          5
         ]
       }
     ]
