@@ -3,8 +3,7 @@
   "wiki_id": "B139",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2399873Z",
-  "unverified": true,
+  "updated": "2024-02-08T22:03:25.7397824Z",
   "prereqs": [
     621,
     828
@@ -28,9 +27,13 @@
           16,
           17
         ],
+        "amount": 1
+      },
+      {
+        "otherships": true,
         "amount": [
-          1,
-          99
+          0,
+          5
         ]
       }
     ]
