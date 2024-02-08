@@ -3,8 +3,7 @@
   "wiki_id": "D17",
   "category": "expedition",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2293667Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:22:00.9306223Z",
   "prereqs": [
     137
   ],
@@ -28,7 +27,7 @@
       {
         "category": "inventory",
         "id": 3,
-        "amount": 3
+        "amount": 2
       }
     ]
   }
