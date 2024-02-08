@@ -3,23 +3,18 @@
   "wiki_id": "C32",
   "category": "exercise",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:53.9688946Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:14:35.2173928Z",
   "prereqs": [
     301,
     206
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "S",
     "daily": true,
     "comp": [
       {
-        "class_id": [
-          3,
-          21,
-          4
-        ],
+        "class_id": 3,
         "amount": 1
       },
       {
@@ -31,7 +26,10 @@
       },
       {
         "otherships": true,
-        "amount": 2
+        "amount": [
+          0,
+          2
+        ]
       }
     ],
     "times": 4
