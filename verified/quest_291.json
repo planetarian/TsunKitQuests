@@ -3,8 +3,7 @@
   "wiki_id": "B134",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2894345Z",
-  "unverified": true,
+  "updated": "2024-02-08T22:00:02.0974705Z",
   "prereqs": [
     431
   ],
@@ -29,11 +28,15 @@
       },
       {
         "ship_id": 182,
-        "class_id": 16
+        "class_id": 16,
+        "amount": 1
       },
       {
         "otherships": true,
-        "amount": 4
+        "amount": [
+          0,
+          4
+        ]
       }
     ]
   },
