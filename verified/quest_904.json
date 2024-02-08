@@ -3,8 +3,7 @@
   "wiki_id": "By1",
   "category": "sortie",
   "frequency": "annual",
-  "updated": "2024-02-03T06:26:41.554091Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:01:54.4219392Z",
   "prereqs": [
     276,
     662
@@ -31,6 +30,13 @@
           627
         ],
         "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ]
       }
     ]
   },
@@ -57,7 +63,7 @@
           {
             "category": "inventory",
             "id": 11,
-            "amount": 1
+            "amount": 10
           }
         ]
       },
