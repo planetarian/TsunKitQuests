@@ -3,15 +3,14 @@
   "wiki_id": "C21",
   "category": "exercise",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:53.8619814Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:10:08.231618Z",
   "prereqs": [
     193,
     317
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "B",
     "daily": true,
     "comp": [
       {
@@ -23,6 +22,13 @@
         "lv": [
           70,
           999
+        ]
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
         ]
       }
     ],
@@ -40,12 +46,13 @@
         "choices": [
           {
             "category": "inventory",
-            "id": 3,
+            "id": 1,
             "amount": 4
           },
           {
             "category": "inventory",
-            "id": 1,
+            "id": 3,
+            "stars": 0,
             "amount": 4
           }
         ]
