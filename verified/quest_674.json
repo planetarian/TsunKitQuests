@@ -3,14 +3,13 @@
   "wiki_id": "Fd8",
   "category": "factory",
   "frequency": "daily",
-  "updated": "2024-02-01T07:32:47.2117944Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:51:01.3941093Z",
   "prereqs": [
     673
   ],
   "requirements": {
-    "category": "equipexchange",
-    "scrap": [
+    "category": "scrapequipment",
+    "list": [
       {
         "category": "equipgroup",
         "id": 21,
@@ -20,7 +19,7 @@
     "resources": [
       0,
       0,
-      300,
+      800,
       0
     ]
   },
