@@ -3,8 +3,7 @@
   "wiki_id": "Bq9",
   "category": "sortie",
   "frequency": "quarterly",
-  "updated": "2024-02-02T23:15:03.9352666Z",
-  "unverified": true,
+  "updated": "2024-02-08T20:38:42.5479838Z",
   "prereqs": [
     206,
     411
@@ -31,11 +30,15 @@
           7,
           11,
           18
-        ]
+        ],
+        "amount": 1
       },
       {
         "otherships": true,
-        "amount": 5
+        "amount": [
+          0,
+          5
+        ]
       }
     ]
   },
@@ -51,13 +54,14 @@
         "choices": [
           {
             "category": "inventory",
-            "id": 77,
-            "amount": 1
+            "id": 3,
+            "amount": 4
           },
           {
             "category": "inventory",
-            "id": 3,
-            "amount": 4
+            "id": 77,
+            "stars": 0,
+            "amount": 1
           }
         ]
       },
