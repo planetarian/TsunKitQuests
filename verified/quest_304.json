@@ -3,14 +3,14 @@
   "wiki_id": "Cd2",
   "category": "exercise",
   "frequency": "daily",
-  "updated": "2024-02-01T07:32:47.2019912Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:18:05.3899371Z",
   "prereqs": [
     303
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "B",
+    "daily": true,
     "times": 5
   },
   "rewards": {
