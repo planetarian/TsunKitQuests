@@ -3,8 +3,7 @@
   "wiki_id": "B91",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2873161Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:25:39.1121448Z",
   "prereqs": [
     218,
     815
@@ -25,14 +24,15 @@
           13,
           14
         ],
+        "amount": 4,
         "position": 1
       },
       {
-        "class_id": [
-          13,
-          14
-        ],
-        "amount": 3
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ]
   },
