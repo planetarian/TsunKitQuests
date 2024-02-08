@@ -3,8 +3,7 @@
   "wiki_id": "Cm2",
   "category": "exercise",
   "frequency": "monthly",
-  "updated": "2024-02-02T22:33:53.8132047Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:19:20.3406992Z",
   "prereqs": [
     618,
     675,
@@ -15,12 +14,19 @@
     "list": [
       {
         "category": "exercise",
-        "victory": true,
+        "result": "B",
         "daily": true,
         "comp": [
           {
             "class_id": 3,
             "amount": 2
+          },
+          {
+            "otherships": true,
+            "amount": [
+              0,
+              4
+            ]
           }
         ],
         "times": 3
@@ -47,11 +53,6 @@
     ],
     "other": [
       {
-        "category": "inventory",
-        "id": 59,
-        "amount": 1
-      },
-      {
         "choices": [
           {
             "category": "inventory",
@@ -62,6 +63,12 @@
             "category": "inventory",
             "id": 1,
             "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 59,
+            "stars": 0,
+            "amount": 1
           }
         ]
       }
