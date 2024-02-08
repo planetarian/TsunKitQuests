@@ -3,13 +3,13 @@
   "wiki_id": "Bd3",
   "category": "sortie",
   "frequency": "daily",
-  "updated": "2024-02-01T07:32:47.1833376Z",
-  "unverified": true,
+  "updated": "2024-02-08T20:01:26.1083903Z",
   "prereqs": [
     216
   ],
   "requirements": {
     "category": "simple",
+    "subcategory": "battle",
     "times": 10
   },
   "rewards": {
