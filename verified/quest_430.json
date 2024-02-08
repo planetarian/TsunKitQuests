@@ -3,8 +3,7 @@
   "wiki_id": "D28",
   "category": "expedition",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2064391Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:24:44.0899435Z",
   "prereqs": [
     682
   ],
@@ -13,20 +12,12 @@
     "expeds": [
       {
         "id": [
-          "A1",
-          "A2",
           "5",
-          "9"
+          "9",
+          "A1",
+          "A2"
         ],
         "times": 1
-      }
-    ],
-    "comp": [
-      {
-        "class_id": 1
-      },
-      {
-        "class_id": 2
       }
     ]
   },
