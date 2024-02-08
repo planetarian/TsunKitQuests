@@ -3,8 +3,7 @@
   "wiki_id": "D7",
   "category": "expedition",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.285402Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:20:40.5042304Z",
   "prereqs": [
     406
   ],
@@ -26,13 +25,14 @@
     ],
     "other": [
       {
-        "category": "inventory",
-        "id": 52,
+        "category": "equipment",
+        "id": 64,
         "amount": 1
       },
       {
-        "category": "equipment",
-        "id": 64,
+        "category": "inventory",
+        "id": 52,
+        "stars": 0,
         "amount": 1
       }
     ]
