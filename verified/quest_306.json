@@ -3,14 +3,13 @@
   "wiki_id": "WC01",
   "category": "exercise",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2611399Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:40:50.7435724Z",
   "prereqs": [
     611
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "B",
     "daily": true,
     "times": 2
   },
