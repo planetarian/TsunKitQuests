@@ -3,8 +3,7 @@
   "wiki_id": "B128",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:53.5525008Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:51:38.5964692Z",
   "prereqs": [
     287,
     674
@@ -26,6 +25,13 @@
       {
         "ship_id": 86,
         "position": 1
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          5
+        ]
       }
     ]
   },
@@ -40,11 +46,6 @@
       {
         "category": "furniture",
         "id": 416
-      },
-      {
-        "category": "inventory",
-        "id": 60,
-        "amount": 1
       },
       {
         "choices": [
