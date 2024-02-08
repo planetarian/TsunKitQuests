@@ -3,8 +3,7 @@
   "wiki_id": "Bq10",
   "category": "sortie",
   "frequency": "quarterly",
-  "updated": "2024-02-01T07:32:47.2185541Z",
-  "unverified": true,
+  "updated": "2024-02-08T20:39:54.4438287Z",
   "prereqs": [
     854
   ],
@@ -22,7 +21,8 @@
         "result": "S",
         "times": 1
       }
-    ]
+    ],
+    "fleet_id": 1
   },
   "rewards": {
     "resources": [
