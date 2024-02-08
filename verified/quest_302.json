@@ -3,14 +3,13 @@
   "wiki_id": "Cw1",
   "category": "exercise",
   "frequency": "weekly",
-  "updated": "2024-02-01T07:32:47.1981791Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:19:41.3171895Z",
   "prereqs": [
     303
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "B",
     "times": 20
   },
   "rewards": {
