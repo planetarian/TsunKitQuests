@@ -3,15 +3,14 @@
   "wiki_id": "C27",
   "category": "exercise",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:53.9268781Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:13:43.0660894Z",
   "prereqs": [
     195,
     327
   ],
   "requirements": {
     "category": "exercise",
-    "victory": true,
+    "result": "B",
     "daily": true,
     "comp": [
       {
@@ -22,6 +21,13 @@
           559
         ],
         "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ],
     "times": 4
@@ -35,15 +41,23 @@
     ],
     "other": [
       {
+        "category": "inventory",
+        "id": 54,
+        "stars": 0,
+        "amount": 1
+      },
+      {
         "choices": [
-          {
-            "category": "equipment",
-            "id": 227,
-            "amount": 1
-          },
           {
             "category": "inventory",
             "id": 64,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 227,
+            "stars": 0,
             "amount": 1
           }
         ]
