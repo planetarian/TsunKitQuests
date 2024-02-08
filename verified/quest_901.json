@@ -3,8 +3,7 @@
   "wiki_id": "B140",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2088562Z",
-  "unverified": true,
+  "updated": "2024-02-08T22:03:53.5085535Z",
   "prereqs": [
     605,
     219
@@ -26,16 +25,15 @@
     ],
     "comp": [
       {
-        "ship_id": [
-          622,
-          623,
-          624
-        ],
+        "ship_id": 622,
         "position": 1
       },
       {
         "otherships": true,
-        "amount": 5
+        "amount": [
+          0,
+          5
+        ]
       }
     ]
   },
