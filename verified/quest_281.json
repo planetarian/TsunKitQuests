@@ -3,8 +3,7 @@
   "wiki_id": "B129",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2146892Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:52:09.9039224Z",
   "prereqs": [
     158
   ],
@@ -29,6 +28,7 @@
           541,
           573
         ],
+        "amount": 1,
         "position": 1
       },
       {
@@ -36,11 +36,15 @@
           541,
           573
         ],
+        "amount": 1,
         "position": 2
       },
       {
         "otherships": true,
-        "amount": 4
+        "amount": [
+          0,
+          4
+        ]
       }
     ]
   },
