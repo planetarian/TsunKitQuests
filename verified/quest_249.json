@@ -3,8 +3,7 @@
   "wiki_id": "Bm1",
   "category": "sortie",
   "frequency": "monthly",
-  "updated": "2024-02-01T07:32:47.2800244Z",
-  "unverified": true,
+  "updated": "2024-02-08T20:03:58.7189405Z",
   "prereqs": [
     137
   ],
@@ -26,6 +25,13 @@
           65
         ],
         "amount": 3
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          3
+        ]
       }
     ]
   },
