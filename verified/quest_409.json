@@ -3,8 +3,7 @@
   "wiki_id": "D8",
   "category": "expedition",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.1961205Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:21:04.9138279Z",
   "prereqs": [
     408
   ],
@@ -26,8 +25,15 @@
     ],
     "other": [
       {
+        "category": "inventory",
+        "id": 11,
+        "stars": 0,
+        "amount": 1
+      },
+      {
         "category": "ship",
         "id": 174,
+        "stars": 0,
         "amount": 1
       }
     ]
