@@ -3,8 +3,7 @@
   "wiki_id": "B127",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:56.5054065Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:51:15.4330951Z",
   "prereqs": [
     894,
     312
@@ -26,16 +25,16 @@
     ],
     "comp": [
       {
-        "class_id": [
-          3,
-          4,
-          21
-        ],
+        "class_id": 3,
+        "amount": 1,
         "position": 1
       },
       {
         "otherships": true,
-        "amount": 5
+        "amount": [
+          0,
+          5
+        ]
       }
     ]
   },
