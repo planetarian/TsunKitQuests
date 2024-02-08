@@ -3,8 +3,7 @@
   "wiki_id": "B99",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2450244Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:29:54.2765994Z",
   "prereqs": [
     180,
     855
@@ -30,6 +29,10 @@
       {
         "ship_id": 276,
         "position": 2
+      },
+      {
+        "otherships": true,
+        "amount": 4
       }
     ]
   },
