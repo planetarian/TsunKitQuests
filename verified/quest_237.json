@@ -3,8 +3,7 @@
   "wiki_id": "B138",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:53.143996Z",
-  "unverified": true,
+  "updated": "2024-02-08T22:03:04.6973731Z",
   "prereqs": [
     110,
     235
@@ -45,7 +44,8 @@
             "class_id": 2,
             "amount": 2
           }
-        ]
+        ],
+        "disallowed": "otherships"
       },
       {
         "category": "sortie",
