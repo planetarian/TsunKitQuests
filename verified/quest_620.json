@@ -3,8 +3,7 @@
   "wiki_id": "F88",
   "category": "factory",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2884009Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:14:25.1199536Z",
   "prereqs": [
     283,
     623
@@ -12,10 +11,7 @@
   "requirements": {
     "category": "conversion",
     "secretary": {
-      "ship_id": [
-        594,
-        599
-      ]
+      "ship_id": 594
     },
     "slots": [
       {
@@ -28,7 +24,7 @@
       {
         "category": "inventory",
         "id": 70,
-        "amount": 1
+        "amount": 2
       }
     ],
     "scrap": [
