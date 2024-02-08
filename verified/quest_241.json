@@ -3,8 +3,7 @@
   "wiki_id": "Bw7",
   "category": "sortie",
   "frequency": "weekly",
-  "updated": "2024-02-01T07:32:47.2703958Z",
-  "unverified": true,
+  "updated": "2024-02-08T20:32:58.5419052Z",
   "prereqs": [
     228
   ],
@@ -39,7 +38,14 @@
       },
       {
         "category": "inventory",
+        "id": 11,
+        "stars": 0,
+        "amount": 1
+      },
+      {
+        "category": "inventory",
         "id": 4,
+        "stars": 0,
         "amount": 3
       }
     ]
