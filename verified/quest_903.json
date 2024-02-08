@@ -3,8 +3,7 @@
   "wiki_id": "Bq13",
   "category": "sortie",
   "frequency": "quarterly",
-  "updated": "2024-02-01T07:32:47.276662Z",
-  "unverified": true,
+  "updated": "2024-02-08T20:42:00.8263803Z",
   "prereqs": [
     902
   ],
@@ -48,7 +47,10 @@
           },
           {
             "otherships": true,
-            "amount": 3
+            "amount": [
+              0,
+              3
+            ]
           }
         ]
       },
@@ -82,7 +84,10 @@
           },
           {
             "otherships": true,
-            "amount": 4
+            "amount": [
+              0,
+              4
+            ]
           }
         ]
       }
@@ -90,10 +95,10 @@
   },
   "rewards": {
     "resources": [
+      0,
       1000,
       1000,
-      1000,
-      0
+      1000
     ],
     "other": [
       {
@@ -109,12 +114,13 @@
           },
           {
             "category": "inventory",
-            "id": 75,
+            "id": 57,
             "amount": 1
           },
           {
             "category": "inventory",
-            "id": 57,
+            "id": 77,
+            "stars": 0,
             "amount": 1
           }
         ]
