@@ -3,8 +3,7 @@
   "wiki_id": "E1",
   "category": "supply",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.1953932Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:36:44.2806468Z",
   "prereqs": [
     203
   ],
@@ -15,7 +14,7 @@
   },
   "rewards": {
     "resources": [
-      0,
+      20,
       20,
       0,
       0
