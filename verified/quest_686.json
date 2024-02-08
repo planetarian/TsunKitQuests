@@ -3,8 +3,7 @@
   "wiki_id": "Fq7",
   "category": "factory",
   "frequency": "quarterly",
-  "updated": "2024-02-01T07:32:47.2075173Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:56:37.851671Z",
   "prereqs": [
     680,
     685
@@ -12,21 +11,18 @@
   "requirements": {
     "category": "conversion",
     "secretary": {
-      "ship_id": [
-        9,
-        10,
-        32,
-        11,
-        33,
+      "family_id": [
         12,
-        486
+        1,
+        5
       ]
     },
     "slots": [
       {
         "slot": 1,
         "id": 294,
-        "stars": 10
+        "stars": 10,
+        "conversion": "starslost"
       }
     ],
     "consume": [
