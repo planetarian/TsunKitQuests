@@ -3,8 +3,7 @@
   "wiki_id": "Bm4",
   "category": "sortie",
   "frequency": "monthly",
-  "updated": "2024-02-01T07:32:47.2260124Z",
-  "unverified": true,
+  "updated": "2024-02-08T20:05:37.8163717Z",
   "prereqs": [
     145
   ],
@@ -31,6 +30,13 @@
       {
         "class_id": 3,
         "amount": 1
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ]
   },
