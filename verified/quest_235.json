@@ -3,8 +3,7 @@
   "wiki_id": "B135",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-02T22:33:53.1197578Z",
-  "unverified": true,
+  "updated": "2024-02-08T22:00:47.5095868Z",
   "prereqs": [
     206
   ],
@@ -35,6 +34,13 @@
           1
         ],
         "amount": 3
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
       }
     ]
   },
