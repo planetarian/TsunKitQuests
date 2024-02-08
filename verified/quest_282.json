@@ -3,8 +3,7 @@
   "wiki_id": "B130",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.1919721Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:52:41.557463Z",
   "prereqs": [
     281
   ],
@@ -28,6 +27,7 @@
           541,
           573
         ],
+        "amount": 1,
         "position": 1
       },
       {
@@ -35,11 +35,15 @@
           541,
           573
         ],
+        "amount": 1,
         "position": 2
       },
       {
         "otherships": true,
-        "amount": 4
+        "amount": [
+          0,
+          4
+        ]
       }
     ]
   },
