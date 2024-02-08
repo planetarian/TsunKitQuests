@@ -3,8 +3,7 @@
   "wiki_id": "B92",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2574402Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:25:53.0893624Z",
   "prereqs": [
     846
   ],
@@ -22,6 +21,13 @@
       {
         "ship_id": 496,
         "position": 1
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          5
+        ]
       }
     ]
   },
