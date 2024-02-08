@@ -3,21 +3,24 @@
   "wiki_id": "G5",
   "category": "modernization",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.158358Z",
-  "unverified": true,
+  "updated": "2024-02-08T19:38:19.4372548Z",
   "prereqs": [
     703,
     838
   ],
   "requirements": {
     "category": "modernization",
-    "class_id": 11,
+    "class_id": [
+      11,
+      18
+    ],
     "times": 2,
     "consume": [
       {
         "class_id": [
           7,
-          11
+          11,
+          18
         ],
         "amount": 5
       }
