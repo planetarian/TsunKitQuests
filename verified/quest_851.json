@@ -3,48 +3,40 @@
   "wiki_id": "B95",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2038174Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:27:42.2466112Z",
   "prereqs": [
     287,
     838
   ],
   "requirements": {
-    "category": "and",
-    "list": [
+    "category": "sortie",
+    "sortie": [
       {
-        "category": "sortie",
-        "sortie": [
-          {
-            "map": "5-1",
-            "boss": true,
-            "result": "A",
-            "times": 1
-          }
+        "map": [
+          "5-1",
+          "5-3"
         ],
-        "comp": [
-          {
-            "ship_id": 503,
-            "position": 1
-          }
-        ]
+        "boss": true,
+        "result": "A",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": 503,
+        "position": 1
       },
       {
-        "category": "sortie",
-        "sortie": [
-          {
-            "map": "5-3",
-            "boss": true,
-            "result": "A",
-            "times": 1
-          }
-        ],
-        "comp": [
-          {
-            "ship_id": 503,
-            "position": 1
-          }
+        "otherships": true,
+        "amount": [
+          0,
+          5
         ]
+      }
+    ],
+    "comp_banned": [
+      {
+        "ship_id": 508
       }
     ]
   },
