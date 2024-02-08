@@ -3,8 +3,7 @@
   "wiki_id": "B90",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2850794Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:25:15.2906044Z",
   "prereqs": [
     820,
     829
@@ -31,6 +30,13 @@
           97
         ],
         "amount": 1
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ]
       }
     ]
   },
