@@ -3,8 +3,7 @@
   "wiki_id": "B85",
   "category": "sortie",
   "frequency": "onetime",
-  "updated": "2024-02-01T07:32:47.2912202Z",
-  "unverified": true,
+  "updated": "2024-02-08T21:22:34.3942226Z",
   "prereqs": [
     179
   ],
@@ -27,10 +26,10 @@
         "ship_id": [
           119,
           118,
-          215,
           264,
-          368,
-          208
+          99,
+          208,
+          368
         ],
         "amount": 5
       }
