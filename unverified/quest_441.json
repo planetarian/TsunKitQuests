@@ -1,0 +1,83 @@
+{
+  "game_id": 441,
+  "wiki_id": "2401D1",
+  "category": "expedition",
+  "frequency": "event",
+  "release_date": "2024-01-25",
+  "updated": "2024-02-09T09:31:13.8524633Z",
+  "unverified": true,
+  "prereqs": [
+    841,
+    314
+  ],
+  "requirements": {
+    "category": "expedition",
+    "expeds": [
+      {
+        "id": [
+          "4",
+          "5",
+          "9",
+          "A3",
+          "15",
+          "19"
+        ],
+        "times": 1
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      850,
+      650,
+      1000,
+      450
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 75,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 90,
+            "stars": 0,
+            "amount": 3
+          },
+          {
+            "category": "inventory",
+            "id": 31,
+            "stars": 0,
+            "amount": 2024
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 5
+          },
+          {
+            "category": "inventory",
+            "id": 57,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 50,
+            "stars": 8,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}
