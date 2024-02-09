@@ -3,7 +3,10 @@
   "wiki_id": "Cs5",
   "category": "exercise",
   "frequency": "seasonal",
-  "updated": "2024-02-06T20:34:24.8300689Z",
+  "release_date": "2023-07-07",
+  "end_date": "2023-10-11",
+  "updated": "2024-02-09T08:36:57.033837Z",
+  "unavailable": true,
   "prereqs": [
     206,
     303
