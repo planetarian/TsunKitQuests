@@ -1,9 +1,10 @@
 {
   "game_id": 841,
-  "wiki_id": "2401",
+  "wiki_id": "2401B6",
   "category": "sortie",
   "frequency": "weekly",
-  "updated": "2024-02-08T22:17:11.1051293Z",
+  "release_date": "2024-01-25",
+  "updated": "2024-02-09T08:59:12.1385747Z",
   "prereqs": [
     840,
     329
