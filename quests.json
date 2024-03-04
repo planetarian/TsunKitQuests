@@ -11592,7 +11592,8 @@
     "category": "exercise",
     "frequency": "daily",
     "release_date": "2024-01-25",
-    "updated": "2024-02-09T08:59:37.5964459Z",
+    "updated": "2024-03-04T03:34:29.3595399Z",
+    "unavailable": true,
     "prereqs": [
       301
     ],
