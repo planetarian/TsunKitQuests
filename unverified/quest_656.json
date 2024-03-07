@@ -1,0 +1,48 @@
+{
+  "game_id": 656,
+  "wiki_id": "F49",
+  "category": "factory",
+  "frequency": "onetime",
+  "release_date": "2017-02-28",
+  "updated": "2024-03-07T11:43:53.6481613Z",
+  "unverified": true,
+  "prereqs": [
+    828,
+    846
+  ],
+  "requirements": {
+    "category": "conversion",
+    "secretary": {
+      "ship_id": [
+        155,
+        495,
+        494
+      ]
+    },
+    "slots": [
+      {
+        "slot": 1,
+        "id": 62
+      },
+      {
+        "slot": 2,
+        "id": 207
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 208,
+        "amount": 1
+      }
+    ]
+  }
+}
