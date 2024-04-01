@@ -1,0 +1,50 @@
+{
+  "game_id": 616,
+  "wiki_id": "F15",
+  "category": "factory",
+  "frequency": "onetime",
+  "release_date": "2014-08-09",
+  "updated": "2024-04-01T01:56:59.8024362Z",
+  "unverified": true,
+  "prereqs": [
+    253
+  ],
+  "requirements": {
+    "category": "conversion",
+    "secretary": {
+      "class_id": [
+        11,
+        7,
+        18
+      ]
+    },
+    "slots": [
+      {
+        "id": 109,
+        "conversion": "starskept"
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipment",
+        "id": 22,
+        "amount": 2
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      0,
+      50
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 110,
+        "amount": 1
+      }
+    ]
+  }
+}
