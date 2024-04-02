@@ -1,0 +1,41 @@
+{
+  "game_id": 312,
+  "wiki_id": "C9",
+  "category": "exercise",
+  "frequency": "onetime",
+  "release_date": "2016-04-22",
+  "updated": "2024-04-02T14:48:52.6118395Z",
+  "unverified": true,
+  "unavailable": true,
+  "prereqs": [
+    216,
+    613,
+    635
+  ],
+  "requirements": {
+    "category": "exercise",
+    "result": "B",
+    "daily": true,
+    "times": 4
+  },
+  "rewards": {
+    "resources": [
+      0,
+      200,
+      200,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 2
+      },
+      {
+        "category": "equipment",
+        "id": 145,
+        "amount": 1
+      }
+    ]
+  }
+}
