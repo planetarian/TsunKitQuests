@@ -1,0 +1,83 @@
+{
+  "game_id": 880,
+  "wiki_id": "B115",
+  "category": "sortie",
+  "frequency": "onetime",
+  "release_date": "2018-03-23",
+  "updated": "2024-04-02T21:54:02.409997Z",
+  "unverified": true,
+  "prereqs": [
+    320,
+    680
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "2-3",
+          "3-2",
+          "4-2"
+        ],
+        "result": "A",
+        "times": 1
+      },
+      {
+        "map": "1-6",
+        "node": "N",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "class_id": 2,
+        "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      480,
+      480,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 52,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 75,
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 78,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 57,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}
