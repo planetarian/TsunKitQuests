@@ -14201,6 +14201,102 @@
       ]
     }
   },
+  "371": {
+    "game_id": 371,
+    "wiki_id": "Cy12",
+    "category": "exercise",
+    "frequency": "annual",
+    "release_date": "2024-04-10",
+    "updated": "2024-04-17T14:32:19.4931612Z",
+    "prereqs": [
+      1006,
+      350
+    ],
+    "requirements": {
+      "category": "exercise",
+      "result": "A",
+      "daily": true,
+      "comp": [
+        {
+          "ship_id": 405,
+          "amount": 1,
+          "position": 1
+        },
+        {
+          "ship_id": [
+            42,
+            43,
+            44,
+            45,
+            46
+          ],
+          "amount": 3
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            2
+          ]
+        }
+      ],
+      "times": 4
+    },
+    "rewards": {
+      "resources": [
+        200,
+        270,
+        0,
+        0
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 94,
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 1,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "inventory",
+              "id": 3,
+              "stars": 0,
+              "amount": 7
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 4,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 40,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 145,
+              "stars": 0,
+              "amount": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
   "401": {
     "game_id": 401,
     "wiki_id": "D1",
