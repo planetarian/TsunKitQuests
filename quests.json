@@ -35586,19 +35586,13 @@
     "category": "factory",
     "frequency": "onetime",
     "release_date": "2021-06-22",
-    "updated": "2024-02-09T08:36:56.2778847Z",
-    "edited": "2024-04-26T20:15:02.3537927Z",
+    "updated": "2024-05-01T02:13:13.1457898Z",
     "prereqs": [
       1101
     ],
     "requirements": {
       "category": "conversion",
-      "scrap": [
-        {
-          "category": "equipment",
-          "id": 1,
-          "amount": 7
-        },
+      "consume": [
         {
           "category": "equipment",
           "id": 6,
@@ -35608,6 +35602,13 @@
           "category": "equipment",
           "id": 7,
           "amount": 5
+        }
+      ],
+      "scrap": [
+        {
+          "category": "equipment",
+          "id": 1,
+          "amount": 7
         }
       ],
       "resources": [
