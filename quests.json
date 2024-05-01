@@ -33218,6 +33218,110 @@
       ]
     }
   },
+  "972": {
+    "game_id": 972,
+    "wiki_id": "2404B2",
+    "category": "sortie",
+    "frequency": "event",
+    "release_date": "2024-04-23",
+    "updated": "2024-05-01T06:46:39.3781666Z",
+    "prereqs": [
+      971
+    ],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "2-2",
+            "2-3",
+            "2-4",
+            "5-1"
+          ],
+          "boss": true,
+          "result": "S",
+          "times": 1
+        }
+      ],
+      "comp": [
+        {
+          "class_id": 5,
+          "amount": 1,
+          "position": 1
+        },
+        {
+          "class_id": 5,
+          "amount": 1
+        },
+        {
+          "class_id": 3,
+          "amount": 1
+        },
+        {
+          "class_id": 2,
+          "amount": 2
+        },
+        {
+          "otherships": true,
+          "amount": 1
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        2024,
+        423,
+        0
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 54,
+              "stars": 0,
+              "amount": 11
+            },
+            {
+              "category": "inventory",
+              "id": 4,
+              "stars": 0,
+              "amount": 11
+            },
+            {
+              "category": "inventory",
+              "id": 78,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 90,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 106,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "inventory",
+              "id": 57,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
   "973": {
     "game_id": 973,
     "wiki_id": "By11",
