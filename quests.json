@@ -35745,6 +35745,87 @@
       ]
     }
   },
+  "1016": {
+    "game_id": 1016,
+    "wiki_id": "B203",
+    "category": "sortie",
+    "frequency": "onetime",
+    "release_date": "2024-06-27",
+    "updated": "2024-07-03T14:57:24.1128096Z",
+    "unverified": true,
+    "prereqs": [
+      1015
+    ],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "2-4",
+            "3-5",
+            "7-4P",
+            "5-4",
+            "5-5"
+          ],
+          "boss": true,
+          "result": "S",
+          "times": 1
+        }
+      ],
+      "comp": [
+        {
+          "ship_id": 968,
+          "amount": 1,
+          "position": 1
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            5
+          ]
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "other": [
+        {
+          "category": "equipment",
+          "id": 533,
+          "stars": 0,
+          "amount": 1
+        },
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 121,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "inventory",
+              "id": 57,
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 78,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
   "1101": {
     "game_id": 1101,
     "wiki_id": "F96",
