@@ -38336,6 +38336,74 @@
       ]
     }
   },
+  "1137": {
+    "game_id": 1137,
+    "wiki_id": "F123",
+    "category": "factory",
+    "frequency": "onetime",
+    "release_date": "2024-05-29",
+    "updated": "2024-07-03T15:28:54.0819591Z",
+    "prereqs": [
+      619
+    ],
+    "requirements": {
+      "category": "conversion",
+      "secretary": {
+        "family_id": 117
+      },
+      "slots": [
+        {
+          "slot": 1,
+          "id": 45
+        }
+      ],
+      "consume": [
+        {
+          "category": "inventory",
+          "id": 3,
+          "amount": 32
+        }
+      ],
+      "scrap": [
+        {
+          "category": "equipment",
+          "id": 46,
+          "amount": 4
+        },
+        {
+          "category": "equipment",
+          "id": 44,
+          "amount": 4
+        },
+        {
+          "category": "equipment",
+          "id": 226,
+          "amount": 4
+        },
+        {
+          "category": "equipment",
+          "id": 45,
+          "amount": 1
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "other": [
+        {
+          "category": "equipment",
+          "id": 287,
+          "stars": 1,
+          "amount": 1
+        }
+      ]
+    }
+  },
   "240363": {
     "game_id": 240363,
     "wiki_id": "2404C1",
