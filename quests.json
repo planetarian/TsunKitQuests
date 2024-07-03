@@ -36074,7 +36074,7 @@
     "category": "sortie",
     "frequency": "onetime",
     "release_date": "2024-06-27",
-    "updated": "2024-07-03T15:23:16.3920885Z",
+    "updated": "2024-07-03T15:24:34.4375709Z",
     "prereqs": [
       1015
     ],
@@ -36111,10 +36111,10 @@
     },
     "rewards": {
       "resources": [
-        0,
-        0,
-        0,
-        0
+        610,
+        610,
+        610,
+        610
       ],
       "other": [
         {
