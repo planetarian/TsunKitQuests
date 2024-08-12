@@ -1,0 +1,38 @@
+{
+  "game_id": 203,
+  "wiki_id": "B2",
+  "category": "sortie",
+  "frequency": "onetime",
+  "release_date": "2013-04-23",
+  "updated": "2024-08-12T09:23:12.8773424Z",
+  "unverified": true,
+  "prereqs": [
+    202
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "1-1",
+        "boss": true,
+        "result": "B",
+        "times": 1
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      30,
+      30,
+      30,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 1
+      }
+    ]
+  }
+}
