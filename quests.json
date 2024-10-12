@@ -17793,6 +17793,48 @@
     "category": "factory",
     "frequency": "onetime",
     "release_date": "2015-09-25",
+    "updated": "2024-02-09T08:36:57.3990805Z",
+    "prereqs": [
+      287
+    ],
+    "requirements": {
+      "category": "conversion",
+      "secretary": {
+        "ship_id": [
+          83,
+          110
+        ]
+      },
+      "scrap": [
+        {
+          "category": "equipment",
+          "id": 16,
+          "amount": 3
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        0,
+        0,
+        50
+      ],
+      "other": [
+        {
+          "category": "equipment",
+          "id": 143,
+          "amount": 1
+        }
+      ]
+    }
+  },
+  "623": {
+    "game_id": 623,
+    "wiki_id": "F20",
+    "category": "factory",
+    "frequency": "onetime",
+    "release_date": "2015-09-25",
     "updated": "2024-02-09T08:36:57.3959112Z",
     "prereqs": [
       287
@@ -17827,48 +17869,6 @@
         {
           "category": "equipment",
           "id": 144,
-          "amount": 1
-        }
-      ]
-    }
-  },
-  "623": {
-    "game_id": 623,
-    "wiki_id": "F20",
-    "category": "factory",
-    "frequency": "onetime",
-    "release_date": "2015-09-25",
-    "updated": "2024-02-09T08:36:57.3990805Z",
-    "prereqs": [
-      287
-    ],
-    "requirements": {
-      "category": "conversion",
-      "secretary": {
-        "ship_id": [
-          83,
-          110
-        ]
-      },
-      "scrap": [
-        {
-          "category": "equipment",
-          "id": 16,
-          "amount": 3
-        }
-      ]
-    },
-    "rewards": {
-      "resources": [
-        0,
-        0,
-        0,
-        50
-      ],
-      "other": [
-        {
-          "category": "equipment",
-          "id": 143,
           "amount": 1
         }
       ]
