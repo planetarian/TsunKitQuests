@@ -1,0 +1,101 @@
+{
+  "game_id": 1019,
+  "wiki_id": "B205",
+  "category": "sortie",
+  "frequency": "onetime",
+  "release_date": "2024-09-24",
+  "updated": "2024-10-19T12:54:57.4726547Z",
+  "unverified": true,
+  "prereqs": [
+    376
+  ],
+  "requirements": {
+    "category": "or",
+    "list": [
+      {
+        "category": "sortie",
+        "comp": [
+          {
+            "ship_id": [
+              592,
+              694
+            ],
+            "family_id": 38
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "sortie": [
+          {
+            "map": [
+              "4-5",
+              "5-5",
+              "6-5"
+            ],
+            "boss": true,
+            "result": "S",
+            "times": 2
+          }
+        ],
+        "comp": [
+          {
+            "ship_id": [
+              592,
+              694
+            ],
+            "family_id": 23
+          }
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      1300,
+      1300,
+      1300,
+      0
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 329,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "equipment",
+            "id": 530,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 78,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 75,
+            "stars": 0,
+            "amount": 6
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 10
+          }
+        ]
+      }
+    ]
+  }
+}
