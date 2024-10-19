@@ -36329,6 +36329,45 @@
       ]
     }
   },
+  "1017": {
+    "game_id": 1017,
+    "wiki_id": "B204",
+    "category": "sortie",
+    "frequency": "onetime",
+    "release_date": "2024-09-24",
+    "updated": "2024-10-19T09:00:44.5465279Z",
+    "unverified": true,
+    "prereqs": [
+      1020
+    ],
+    "requirements": {
+      "category": "fleet",
+      "comp": [
+        {
+          "ship_id": [
+            409,
+            625,
+            425,
+            410
+          ],
+          "amount": [
+            0,
+            2
+          ],
+          "position": 1
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        200,
+        200,
+        0
+      ],
+      "other": []
+    }
+  },
   "1101": {
     "game_id": 1101,
     "wiki_id": "F96",
