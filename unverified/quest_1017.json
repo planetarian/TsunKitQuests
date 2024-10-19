@@ -4,46 +4,38 @@
   "category": "sortie",
   "frequency": "onetime",
   "release_date": "2024-09-24",
-  "updated": "2024-10-19T12:45:45.9422576Z",
+  "updated": "2024-10-19T12:46:25.5060493Z",
   "unverified": true,
   "prereqs": [
     1020
   ],
   "requirements": {
-    "category": "and",
-    "list": [
+    "category": "sortie",
+    "sortie": [
       {
-        "category": "fleet"
-      },
-      {
-        "category": "sortie",
-        "sortie": [
-          {
-            "map": [
-              "1-2",
-              "1-5",
-              "2-3"
-            ],
-            "boss": true,
-            "result": "S",
-            "times": 2
-          }
+        "map": [
+          "1-2",
+          "1-5",
+          "2-3"
         ],
-        "comp": [
-          {
-            "ship_id": [
-              409,
-              625,
-              425,
-              410
-            ],
-            "amount": [
-              3,
-              3
-            ],
-            "position": 1
-          }
-        ]
+        "boss": true,
+        "result": "S",
+        "times": 2
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": [
+          409,
+          625,
+          425,
+          410
+        ],
+        "amount": [
+          3,
+          4
+        ],
+        "position": 1
       }
     ]
   },
