@@ -1,0 +1,53 @@
+{
+  "game_id": 184,
+  "wiki_id": "A79",
+  "category": "composition",
+  "frequency": "onetime",
+  "release_date": "2017-07-31",
+  "updated": "2024-10-23T19:15:47.2249783Z",
+  "unverified": true,
+  "prereqs": [
+    270
+  ],
+  "requirements": {
+    "category": "fleet",
+    "comp": [
+      {
+        "ship_id": [
+          548,
+          418,
+          258,
+          366
+        ],
+        "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      220,
+      0,
+      220,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 2
+      },
+      {
+        "category": "equipment",
+        "id": 145,
+        "amount": 2
+      }
+    ]
+  }
+}
