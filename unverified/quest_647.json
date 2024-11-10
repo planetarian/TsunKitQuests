@@ -1,0 +1,55 @@
+{
+  "game_id": 647,
+  "wiki_id": "F43",
+  "category": "factory",
+  "frequency": "onetime",
+  "release_date": "2016-10-05",
+  "updated": "2024-11-10T07:03:47.0934113Z",
+  "unverified": true,
+  "prereqs": [
+    642,
+    809,
+    641,
+    825,
+    296
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "consume": [
+      {
+        "category": "inventory",
+        "id": 73,
+        "amount": 1
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipment",
+        "id": 75,
+        "amount": 2
+      }
+    ],
+    "resources": [
+      1200,
+      0,
+      0,
+      3000
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "feature",
+        "id": 6,
+        "stars": 0,
+        "amount": 1
+      }
+    ]
+  }
+}
