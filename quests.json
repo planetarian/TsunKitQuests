@@ -37443,109 +37443,6 @@
       ]
     }
   },
-  "1114": {
-    "game_id": 1114,
-    "wiki_id": "F108",
-    "category": "factory",
-    "frequency": "onetime",
-    "release_date": "2022-05-13",
-    "updated": "2024-02-09T08:36:56.3221569Z",
-    "prereqs": [
-      1112
-    ],
-    "requirements": {
-      "category": "conversion",
-      "consume": [
-        {
-          "category": "equipment",
-          "id": 7,
-          "amount": 3
-        },
-        {
-          "category": "inventory",
-          "id": 2,
-          "amount": 8
-        }
-      ],
-      "scrap": [
-        {
-          "category": "equipgroup",
-          "id": 1,
-          "amount": 3
-        },
-        {
-          "category": "equipgroup",
-          "id": 2,
-          "amount": 3
-        },
-        {
-          "category": "equipgroup",
-          "id": 4,
-          "amount": 3
-        }
-      ],
-      "resources": [
-        0,
-        0,
-        0,
-        800
-      ]
-    },
-    "rewards": {
-      "resources": [
-        0,
-        200,
-        200,
-        0
-      ],
-      "other": [
-        {
-          "choices": [
-            {
-              "category": "inventory",
-              "id": 75,
-              "stars": 0,
-              "amount": 1
-            },
-            {
-              "category": "inventory",
-              "id": 77,
-              "stars": 0,
-              "amount": 1
-            },
-            {
-              "category": "inventory",
-              "id": 3,
-              "stars": 0,
-              "amount": 5
-            }
-          ]
-        },
-        {
-          "choices": [
-            {
-              "category": "inventory",
-              "id": 94,
-              "stars": 0,
-              "amount": 1
-            },
-            {
-              "category": "inventory",
-              "id": 92,
-              "stars": 0,
-              "amount": 1
-            },
-            {
-              "category": "inventory",
-              "id": 4,
-              "stars": 0,
-              "amount": 3
-            }
-          ]
-        }
-      ]
-    }
-  },
   "1115": {
     "game_id": 1115,
     "wiki_id": "F109",
@@ -38896,6 +38793,135 @@
           "id": 471,
           "stars": 0,
           "amount": 1
+        }
+      ]
+    }
+  },
+  "221114": {
+    "game_id": 221114,
+    "wiki_id": "F108",
+    "category": "factory",
+    "frequency": "onetime",
+    "release_date": "2022-05-13",
+    "updated": "2024-11-11T20:53:07.4080779Z",
+    "unverified": true,
+    "name": "New Equipment Development Plan I",
+    "memo": "✘Consumes the items and resources.\n➣Rewards:\n¶First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR five Development Materials\n¶Second choice: Either a New Model Armament Materials OR a New Model Rocket Development Materials OR three Screws",
+    "detail": "Have three 35.6cm Twin Gun Mounts, 8 Flamethrowers and 800 Bauxite. Scrap 3 Small Cal. Main Guns, 3 Medium Cal. Main Guns and 3 Secondary Guns.",
+    "prereqs": [
+      1112
+    ],
+    "requirements": {
+      "category": "conversion",
+      "consume": [
+        {
+          "category": "equipment",
+          "id": 7,
+          "name": "35.6cm連装砲",
+          "name_en": "35.6cm Twin Gun Mount",
+          "amount": 3
+        },
+        {
+          "category": "inventory",
+          "id": 2,
+          "name": "高速建造材",
+          "name_en": "Instant Construction",
+          "amount": 8
+        }
+      ],
+      "scrap": [
+        {
+          "category": "equipgroup",
+          "id": 1,
+          "name": "小口径主砲",
+          "name_en": "Small Cal. Main Gun",
+          "amount": 3
+        },
+        {
+          "category": "equipgroup",
+          "id": 2,
+          "name": "中口径主砲",
+          "name_en": "Medium Cal. Main Gun",
+          "amount": 3
+        },
+        {
+          "category": "equipgroup",
+          "id": 4,
+          "name": "副砲",
+          "name_en": "Secondary Gun",
+          "amount": 3
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        0,
+        800
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        200,
+        200,
+        0
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 75,
+              "name": "新型砲熕兵装資材",
+              "name_en": "New Model Artillery Armament Materials",
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 77,
+              "name": "新型航空兵装資材",
+              "name_en": "New Model Aviation Armament Materials",
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 3,
+              "name": "開発資材",
+              "name_en": "Development Material",
+              "stars": 0,
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 94,
+              "name": "新型兵装資材",
+              "name_en": "New Model Armament Materials",
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 92,
+              "name": "新型噴進装備開発資材",
+              "name_en": "New Model Rocket Development Materials",
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 4,
+              "name": "改修資材",
+              "name_en": "Improvement Material",
+              "stars": 0,
+              "amount": 3
+            }
+          ]
         }
       ]
     }
