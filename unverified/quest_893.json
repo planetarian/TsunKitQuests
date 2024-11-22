@@ -1,0 +1,62 @@
+{
+  "game_id": 893,
+  "wiki_id": "Bq8",
+  "category": "sortie",
+  "frequency": "quarterly",
+  "release_date": "2018-11-16",
+  "updated": "2024-11-22T13:43:10.8156159Z",
+  "unverified": true,
+  "prereqs": [
+    299,
+    404
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "1-5",
+          "7-1",
+          "7-2-P1",
+          "7-2-P2"
+        ],
+        "boss": true,
+        "result": "S",
+        "times": 3
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      2000,
+      500,
+      0,
+      500
+    ],
+    "other": [
+      {
+        "category": "senka",
+        "amount": 300
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 129,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 70,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 146,
+            "amount": 4
+          }
+        ]
+      }
+    ]
+  }
+}
