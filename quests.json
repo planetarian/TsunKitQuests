@@ -36205,6 +36205,115 @@
       ]
     }
   },
+  "1023": {
+    "game_id": 1023,
+    "wiki_id": "B207",
+    "category": "sortie",
+    "frequency": "onetime",
+    "release_date": "2024-12-03",
+    "updated": "2025-02-02T08:16:09.5831239Z",
+    "unverified": true,
+    "prereqs": [
+      893
+    ],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "2-4",
+            "2-5",
+            "7-2M",
+            "5-5"
+          ],
+          "boss": true,
+          "result": "S",
+          "times": 1
+        }
+      ],
+      "comp": [
+        {
+          "ship_id": 981,
+          "amount": 1,
+          "position": 1
+        },
+        {
+          "ship_id": 69,
+          "amount": 1
+        },
+        {
+          "ship_id": [
+            674,
+            675,
+            528,
+            484
+          ],
+          "amount": 1
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            3
+          ]
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        1944,
+        1025,
+        1026,
+        0
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 4,
+              "stars": 0,
+              "amount": 9
+            },
+            {
+              "category": "inventory",
+              "id": 94,
+              "stars": 0,
+              "amount": 3
+            },
+            {
+              "category": "inventory",
+              "id": 78,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 450,
+              "stars": 3,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 517,
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "equipment",
+              "id": 366,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
   "1025": {
     "game_id": 1025,
     "wiki_id": "B208",
