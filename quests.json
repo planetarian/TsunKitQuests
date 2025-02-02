@@ -11592,68 +11592,6 @@
       ]
     }
   },
-  "329": {
-    "game_id": 329,
-    "wiki_id": "2401C1",
-    "category": "exercise",
-    "frequency": "daily",
-    "release_date": "2024-01-25",
-    "updated": "2024-03-04T03:34:29.3595399Z",
-    "unavailable": true,
-    "prereqs": [
-      301
-    ],
-    "requirements": {
-      "category": "exercise",
-      "result": "B",
-      "daily": true,
-      "comp": [
-        {
-          "class_id": [
-            5,
-            6
-          ],
-          "amount": 2
-        },
-        {
-          "class_id": [
-            2,
-            1
-          ],
-          "amount": 3
-        },
-        {
-          "otherships": true,
-          "amount": [
-            0,
-            1
-          ]
-        }
-      ],
-      "times": 4
-    },
-    "rewards": {
-      "resources": [
-        230,
-        230,
-        0,
-        0
-      ],
-      "other": [
-        {
-          "category": "inventory",
-          "id": 90,
-          "stars": 0,
-          "amount": 1
-        },
-        {
-          "category": "senka",
-          "stars": 0,
-          "amount": 11
-        }
-      ]
-    }
-  },
   "330": {
     "game_id": 330,
     "wiki_id": "Cq1",
@@ -16232,89 +16170,6 @@
               "id": 77,
               "stars": 0,
               "amount": 2
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "441": {
-    "game_id": 441,
-    "wiki_id": "2401D1",
-    "category": "expedition",
-    "frequency": "event",
-    "release_date": "2024-01-25",
-    "updated": "2024-03-04T03:34:18.4736211Z",
-    "unavailable": true,
-    "prereqs": [
-      841,
-      314
-    ],
-    "requirements": {
-      "category": "expedition",
-      "expeds": [
-        {
-          "id": [
-            "4",
-            "5",
-            "9",
-            "A3",
-            "15",
-            "19"
-          ],
-          "times": 1
-        }
-      ]
-    },
-    "rewards": {
-      "resources": [
-        850,
-        650,
-        1000,
-        450
-      ],
-      "other": [
-        {
-          "choices": [
-            {
-              "category": "inventory",
-              "id": 75,
-              "stars": 0,
-              "amount": 2
-            },
-            {
-              "category": "inventory",
-              "id": 90,
-              "stars": 0,
-              "amount": 3
-            },
-            {
-              "category": "inventory",
-              "id": 31,
-              "stars": 0,
-              "amount": 2024
-            }
-          ]
-        },
-        {
-          "choices": [
-            {
-              "category": "inventory",
-              "id": 4,
-              "stars": 0,
-              "amount": 5
-            },
-            {
-              "category": "inventory",
-              "id": 57,
-              "stars": 0,
-              "amount": 1
-            },
-            {
-              "category": "equipment",
-              "id": 50,
-              "stars": 8,
-              "amount": 1
             }
           ]
         }
@@ -24728,221 +24583,6 @@
       ]
     }
   },
-  "840": {
-    "game_id": 840,
-    "wiki_id": "2401B5",
-    "category": "sortie",
-    "frequency": "weekly",
-    "release_date": "2024-01-25",
-    "updated": "2024-03-04T03:35:02.4236462Z",
-    "unavailable": true,
-    "prereqs": [],
-    "requirements": {
-      "category": "sortie",
-      "sortie": [
-        {
-          "map": [
-            "1-1",
-            "1-3",
-            "1-4"
-          ],
-          "boss": true,
-          "result": "A",
-          "times": 2
-        }
-      ],
-      "comp": [
-        {
-          "ship_id": [
-            89,
-            137,
-            486,
-            11,
-            93,
-            16,
-            410,
-            453,
-            425,
-            583,
-            634,
-            635
-          ],
-          "amount": 1,
-          "position": 1
-        },
-        {
-          "ship_id": [
-            89,
-            137,
-            486,
-            11,
-            93,
-            16,
-            410,
-            453,
-            425,
-            583,
-            634,
-            635
-          ],
-          "amount": 1,
-          "position": 2
-        },
-        {
-          "otherships": true,
-          "amount": [
-            0,
-            4
-          ]
-        }
-      ]
-    },
-    "rewards": {
-      "resources": [
-        230,
-        0,
-        230,
-        230
-      ],
-      "other": [
-        {
-          "category": "inventory",
-          "id": 90,
-          "stars": 0,
-          "amount": 3
-        },
-        {
-          "choices": [
-            {
-              "category": "inventory",
-              "id": 1,
-              "stars": 0,
-              "amount": 4
-            },
-            {
-              "category": "equipment",
-              "id": 146,
-              "stars": 0,
-              "amount": 1
-            },
-            {
-              "category": "inventory",
-              "id": 3,
-              "stars": 0,
-              "amount": 6
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "841": {
-    "game_id": 841,
-    "wiki_id": "2401B6",
-    "category": "sortie",
-    "frequency": "weekly",
-    "release_date": "2024-01-25",
-    "updated": "2024-03-04T03:34:50.1005021Z",
-    "unavailable": true,
-    "prereqs": [
-      840,
-      329
-    ],
-    "requirements": {
-      "category": "sortie",
-      "sortie": [
-        {
-          "map": [
-            "2-1",
-            "2-2",
-            "7-4P"
-          ],
-          "boss": true,
-          "result": "A",
-          "times": 2
-        }
-      ],
-      "comp": [
-        {
-          "ship_id": [
-            409,
-            534,
-            183,
-            182,
-            479,
-            480,
-            451,
-            931,
-            562,
-            491
-          ],
-          "amount": 1,
-          "position": 1
-        },
-        {
-          "ship_id": [
-            409,
-            534,
-            183,
-            182,
-            479,
-            480,
-            451,
-            931,
-            562,
-            491
-          ],
-          "amount": 1,
-          "position": 2
-        },
-        {
-          "otherships": true,
-          "amount": [
-            0,
-            4
-          ]
-        }
-      ]
-    },
-    "rewards": {
-      "resources": [
-        0,
-        2024,
-        0,
-        0
-      ],
-      "other": [
-        {
-          "category": "inventory",
-          "id": 90,
-          "stars": 0,
-          "amount": 3
-        },
-        {
-          "choices": [
-            {
-              "category": "inventory",
-              "id": 54,
-              "stars": 0,
-              "amount": 1
-            },
-            {
-              "category": "inventory",
-              "id": 59,
-              "stars": 0,
-              "amount": 2
-            },
-            {
-              "category": "inventory",
-              "id": 4,
-              "stars": 0,
-              "amount": 4
-            }
-          ]
-        }
-      ]
-    }
-  },
   "842": {
     "game_id": 842,
     "wiki_id": "B89",
@@ -25012,72 +24652,6 @@
               "amount": 1
             }
           ]
-        }
-      ]
-    }
-  },
-  "843": {
-    "game_id": 843,
-    "wiki_id": "2401B7",
-    "category": "sortie",
-    "frequency": "monthly",
-    "release_date": "2024-01-25",
-    "updated": "2024-03-04T03:34:39.9005343Z",
-    "unavailable": true,
-    "prereqs": [
-      841
-    ],
-    "requirements": {
-      "category": "sortie",
-      "sortie": [
-        {
-          "map": [
-            "2-3",
-            "4-5",
-            "5-5",
-            "6-5"
-          ],
-          "boss": true,
-          "result": "S",
-          "times": 1
-        }
-      ],
-      "comp": [
-        {
-          "family_id": 9,
-          "amount": 2
-        },
-        {
-          "class_id": 7,
-          "amount": 1
-        },
-        {
-          "otherships": true,
-          "amount": [
-            0,
-            3
-          ]
-        }
-      ]
-    },
-    "rewards": {
-      "resources": [
-        2024,
-        0,
-        0,
-        2024
-      ],
-      "other": [
-        {
-          "category": "inventory",
-          "id": 90,
-          "stars": 0,
-          "amount": 4
-        },
-        {
-          "category": "senka",
-          "stars": 0,
-          "amount": 250
         }
       ]
     }
@@ -36527,6 +36101,104 @@
       ]
     }
   },
+  "1025": {
+    "game_id": 1025,
+    "wiki_id": "B208",
+    "category": "sortie",
+    "frequency": "onetime",
+    "release_date": "2025-01-28",
+    "updated": "2025-02-02T08:04:00.4501009Z",
+    "unverified": true,
+    "prereqs": [],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "2-3",
+            "2-5",
+            "4-3",
+            "5-3"
+          ],
+          "boss": true,
+          "result": "S",
+          "times": 1
+        }
+      ],
+      "comp": [
+        {
+          "ship_id": 986,
+          "amount": 1,
+          "position": 1
+        },
+        {
+          "family_id": 12,
+          "amount": 1
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        1943,
+        2025,
+        0,
+        0
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 75,
+              "stars": 0,
+              "amount": 3
+            },
+            {
+              "category": "equipment",
+              "id": 39,
+              "stars": 9,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 78,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 121,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "inventory",
+              "id": 94,
+              "stars": 0,
+              "amount": 4
+            },
+            {
+              "category": "equipment",
+              "id": 553,
+              "stars": 8,
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
   "1101": {
     "game_id": 1101,
     "wiki_id": "F96",
@@ -38930,6 +38602,69 @@
       ]
     }
   },
+  "240329": {
+    "game_id": 240329,
+    "wiki_id": "2501C2",
+    "category": "exercise",
+    "frequency": "daily",
+    "release_date": "2024-01-25",
+    "updated": "2025-01-29T23:22:28.2689093Z",
+    "unverified": true,
+    "unavailable": true,
+    "prereqs": [
+      301
+    ],
+    "requirements": {
+      "category": "exercise",
+      "result": "B",
+      "daily": true,
+      "comp": [
+        {
+          "class_id": [
+            5,
+            6
+          ],
+          "amount": 2
+        },
+        {
+          "class_id": [
+            2,
+            1
+          ],
+          "amount": 3
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            1
+          ]
+        }
+      ],
+      "times": 4
+    },
+    "rewards": {
+      "resources": [
+        230,
+        230,
+        0,
+        0
+      ],
+      "other": [
+        {
+          "category": "inventory",
+          "id": 90,
+          "stars": 0,
+          "amount": 1
+        },
+        {
+          "category": "senka",
+          "stars": 0,
+          "amount": 11
+        }
+      ]
+    }
+  },
   "240363": {
     "game_id": 240363,
     "wiki_id": "2404C1",
@@ -39062,6 +38797,90 @@
       ]
     }
   },
+  "240441": {
+    "game_id": 240441,
+    "wiki_id": "2501D1",
+    "category": "expedition",
+    "frequency": "event",
+    "release_date": "2024-01-25",
+    "updated": "2025-01-29T23:22:28.3446878Z",
+    "unverified": true,
+    "unavailable": true,
+    "prereqs": [
+      841,
+      314
+    ],
+    "requirements": {
+      "category": "expedition",
+      "expeds": [
+        {
+          "id": [
+            "4",
+            "5",
+            "9",
+            "A3",
+            "15",
+            "19"
+          ],
+          "times": 1
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        850,
+        650,
+        1000,
+        450
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 75,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "inventory",
+              "id": 90,
+              "stars": 0,
+              "amount": 3
+            },
+            {
+              "category": "inventory",
+              "id": 31,
+              "stars": 0,
+              "amount": 2024
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 4,
+              "stars": 0,
+              "amount": 5
+            },
+            {
+              "category": "inventory",
+              "id": 57,
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "equipment",
+              "id": 50,
+              "stars": 8,
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
   "240448": {
     "game_id": 240448,
     "wiki_id": "2404D1",
@@ -39156,6 +38975,290 @@
               "amount": 1
             }
           ]
+        }
+      ]
+    }
+  },
+  "240840": {
+    "game_id": 240840,
+    "wiki_id": "2501B5",
+    "category": "sortie",
+    "frequency": "weekly",
+    "release_date": "2024-01-25",
+    "updated": "2025-01-29T23:22:28.3312055Z",
+    "unverified": true,
+    "unavailable": true,
+    "prereqs": [],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "1-1",
+            "1-3",
+            "1-4"
+          ],
+          "boss": true,
+          "result": "A",
+          "times": 2
+        }
+      ],
+      "comp": [
+        {
+          "ship_id": [
+            89,
+            137,
+            486,
+            11,
+            93,
+            16,
+            410,
+            453,
+            425,
+            583,
+            634,
+            635
+          ],
+          "amount": 1,
+          "position": 1
+        },
+        {
+          "ship_id": [
+            89,
+            137,
+            486,
+            11,
+            93,
+            16,
+            410,
+            453,
+            425,
+            583,
+            634,
+            635
+          ],
+          "amount": 1,
+          "position": 2
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        230,
+        0,
+        230,
+        230
+      ],
+      "other": [
+        {
+          "category": "inventory",
+          "id": 90,
+          "stars": 0,
+          "amount": 3
+        },
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 1,
+              "stars": 0,
+              "amount": 4
+            },
+            {
+              "category": "equipment",
+              "id": 146,
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 3,
+              "stars": 0,
+              "amount": 6
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "240841": {
+    "game_id": 240841,
+    "wiki_id": "2501B6",
+    "category": "sortie",
+    "frequency": "weekly",
+    "release_date": "2024-01-25",
+    "updated": "2025-01-29T23:22:28.3435293Z",
+    "unverified": true,
+    "unavailable": true,
+    "prereqs": [
+      840,
+      329
+    ],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "2-1",
+            "2-2",
+            "7-4P"
+          ],
+          "boss": true,
+          "result": "A",
+          "times": 2
+        }
+      ],
+      "comp": [
+        {
+          "ship_id": [
+            409,
+            534,
+            183,
+            182,
+            479,
+            480,
+            451,
+            931,
+            562,
+            491
+          ],
+          "amount": 1,
+          "position": 1
+        },
+        {
+          "ship_id": [
+            409,
+            534,
+            183,
+            182,
+            479,
+            480,
+            451,
+            931,
+            562,
+            491
+          ],
+          "amount": 1,
+          "position": 2
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        2024,
+        0,
+        0
+      ],
+      "other": [
+        {
+          "category": "inventory",
+          "id": 90,
+          "stars": 0,
+          "amount": 3
+        },
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 54,
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 59,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "inventory",
+              "id": 4,
+              "stars": 0,
+              "amount": 4
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "240843": {
+    "game_id": 240843,
+    "wiki_id": "2501B7",
+    "category": "sortie",
+    "frequency": "monthly",
+    "release_date": "2024-01-25",
+    "updated": "2025-01-29T23:22:28.3460077Z",
+    "unverified": true,
+    "unavailable": true,
+    "prereqs": [
+      841
+    ],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "2-3",
+            "4-5",
+            "5-5",
+            "6-5"
+          ],
+          "boss": true,
+          "result": "S",
+          "times": 1
+        }
+      ],
+      "comp": [
+        {
+          "family_id": 9,
+          "amount": 2
+        },
+        {
+          "class_id": 7,
+          "amount": 1
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            3
+          ]
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        2024,
+        0,
+        0,
+        2024
+      ],
+      "other": [
+        {
+          "category": "inventory",
+          "id": 90,
+          "stars": 0,
+          "amount": 4
+        },
+        {
+          "category": "senka",
+          "stars": 0,
+          "amount": 250
         }
       ]
     }
