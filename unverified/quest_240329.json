@@ -1,10 +1,11 @@
 {
-  "game_id": 329,
-  "wiki_id": "2401C1",
+  "game_id": 240329,
+  "wiki_id": "2501C2",
   "category": "exercise",
   "frequency": "daily",
   "release_date": "2024-01-25",
-  "updated": "2024-03-04T03:34:29.3595399Z",
+  "updated": "2025-01-29T23:22:28.2689093Z",
+  "unverified": true,
   "unavailable": true,
   "prereqs": [
     301

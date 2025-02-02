@@ -1,10 +1,11 @@
 {
-  "game_id": 441,
-  "wiki_id": "2401D1",
+  "game_id": 240441,
+  "wiki_id": "2501D1",
   "category": "expedition",
   "frequency": "event",
   "release_date": "2024-01-25",
-  "updated": "2024-03-04T03:34:18.4736211Z",
+  "updated": "2025-01-29T23:22:28.3446878Z",
+  "unverified": true,
   "unavailable": true,
   "prereqs": [
     841,
