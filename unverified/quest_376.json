@@ -1,0 +1,91 @@
+{
+  "game_id": 376,
+  "wiki_id": "C77",
+  "category": "exercise",
+  "frequency": "onetime",
+  "release_date": "2024-09-24",
+  "updated": "2025-02-02T08:20:51.8419135Z",
+  "unverified": true,
+  "prereqs": [
+    1018
+  ],
+  "requirements": {
+    "category": "exercise",
+    "result": "S",
+    "victory": true,
+    "daily": true,
+    "comp": [
+      {
+        "ship_id": [
+          150,
+          152
+        ],
+        "amount": 2
+      },
+      {
+        "class_id": 3,
+        "amount": 1
+      },
+      {
+        "class_id": 2,
+        "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          1
+        ]
+      }
+    ],
+    "times": 5
+  },
+  "rewards": {
+    "resources": [
+      600,
+      600,
+      600,
+      600
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 328,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 75,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 30
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 328,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 58,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}
