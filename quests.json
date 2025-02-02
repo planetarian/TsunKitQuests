@@ -38473,6 +38473,81 @@
       ]
     }
   },
+  "1148": {
+    "game_id": 1148,
+    "wiki_id": "F130",
+    "category": "factory",
+    "frequency": "onetime",
+    "release_date": "2025-01-28",
+    "updated": "2025-02-02T08:07:03.2461546Z",
+    "unverified": true,
+    "prereqs": [],
+    "requirements": {
+      "category": "conversion",
+      "secretary": {
+        "ship_id": [
+          426,
+          986
+        ]
+      },
+      "slots": [
+        {
+          "slot": 1,
+          "id": 120
+        },
+        {
+          "slot": 2,
+          "id": 120
+        }
+      ],
+      "consume": [
+        {
+          "category": "inventory",
+          "id": 3,
+          "amount": 16
+        },
+        {
+          "category": "inventory",
+          "id": 4,
+          "amount": 4
+        }
+      ],
+      "scrap": [
+        {
+          "category": "equipment",
+          "id": 120,
+          "amount": 3
+        },
+        {
+          "category": "equipment",
+          "id": 27,
+          "amount": 3
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "other": [
+        {
+          "category": "equipment",
+          "id": 121,
+          "stars": 0,
+          "amount": 1
+        },
+        {
+          "category": "equipment",
+          "id": 106,
+          "stars": 0,
+          "amount": 1
+        }
+      ]
+    }
+  },
   "221114": {
     "game_id": 221114,
     "wiki_id": "F108",
