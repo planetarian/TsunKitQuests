@@ -1,0 +1,45 @@
+{
+  "game_id": 106,
+  "wiki_id": "A7",
+  "category": "composition",
+  "frequency": "onetime",
+  "release_date": "2013-04-23",
+  "updated": "2025-03-19T03:08:45.3442317Z",
+  "unverified": true,
+  "prereqs": [
+    105
+  ],
+  "requirements": {
+    "category": "fleet",
+    "fleet_id": 1,
+    "comp": [
+      {
+        "class_id": 5,
+        "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ]
+      }
+    ],
+    "disallowed": "aviation"
+  },
+  "rewards": {
+    "resources": [
+      0,
+      70,
+      0,
+      30
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 1
+      }
+    ]
+  }
+}
