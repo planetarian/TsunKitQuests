@@ -16908,86 +16908,6 @@
       ]
     }
   },
-  "449": {
-    "game_id": 449,
-    "wiki_id": "2404D2",
-    "category": "expedition",
-    "frequency": "event",
-    "release_date": "2024-04-23",
-    "updated": "2024-05-01T06:51:59.0164091Z",
-    "edited": "2024-08-19T07:25:33.7649363Z",
-    "prereqs": [
-      448,
-      363
-    ],
-    "requirements": {
-      "category": "expedition",
-      "expeds": [
-        {
-          "id": [
-            "5",
-            "9",
-            "11"
-          ],
-          "times": 2
-        }
-      ],
-      "resources": [
-        0,
-        7500,
-        9500,
-        0
-      ]
-    },
-    "rewards": {
-      "resources": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "other": [
-        {
-          "choices": [
-            {
-              "category": "inventory",
-              "id": 31,
-              "stars": 0,
-              "amount": 5500
-            },
-            {
-              "category": "inventory",
-              "id": 34,
-              "stars": 0,
-              "amount": 3500
-            }
-          ]
-        },
-        {
-          "choices": [
-            {
-              "category": "inventory",
-              "id": 1,
-              "stars": 0,
-              "amount": 11
-            },
-            {
-              "category": "inventory",
-              "id": 54,
-              "stars": 0,
-              "amount": 1
-            },
-            {
-              "category": "inventory",
-              "id": 4,
-              "stars": 0,
-              "amount": 3
-            }
-          ]
-        }
-      ]
-    }
-  },
   "501": {
     "game_id": 501,
     "wiki_id": "E1",
@@ -35602,93 +35522,6 @@
       ]
     }
   },
-  "1009": {
-    "game_id": 1009,
-    "wiki_id": "2404B4",
-    "category": "sortie",
-    "frequency": "event",
-    "release_date": "2024-04-23",
-    "updated": "2024-05-01T06:55:31.1383835Z",
-    "edited": "2024-10-06T19:33:40.3802199Z",
-    "prereqs": [
-      972
-    ],
-    "requirements": {
-      "category": "sortie",
-      "sortie": [
-        {
-          "map": [
-            "5-1",
-            "5-2",
-            "5-3",
-            "5-4",
-            "5-5"
-          ],
-          "boss": true,
-          "result": "S",
-          "times": 1
-        }
-      ],
-      "comp": [
-        {
-          "ship_id": [
-            9,
-            55,
-            23,
-            655,
-            615
-          ],
-          "amount": 2
-        },
-        {
-          "family_id": 54,
-          "amount": 1
-        },
-        {
-          "otherships": true,
-          "amount": [
-            0,
-            3
-          ]
-        }
-      ]
-    },
-    "rewards": {
-      "resources": [
-        1700,
-        1700,
-        1700,
-        1700
-      ],
-      "other": [
-        {
-          "choices": []
-        },
-        {
-          "choices": [
-            {
-              "category": "inventory",
-              "id": 57,
-              "stars": 0,
-              "amount": 4
-            },
-            {
-              "category": "equipment",
-              "id": 307,
-              "stars": 3,
-              "amount": 1
-            },
-            {
-              "category": "inventory",
-              "id": 78,
-              "stars": 0,
-              "amount": 2
-            }
-          ]
-        }
-      ]
-    }
-  },
   "1012": {
     "game_id": 1012,
     "wiki_id": "By14",
@@ -39652,6 +39485,100 @@
       ]
     }
   },
+  "240449": {
+    "game_id": 240449,
+    "wiki_id": "2404D2",
+    "category": "expedition",
+    "frequency": "event",
+    "release_date": "2024-04-23",
+    "updated": "2025-04-24T11:23:06.8732267Z",
+    "edited": "2024-08-19T07:25:33.7649363Z",
+    "unverified": true,
+    "name": "Weekly [Fleet 11th Anniversary Quest] Resource Export",
+    "memo": "➣Rewards:\n¶First choice: Either 5500 Fuel OR 2500 Bauxite\n¶Second choice: Either 11 Buckets OR a Mamiya OR three Screws",
+    "detail": "Have 9500 Steel and 7500 Ammo, complete Expeditions 05, 09, 11 twice.",
+    "prereqs": [
+      448,
+      363
+    ],
+    "requirements": {
+      "category": "expedition",
+      "expeds": [
+        {
+          "id": [
+            "5",
+            "9",
+            "11"
+          ],
+          "times": 2
+        }
+      ],
+      "resources": [
+        0,
+        7500,
+        9500,
+        0
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 31,
+              "name": "燃料",
+              "name_en": "Fuel",
+              "stars": 0,
+              "amount": 5500
+            },
+            {
+              "category": "inventory",
+              "id": 34,
+              "name": "ボーキサイト",
+              "name_en": "Bauxite",
+              "stars": 0,
+              "amount": 3500
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 1,
+              "name": "高速修復材",
+              "name_en": "Instant Repair",
+              "stars": 0,
+              "amount": 11
+            },
+            {
+              "category": "inventory",
+              "id": 54,
+              "name": "給糧艦「間宮」",
+              "name_en": "Morale Food 'Mamiya'",
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 4,
+              "name": "改修資材",
+              "name_en": "Improvement Material",
+              "stars": 0,
+              "amount": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
   "240840": {
     "game_id": 240840,
     "wiki_id": "2501B5",
@@ -40283,6 +40210,119 @@
               "name_en": "Furniture Fairy",
               "stars": 0,
               "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "241009": {
+    "game_id": 241009,
+    "wiki_id": "2404B4",
+    "category": "sortie",
+    "frequency": "event",
+    "release_date": "2024-04-23",
+    "updated": "2025-04-24T11:23:06.8699781Z",
+    "edited": "2024-10-06T19:33:40.3802199Z",
+    "unverified": true,
+    "name": "[Anniversary Quest Extra Operation] Fleet to the Southern Front",
+    "memo": "➣Rewards a 11th Anniversary Hanging Scroll and either 4 Medals OR a ★3 GFCS Mk.37 OR two Action Reports",
+    "detail": "Sortie any 2 of Fubuki, Jintsuu, Yura, Northampton and Helena, 1 Akizuki-class DD, and up to 3 additional ships to [W5-1], [W5-2], [W5-3], [W5-4] and [W5-5]. S-Rank each boss node.",
+    "prereqs": [
+      972
+    ],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "5-1",
+            "5-2",
+            "5-3",
+            "5-4",
+            "5-5"
+          ],
+          "boss": true,
+          "result": "S",
+          "times": 1
+        }
+      ],
+      "comp": [
+        {
+          "ship_id": [
+            9,
+            55,
+            23,
+            655,
+            615
+          ],
+          "ship": [
+            "吹雪",
+            "神通",
+            "由良",
+            "Northampton",
+            "Helena"
+          ],
+          "ship_en": [
+            "Fubuki",
+            "Jintsuu",
+            "Yura",
+            "Northampton",
+            "Helena"
+          ],
+          "amount": 2
+        },
+        {
+          "family_id": 54,
+          "family": "秋月型",
+          "family_en": "Akizuki-class",
+          "amount": 1
+        },
+        {
+          "otherships": true,
+          "amount": [
+            0,
+            3
+          ]
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        1700,
+        1700,
+        1700,
+        1700
+      ],
+      "other": [
+        {
+          "choices": []
+        },
+        {
+          "choices": [
+            {
+              "category": "inventory",
+              "id": 57,
+              "name": "勲章",
+              "name_en": "Medals",
+              "stars": 0,
+              "amount": 4
+            },
+            {
+              "category": "equipment",
+              "id": 307,
+              "name": "GFCS Mk.37",
+              "name_en": "GFCS Mk.37",
+              "stars": 3,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 78,
+              "name": "戦闘詳報",
+              "name_en": "Action Report",
+              "stars": 0,
+              "amount": 2
             }
           ]
         }

@@ -1,12 +1,15 @@
 {
-  "game_id": 449,
+  "game_id": 240449,
   "wiki_id": "2404D2",
   "category": "expedition",
   "frequency": "event",
   "release_date": "2024-04-23",
-  "updated": "2024-08-19T07:25:33.7649363Z",
+  "updated": "2025-04-24T11:23:06.8732267Z",
+  "edited": "2024-08-19T07:25:33.7649363Z",
   "unverified": true,
-  "unavailable": true,
+  "name": "Weekly [Fleet 11th Anniversary Quest] Resource Export",
+  "memo": "➣Rewards:\n¶First choice: Either 5500 Fuel OR 2500 Bauxite\n¶Second choice: Either 11 Buckets OR a Mamiya OR three Screws",
+  "detail": "Have 9500 Steel and 7500 Ammo, complete Expeditions 05, 09, 11 twice.",
   "prereqs": [
     448,
     363
@@ -43,12 +46,16 @@
           {
             "category": "inventory",
             "id": 31,
+            "name": "燃料",
+            "name_en": "Fuel",
             "stars": 0,
             "amount": 5500
           },
           {
             "category": "inventory",
             "id": 34,
+            "name": "ボーキサイト",
+            "name_en": "Bauxite",
             "stars": 0,
             "amount": 3500
           }
@@ -59,18 +66,24 @@
           {
             "category": "inventory",
             "id": 1,
+            "name": "高速修復材",
+            "name_en": "Instant Repair",
             "stars": 0,
             "amount": 11
           },
           {
             "category": "inventory",
             "id": 54,
+            "name": "給糧艦「間宮」",
+            "name_en": "Morale Food 'Mamiya'",
             "stars": 0,
             "amount": 1
           },
           {
             "category": "inventory",
             "id": 4,
+            "name": "改修資材",
+            "name_en": "Improvement Material",
             "stars": 0,
             "amount": 3
           }
