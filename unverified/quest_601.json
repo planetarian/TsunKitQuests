@@ -1,0 +1,30 @@
+{
+  "game_id": 601,
+  "wiki_id": "F1",
+  "category": "factory",
+  "frequency": "onetime",
+  "release_date": "2013-04-23",
+  "updated": "2025-05-13T07:41:47.0236913Z",
+  "unverified": true,
+  "prereqs": [],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "ship",
+    "times": 1
+  },
+  "rewards": {
+    "resources": [
+      50,
+      50,
+      50,
+      50
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 1
+      }
+    ]
+  }
+}
