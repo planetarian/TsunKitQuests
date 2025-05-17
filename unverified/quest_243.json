@@ -1,0 +1,43 @@
+{
+  "game_id": 243,
+  "wiki_id": "Bw9",
+  "category": "sortie",
+  "frequency": "weekly",
+  "release_date": "2014-01-29",
+  "updated": "2025-05-17T01:35:54.3432782Z",
+  "unverified": true,
+  "prereqs": [
+    242
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "5-2",
+        "boss": true,
+        "result": "S",
+        "times": 2
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      300,
+      0,
+      800
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 2
+      },
+      {
+        "category": "inventory",
+        "id": 4,
+        "amount": 2
+      }
+    ]
+  }
+}
