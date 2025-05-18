@@ -1,0 +1,89 @@
+{
+  "game_id": 858,
+  "wiki_id": "B101",
+  "category": "sortie",
+  "frequency": "onetime",
+  "release_date": "2017-06-06",
+  "updated": "2025-05-18T02:32:53.4246509Z",
+  "unverified": true,
+  "unavailable": true,
+  "prereqs": [
+    181,
+    303
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "sortie": [
+          {
+            "map": [
+              "4-5",
+              "6-2"
+            ],
+            "boss": true,
+            "result": "S",
+            "times": 1
+          }
+        ],
+        "comp": [
+          {
+            "ship_id": 504,
+            "position": 1
+          },
+          {
+            "ship_id": 503,
+            "position": 2
+          },
+          {
+            "ship_id": [
+              73,
+              121
+            ],
+            "otherships": true,
+            "amount": 2
+          },
+          {
+            "otherships": true,
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      1000,
+      500
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 57,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 75,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 219,
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "category": "inventory",
+        "id": 4,
+        "amount": 4
+      }
+    ]
+  }
+}
