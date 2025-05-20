@@ -39394,15 +39394,13 @@
   },
   "240448": {
     "game_id": 240448,
-    "wiki_id": "2404D1",
+    "wiki_id": "UNK_240448",
     "category": "expedition",
     "frequency": "event",
     "release_date": "2024-04-23",
-    "updated": "2024-05-01T07:31:07.6124139Z",
+    "updated": "2025-05-20T02:40:54.9830599Z",
     "unverified": true,
-    "name": "[10th Anniversary Quest] 10th Anniversary Logistics Expedition",
-    "memo": "➣Rewards:\n¶First choice: Either 8800 Fuel OR eight Screws\n¶Second choice: Either ten Development Materials OR two Daihatsu Landing Craft OR 3900 Bauxite",
-    "detail": "Complete Expeditions 5, A1, 9 and 11 once each, and Expedition 7 three times.",
+    "unavailable": true,
     "prereqs": [
       971
     ],
@@ -39436,24 +39434,18 @@
             {
               "category": "inventory",
               "id": 33,
-              "name": "鋼材",
-              "name_en": "Steel",
               "stars": 0,
               "amount": 2024
             },
             {
               "category": "inventory",
               "id": 32,
-              "name": "弾薬",
-              "name_en": "Ammo",
               "stars": 0,
               "amount": 2024
             },
             {
               "category": "inventory",
               "id": 34,
-              "name": "ボーキサイト",
-              "name_en": "Bauxite",
               "stars": 0,
               "amount": 2024
             }
@@ -39464,24 +39456,18 @@
             {
               "category": "inventory",
               "id": 3,
-              "name": "開発資材",
-              "name_en": "Development Material",
               "stars": 0,
               "amount": 11
             },
             {
               "category": "inventory",
               "id": 4,
-              "name": "改修資材",
-              "name_en": "Improvement Material",
               "stars": 0,
               "amount": 3
             },
             {
               "category": "equipment",
               "id": 227,
-              "name": "二式爆雷",
-              "name_en": "Type 2 Depth Charge",
               "stars": 2,
               "amount": 1
             }
