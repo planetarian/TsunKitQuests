@@ -40073,15 +40073,13 @@
   },
   "240979": {
     "game_id": 240979,
-    "wiki_id": "2404B3",
+    "wiki_id": "UNK_240979",
     "category": "sortie",
     "frequency": "event",
     "release_date": "2024-04-23",
-    "updated": "2024-05-01T07:31:07.611652Z",
+    "updated": "2025-05-20T02:40:41.9781952Z",
     "unverified": true,
-    "name": "[Limited-Time Mission] Maritime Escort for Resource Recovery",
-    "memo": "➣Rewards:\n¶First choice: Either eight Buckets OR 4000 Steel OR 10 Development Materials\n¶Second choice: Either a Medal OR 8000 Fuel OR a Furniture Fairy",
-    "detail": "Sortie to [W1-2], [W1-3], [W1-5], [W1-6-N] and [W2-3]. S-Rank all relevant boss nodes.",
+    "unavailable": true,
     "prereqs": [
       363
     ],
@@ -40119,24 +40117,18 @@
             {
               "category": "inventory",
               "id": 54,
-              "name": "給糧艦「間宮」",
-              "name_en": "Morale Food 'Mamiya'",
               "stars": 0,
               "amount": 1
             },
             {
               "category": "inventory",
               "id": 34,
-              "name": "ボーキサイト",
-              "name_en": "Bauxite",
               "stars": 0,
               "amount": 3300
             },
             {
               "category": "inventory",
               "id": 57,
-              "name": "勲章",
-              "name_en": "Medals",
               "stars": 0,
               "amount": 1
             }
@@ -40147,24 +40139,18 @@
             {
               "category": "inventory",
               "id": 3,
-              "name": "開発資材",
-              "name_en": "Development Material",
               "stars": 0,
               "amount": 11
             },
             {
               "category": "inventory",
               "id": 31,
-              "name": "燃料",
-              "name_en": "Fuel",
               "stars": 0,
               "amount": 8800
             },
             {
               "category": "inventory",
               "id": 52,
-              "name": "特注家具職人",
-              "name_en": "Furniture Fairy",
               "stars": 0,
               "amount": 1
             }
