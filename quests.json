@@ -39178,15 +39178,13 @@
   },
   "240363": {
     "game_id": 240363,
-    "wiki_id": "2404C1",
+    "wiki_id": "UNK_240363",
     "category": "exercise",
     "frequency": "event",
     "release_date": "2024-04-23",
-    "updated": "2024-05-01T07:31:07.6120894Z",
+    "updated": "2025-05-20T02:41:26.5531621Z",
     "unverified": true,
-    "name": "[10th Anniversary Quest] Mutsuki-class Destroyers, Exercises!",
-    "memo": "➣Rewards:\n¶First choice: Either a Skilled Lookouts OR four 25mm Single Autocannon Mounts OR a Reinforcement Expansion\n¶Second choice: Either a ★3 12cm Single Gun Mount Kai 2 OR a ★3 61cm Triple (Oxygen) Torpedo Mount)",
-    "detail": "Secure 5 A-Rank+ victories in Exercises within the same day using 4 Mutsuki-class DD and up to 2 additional ships.",
+    "unavailable": true,
     "prereqs": [
       971
     ],
@@ -39206,28 +39204,6 @@
             655,
             900,
             943
-          ],
-          "ship": [
-            "大和",
-            "翔鶴",
-            "吹雪",
-            "朧",
-            "Tuscaloosa",
-            "Houston",
-            "Northampton",
-            "山汐丸",
-            "熊野丸"
-          ],
-          "ship_en": [
-            "Yamato",
-            "Shoukaku",
-            "Fubuki",
-            "Oboro",
-            "Tuscaloosa",
-            "Houston",
-            "Northampton",
-            "Yamashio Maru",
-            "Kumano Maru"
           ],
           "amount": 3
         },
@@ -39254,24 +39230,18 @@
             {
               "category": "inventory",
               "id": 3,
-              "name": "開発資材",
-              "name_en": "Development Material",
               "stars": 0,
               "amount": 4
             },
             {
               "category": "equipment",
               "id": 49,
-              "name": "25mm単装機銃",
-              "name_en": "25mm Single Autocannon Mount",
               "stars": 0,
               "amount": 3
             },
             {
               "category": "inventory",
               "id": 1,
-              "name": "高速修復材",
-              "name_en": "Instant Repair",
               "stars": 0,
               "amount": 3
             }
@@ -39282,24 +39252,18 @@
             {
               "category": "inventory",
               "id": 4,
-              "name": "改修資材",
-              "name_en": "Improvement Material",
               "stars": 0,
               "amount": 3
             },
             {
               "category": "inventory",
               "id": 59,
-              "name": "給糧艦「伊良湖」",
-              "name_en": "Morale Food 'Irako'",
               "stars": 0,
               "amount": 2
             },
             {
               "category": "inventory",
               "id": 31,
-              "name": "燃料",
-              "name_en": "Fuel",
               "stars": 0,
               "amount": 2024
             }
