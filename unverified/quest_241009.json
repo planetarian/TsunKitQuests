@@ -1,15 +1,12 @@
 {
   "game_id": 241009,
-  "wiki_id": "2404B4",
+  "wiki_id": "UNK_241009",
   "category": "sortie",
   "frequency": "event",
   "release_date": "2024-04-23",
-  "updated": "2025-04-24T11:23:06.8699781Z",
-  "edited": "2024-10-06T19:33:40.3802199Z",
+  "updated": "2025-05-20T02:39:57.8699209Z",
   "unverified": true,
-  "name": "[Anniversary Quest Extra Operation] Fleet to the Southern Front",
-  "memo": "➣Rewards a 11th Anniversary Hanging Scroll and either 4 Medals OR a ★3 GFCS Mk.37 OR two Action Reports",
-  "detail": "Sortie any 2 of Fubuki, Jintsuu, Yura, Northampton and Helena, 1 Akizuki-class DD, and up to 3 additional ships to [W5-1], [W5-2], [W5-3], [W5-4] and [W5-5]. S-Rank each boss node.",
+  "unavailable": true,
   "prereqs": [
     972
   ],
@@ -38,26 +35,10 @@
           655,
           615
         ],
-        "ship": [
-          "吹雪",
-          "神通",
-          "由良",
-          "Northampton",
-          "Helena"
-        ],
-        "ship_en": [
-          "Fubuki",
-          "Jintsuu",
-          "Yura",
-          "Northampton",
-          "Helena"
-        ],
         "amount": 2
       },
       {
         "family_id": 54,
-        "family": "秋月型",
-        "family_en": "Akizuki-class",
         "amount": 1
       },
       {
@@ -85,24 +66,18 @@
           {
             "category": "inventory",
             "id": 57,
-            "name": "勲章",
-            "name_en": "Medals",
             "stars": 0,
             "amount": 4
           },
           {
             "category": "equipment",
             "id": 307,
-            "name": "GFCS Mk.37",
-            "name_en": "GFCS Mk.37",
             "stars": 3,
             "amount": 1
           },
           {
             "category": "inventory",
             "id": 78,
-            "name": "戦闘詳報",
-            "name_en": "Action Report",
             "stars": 0,
             "amount": 2
           }
