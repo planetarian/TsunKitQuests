@@ -1,14 +1,12 @@
 {
   "game_id": 240972,
-  "wiki_id": "2404B2",
+  "wiki_id": "UNK_240972",
   "category": "sortie",
   "frequency": "event",
   "release_date": "2024-04-23",
-  "updated": "2024-05-01T07:31:07.6113037Z",
+  "updated": "2025-05-20T02:39:39.9429987Z",
   "unverified": true,
-  "name": "[Limited] 9th Anniversary Fleet, Extra Operation!",
-  "memo": "➣Rewards either six New Model Aviation Armament Materials OR 3 Medals OR a 51cm Twin Gun Mount",
-  "detail": "Sortie a CVL as flagship, 2 DD and up to 3 additional ships to [W2-3], [W3-5], [W7-4] and [W6-4]. S-Rank each boss node.",
+  "unavailable": true,
   "prereqs": [
     971
   ],
@@ -30,27 +28,19 @@
     "comp": [
       {
         "class_id": 5,
-        "class": "重巡",
-        "class_en": "CA",
         "amount": 1,
         "position": 1
       },
       {
         "class_id": 5,
-        "class": "重巡",
-        "class_en": "CA",
         "amount": 1
       },
       {
         "class_id": 3,
-        "class": "軽巡",
-        "class_en": "CL",
         "amount": 1
       },
       {
         "class_id": 2,
-        "class": "駆逐",
-        "class_en": "DD",
         "amount": 2
       },
       {
@@ -72,24 +62,18 @@
           {
             "category": "inventory",
             "id": 54,
-            "name": "給糧艦「間宮」",
-            "name_en": "Morale Food 'Mamiya'",
             "stars": 0,
             "amount": 11
           },
           {
             "category": "inventory",
             "id": 4,
-            "name": "改修資材",
-            "name_en": "Improvement Material",
             "stars": 0,
             "amount": 11
           },
           {
             "category": "inventory",
             "id": 78,
-            "name": "戦闘詳報",
-            "name_en": "Action Report",
             "stars": 0,
             "amount": 1
           }
@@ -100,24 +84,18 @@
           {
             "category": "equipment",
             "id": 90,
-            "name": "20.3cm(2号)連装砲",
-            "name_en": "20.3cm (No.2) Twin Gun Mount",
             "stars": 0,
             "amount": 2
           },
           {
             "category": "equipment",
             "id": 106,
-            "name": "13号対空電探改",
-            "name_en": "Type 13 Air Radar Kai",
             "stars": 0,
             "amount": 2
           },
           {
             "category": "inventory",
             "id": 57,
-            "name": "勲章",
-            "name_en": "Medals",
             "stars": 0,
             "amount": 1
           }
