@@ -1,0 +1,78 @@
+{
+  "game_id": 1104,
+  "wiki_id": "Fy6",
+  "category": "factory",
+  "frequency": "annual",
+  "release_date": "2021-06-22",
+  "updated": "2025-05-21T15:05:37.0749394Z",
+  "unverified": true,
+  "unavailable": true,
+  "prereqs": [
+    1103
+  ],
+  "requirements": {
+    "category": "conversion",
+    "consume": [
+      {
+        "category": "equipment",
+        "id": 46,
+        "amount": 2
+      },
+      {
+        "category": "equipment",
+        "id": 28,
+        "amount": 2
+      },
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 100
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipment",
+        "id": 106,
+        "amount": 3
+      }
+    ],
+    "resources": [
+      100,
+      0,
+      0,
+      0
+    ]
+  },
+  "rewards": {
+    "resources": [
+      100,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 210,
+        "stars": 0,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 5
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  }
+}
