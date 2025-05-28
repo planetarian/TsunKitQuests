@@ -1,0 +1,56 @@
+{
+  "game_id": 295,
+  "wiki_id": "B55",
+  "category": "sortie",
+  "frequency": "onetime",
+  "release_date": "2015-12-08",
+  "updated": "2025-05-28T23:21:14.3748637Z",
+  "unverified": true,
+  "prereqs": [
+    168
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "2-3",
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": 53,
+        "position": 1
+      },
+      {
+        "ship_id": [
+          22,
+          113
+        ],
+        "amount": 2
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      320,
+      0,
+      320,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 12,
+        "amount": 1
+      },
+      {
+        "category": "inventory",
+        "id": 54,
+        "amount": 1
+      }
+    ]
+  }
+}
