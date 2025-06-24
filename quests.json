@@ -37561,7 +37561,7 @@
     "wiki_id": "F108",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2025-06-24T15:40:42.9954597Z",
+    "updated": "2025-06-24T15:48:08.2679059Z",
     "prereqs": [
       1112
     ],
@@ -37577,11 +37577,6 @@
           "category": "inventory",
           "id": 2,
           "amount": 8
-        },
-        {
-          "category": "inventory",
-          "id": 34,
-          "amount": 800
         }
       ],
       "scrap": [
@@ -37600,6 +37595,12 @@
           "id": 4,
           "amount": 3
         }
+      ],
+      "resources": [
+        0,
+        0,
+        0,
+        800
       ]
     },
     "rewards": {
