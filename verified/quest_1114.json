@@ -1,0 +1,101 @@
+{
+  "game_id": 1114,
+  "wiki_id": "F108",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2025-06-24T15:40:42.9954597Z",
+  "prereqs": [
+    1112
+  ],
+  "requirements": {
+    "category": "conversion",
+    "consume": [
+      {
+        "category": "equipment",
+        "id": 7,
+        "amount": 3
+      },
+      {
+        "category": "inventory",
+        "id": 2,
+        "amount": 8
+      },
+      {
+        "category": "inventory",
+        "id": 34,
+        "amount": 800
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipgroup",
+        "id": 1,
+        "amount": 3
+      },
+      {
+        "category": "equipgroup",
+        "id": 2,
+        "amount": 3
+      },
+      {
+        "category": "equipgroup",
+        "id": 4,
+        "amount": 3
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      200,
+      200,
+      0
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 75,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 77,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 5
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 94,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 92,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 3
+          }
+        ]
+      }
+    ]
+  }
+}
