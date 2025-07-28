@@ -4,7 +4,7 @@
   "category": "exercise",
   "frequency": "onetime",
   "release_date": "2023-06-14",
-  "updated": "2024-11-24T07:57:25.883105Z",
+  "updated": "2025-07-28T06:11:43.7758164Z",
   "unverified": true,
   "prereqs": [
     931,
@@ -12,23 +12,15 @@
   ],
   "requirements": {
     "category": "exercise",
-    "result": "A",
+    "result": "S",
+    "victory": true,
     "daily": true,
     "comp": [
       {
         "ship_id": 961,
         "class_id": 2,
-        "amount": [
-          4,
-          6
-        ]
-      },
-      {
         "otherships": true,
-        "amount": [
-          0,
-          2
-        ]
+        "amount": 4
       }
     ],
     "times": 4
@@ -45,13 +37,29 @@
         "choices": [
           {
             "category": "equipment",
-            "id": 242,
+            "id": 129,
             "stars": 0,
-            "amount": 1
+            "amount": 2
           },
           {
             "category": "equipment",
-            "id": 249,
+            "id": 227,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 1,
+            "stars": 0,
+            "amount": 8
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 52,
             "stars": 0,
             "amount": 1
           },
@@ -60,22 +68,12 @@
             "id": 3,
             "stars": 0,
             "amount": 4
-          }
-        ]
-      },
-      {
-        "choices": [
-          {
-            "category": "inventory",
-            "id": 77,
-            "stars": 0,
-            "amount": 1
           },
           {
             "category": "inventory",
-            "id": 1,
+            "id": 64,
             "stars": 0,
-            "amount": 5
+            "amount": 1
           }
         ]
       }
