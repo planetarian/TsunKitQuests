@@ -1,0 +1,59 @@
+{
+  "game_id": 1036,
+  "wiki_id": "B211",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2025-08-13T23:04:41.0369052Z",
+  "unverified": true,
+  "prereqs": [
+    1152
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "1-2",
+          "1-3",
+          "1-4",
+          "1-5"
+        ],
+        "boss": true,
+        "result": "S",
+        "times": 2
+      }
+    ],
+    "comp": [
+      {
+        "class_id": [
+          22,
+          17
+        ],
+        "amount": [
+          2,
+          2
+        ]
+      },
+      {
+        "class_id": 1,
+        "amount": [
+          2,
+          2
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      400,
+      400,
+      400,
+      0
+    ],
+    "other": [
+      {
+        "choices": []
+      }
+    ]
+  }
+}
