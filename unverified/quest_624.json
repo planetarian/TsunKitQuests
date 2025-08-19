@@ -1,0 +1,33 @@
+{
+  "game_id": 624,
+  "wiki_id": "F21",
+  "category": "factory",
+  "frequency": "onetime",
+  "release_date": "2015-09-25",
+  "updated": "2025-08-19T10:50:05.8904022Z",
+  "unverified": true,
+  "prereqs": [
+    420
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapequipment",
+    "times": 7,
+    "batch": true
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      100,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 65,
+        "amount": 1
+      }
+    ]
+  }
+}
