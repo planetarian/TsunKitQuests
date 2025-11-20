@@ -26715,10 +26715,8 @@
     "category": "sortie",
     "frequency": "onetime",
     "release_date": "2017-12-11",
-    "updated": "2025-06-24T15:31:44.2093361Z",
-    "edited": "2025-11-20T16:29:47.4779765Z",
+    "updated": "2025-11-20T16:31:34.4590586Z",
     "prereqs": [
-      186,
       869,
       873
     ],
