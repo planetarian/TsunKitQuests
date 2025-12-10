@@ -1,0 +1,68 @@
+{
+  "game_id": 188,
+  "wiki_id": "A83",
+  "category": "composition",
+  "frequency": "onetime",
+  "release_date": "2017-12-27",
+  "updated": "2025-12-10T09:22:06.2656185Z",
+  "unverified": true,
+  "prereqs": [
+    133,
+    673
+  ],
+  "requirements": {
+    "category": "fleet",
+    "comp": [
+      {
+        "ship_id": 543,
+        "position": 1
+      },
+      {
+        "ship_id": [
+          345,
+          359,
+          344
+        ],
+        "amount": 1
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      200,
+      200,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 1,
+        "amount": 2
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 241,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 52,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}
