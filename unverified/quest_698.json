@@ -1,0 +1,81 @@
+{
+  "game_id": 698,
+  "wiki_id": "F91",
+  "category": "factory",
+  "frequency": "onetime",
+  "release_date": "2020-08-27",
+  "updated": "2025-12-10T18:41:45.6088423Z",
+  "unverified": true,
+  "prereqs": [
+    926,
+    343
+  ],
+  "requirements": {
+    "category": "conversion",
+    "secretary": {
+      "ship_id": 646
+    },
+    "secretary_banned": {
+      "ship_id": [
+        698,
+        610
+      ]
+    },
+    "slots": [
+      {
+        "id": 257
+      }
+    ],
+    "consume": [
+      {
+        "category": "inventory",
+        "id": 77,
+        "amount": 2
+      },
+      {
+        "category": "inventory",
+        "id": 70,
+        "amount": 1
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipment",
+        "id": 256,
+        "amount": 2
+      },
+      {
+        "category": "equipment",
+        "id": 18,
+        "amount": 1
+      },
+      {
+        "category": "equipment",
+        "id": 52,
+        "amount": 1
+      }
+    ],
+    "resources": [
+      0,
+      840,
+      0,
+      6200
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 389,
+        "stars": 0,
+        "amount": 1
+      }
+    ]
+  }
+}
