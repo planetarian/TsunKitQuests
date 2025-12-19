@@ -35479,6 +35479,86 @@
       ]
     }
   },
+  "1010": {
+    "game_id": 1010,
+    "wiki_id": "B212",
+    "category": "sortie",
+    "frequency": "onetime",
+    "updated": "2025-12-19T23:41:15.5282359Z",
+    "unverified": true,
+    "prereqs": [],
+    "requirements": {
+      "category": "sortie",
+      "sortie": [
+        {
+          "map": [
+            "5-4",
+            "7-2M",
+            "7-1",
+            "2-4",
+            "1-4"
+          ],
+          "boss": true,
+          "result": "S"
+        }
+      ],
+      "comp": [
+        {
+          "ship_id": 963,
+          "otherships": true,
+          "position": 1
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        610,
+        610,
+        610,
+        610
+      ],
+      "other": [
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 121,
+              "stars": 0,
+              "amount": 2
+            },
+            {
+              "category": "equipment",
+              "id": 106,
+              "stars": 8,
+              "amount": 1
+            },
+            {
+              "category": "inventory",
+              "id": 78,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "choices": [
+            {
+              "category": "equipment",
+              "id": 533,
+              "stars": 0,
+              "amount": 1
+            },
+            {
+              "category": "equipment",
+              "id": 179,
+              "stars": 0,
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
   "1012": {
     "game_id": 1012,
     "wiki_id": "By14",
