@@ -1,0 +1,112 @@
+{
+  "game_id": 1161,
+  "wiki_id": "F139",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2026-03-04T01:01:43.7137839Z",
+  "unverified": true,
+  "prereqs": [
+    1159
+  ],
+  "requirements": {
+    "category": "conversion",
+    "secretary": {
+      "ship_id": [
+        196,
+        1031
+      ]
+    },
+    "consume": [
+      {
+        "category": "inventory",
+        "id": 32,
+        "amount": 8800
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipgroup",
+        "id": 6,
+        "amount": 9
+      },
+      {
+        "category": "equipgroup",
+        "id": 7,
+        "amount": 9
+      },
+      {
+        "category": "equipgroup",
+        "id": 8,
+        "amount": 9
+      },
+      {
+        "category": "equipgroup",
+        "id": 15,
+        "amount": 8
+      },
+      {
+        "category": "equipgroup",
+        "id": 21,
+        "amount": 8
+      },
+      {
+        "category": "equipgroup",
+        "id": 2,
+        "amount": 9
+      },
+      {
+        "category": "equipgroup",
+        "id": 3,
+        "amount": 7
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      220,
+      220
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 57,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 94,
+            "stars": 0,
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 88
+          },
+          {
+            "category": "equipment",
+            "id": 372,
+            "stars": 0,
+            "amount": 4
+          },
+          {
+            "category": "inventory",
+            "id": 65,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}
