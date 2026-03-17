@@ -1,0 +1,68 @@
+{
+  "game_id": 1163,
+  "wiki_id": "F141",
+  "category": "factory",
+  "frequency": "onetime",
+  "updated": "2026-03-17T02:33:34.4044011Z",
+  "unverified": true,
+  "prereqs": [
+    1162,
+    1160
+  ],
+  "requirements": {
+    "category": "conversion",
+    "secretary": {
+      "ship_id": 1031
+    },
+    "slots": [
+      {
+        "slot": 1,
+        "id": 547,
+        "stars": 10
+      }
+    ],
+    "consume": [
+      {
+        "category": "inventory",
+        "id": 71,
+        "amount": 1
+      },
+      {
+        "category": "inventory",
+        "id": 70,
+        "amount": 1
+      },
+      {
+        "category": "inventory",
+        "id": 77,
+        "amount": 3
+      },
+      {
+        "category": "inventory",
+        "id": 94,
+        "amount": 4
+      },
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 160
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 548,
+        "stars": 0,
+        "amount": 1
+      }
+    ]
+  }
+}
