@@ -1,0 +1,57 @@
+{
+  "game_id": 813,
+  "wiki_id": "B66",
+  "category": "sortie",
+  "frequency": "onetime",
+  "release_date": "2016-04-01",
+  "updated": "2026-03-24T14:35:37.347237Z",
+  "unverified": true,
+  "prereqs": [
+    806,
+    812
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": "3-5",
+        "boss": true,
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": 199,
+        "position": 1
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          5
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      500,
+      500,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 4,
+        "amount": 3
+      },
+      {
+        "category": "equipment",
+        "id": 145,
+        "amount": 1
+      }
+    ]
+  }
+}
