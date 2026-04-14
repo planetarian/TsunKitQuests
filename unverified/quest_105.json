@@ -1,0 +1,43 @@
+{
+  "game_id": 105,
+  "wiki_id": "A5",
+  "category": "composition",
+  "frequency": "onetime",
+  "release_date": "2013-04-23",
+  "updated": "2026-04-14T15:45:11.1351649Z",
+  "unverified": true,
+  "prereqs": [
+    103
+  ],
+  "requirements": {
+    "category": "fleet",
+    "comp": [
+      {
+        "class_id": 3,
+        "amount": 2
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      60,
+      60,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 1
+      }
+    ]
+  }
+}
