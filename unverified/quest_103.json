@@ -1,0 +1,41 @@
+{
+  "game_id": 103,
+  "wiki_id": "A3",
+  "category": "composition",
+  "frequency": "onetime",
+  "release_date": "2013-04-23",
+  "updated": "2026-04-14T15:45:06.8631084Z",
+  "unverified": true,
+  "prereqs": [
+    102
+  ],
+  "requirements": {
+    "category": "fleet",
+    "comp": [
+      {
+        "class_id": 3,
+        "position": 1
+      },
+      {
+        "class_id": 2,
+        "amount": 5
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      40,
+      40,
+      0,
+      40
+    ],
+    "other": [
+      {
+        "category": "equipment",
+        "id": 42,
+        "stars": 0,
+        "amount": 1
+      }
+    ]
+  }
+}
