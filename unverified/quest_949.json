@@ -1,0 +1,98 @@
+{
+  "game_id": 949,
+  "wiki_id": "B170",
+  "category": "sortie",
+  "frequency": "onetime",
+  "release_date": "2021-07-15",
+  "updated": "2026-05-24T13:25:30.6438015Z",
+  "unverified": true,
+  "prereqs": [
+    923,
+    933
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "2-4",
+          "3-5"
+        ],
+        "boss": true,
+        "result": "S",
+        "times": 2
+      },
+      {
+        "map": "6-4",
+        "boss": true,
+        "result": "A",
+        "times": 2
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": 707,
+        "amount": 1,
+        "position": 1
+      },
+      {
+        "family_id": 91,
+        "amount": 1
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      730,
+      730,
+      730,
+      730
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 256,
+            "stars": 4,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 7
+          },
+          {
+            "category": "inventory",
+            "id": 78,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "senka",
+            "stars": 0,
+            "amount": 800
+          },
+          {
+            "category": "equipment",
+            "id": 422,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}
