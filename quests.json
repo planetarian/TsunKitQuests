@@ -41058,9 +41058,11 @@
     "category": "factory",
     "frequency": "daily",
     "release_date": "2026-04-23",
-    "updated": "2026-05-26T22:35:55.9610633Z",
+    "updated": "2026-05-26T22:37:45.4072088Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      619
+    ],
     "requirements": {
       "category": "simple",
       "subcategory": "improvement",
