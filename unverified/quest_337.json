@@ -1,0 +1,71 @@
+{
+  "game_id": 337,
+  "wiki_id": "Cq2",
+  "category": "exercise",
+  "frequency": "quarterly",
+  "release_date": "2019-09-30",
+  "updated": "2026-06-02T06:48:34.1366228Z",
+  "unverified": true,
+  "prereqs": [
+    120,
+    201
+  ],
+  "requirements": {
+    "category": "exercise",
+    "result": "S",
+    "daily": true,
+    "comp": [
+      {
+        "ship_id": [
+          49,
+          48,
+          17,
+          18
+        ],
+        "amount": 4
+      },
+      {
+        "otherships": true,
+        "amount": [
+          0,
+          2
+        ]
+      }
+    ],
+    "times": 3
+  },
+  "rewards": {
+    "resources": [
+      180,
+      180,
+      180,
+      0
+    ],
+    "other": [
+      {
+        "category": "inventory",
+        "id": 54,
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 68,
+            "amount": 1
+          },
+          {
+            "category": "equipment",
+            "id": 51,
+            "amount": 2
+          },
+          {
+            "category": "inventory",
+            "id": 4,
+            "amount": 3
+          }
+        ]
+      }
+    ]
+  }
+}
