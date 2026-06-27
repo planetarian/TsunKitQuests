@@ -1,0 +1,30 @@
+{
+  "game_id": 260326,
+  "wiki_id": "Cs6",
+  "category": "exercise",
+  "frequency": "seasonal",
+  "updated": "2026-06-27T04:29:26.8276072Z",
+  "unverified": true,
+  "name": "夏季大演習",
+  "memo": "※季節限定\n[獲]二回選択報酬：\n　給糧艦「間宮」x1、給糧艦「伊良湖」x2\n　プレゼント箱x1、応急修理要員x1、25mm連装機銃x2",
+  "detail": "夏季大演習：夏季期間の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！暑さに負けるな！　艦隊、抜錨！",
+  "prereqs": [
+    206,
+    303
+  ],
+  "requirements": {
+    "category": "exercise",
+    "victory": true,
+    "daily": true,
+    "times": 8
+  },
+  "rewards": {
+    "resources": [
+      0,
+      300,
+      0,
+      1000
+    ],
+    "other": []
+  }
+}
