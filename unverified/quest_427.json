@@ -1,0 +1,49 @@
+{
+  "game_id": 427,
+  "wiki_id": "D25",
+  "category": "expedition",
+  "frequency": "onetime",
+  "release_date": "2017-10-18",
+  "updated": "2026-07-11T04:48:06.796959Z",
+  "unverified": true,
+  "prereqs": [
+    869
+  ],
+  "requirements": {
+    "category": "expedition",
+    "expeds": [
+      {
+        "id": "A1",
+        "times": 1
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      800,
+      0
+    ]
+  },
+  "rewards": {
+    "resources": [
+      200,
+      200,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "category": "feature",
+        "id": 7,
+        "stars": 0,
+        "amount": 1
+      },
+      {
+        "category": "equipment",
+        "id": 145,
+        "stars": 0,
+        "amount": 2
+      }
+    ]
+  }
+}
