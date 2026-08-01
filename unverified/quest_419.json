@@ -4,8 +4,9 @@
   "category": "expedition",
   "frequency": "onetime",
   "release_date": "2015-04-10",
-  "updated": "2026-08-01T20:59:35.2275971Z",
+  "updated": "2026-08-01T20:59:36.0715119Z",
   "unverified": true,
+  "unavailable": true,
   "prereqs": [
     308
   ],
