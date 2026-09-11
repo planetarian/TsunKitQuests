@@ -1,10 +1,14 @@
 {
-  "game_id": 313,
+  "game_id": 160313,
   "wiki_id": "Cs1",
   "category": "exercise",
   "frequency": "seasonal",
   "release_date": "2016-08-31",
-  "updated": "2024-02-09T09:04:56.8545927Z",
+  "updated": "2026-09-11T17:03:43.0960492Z",
+  "unverified": true,
+  "name": "Mass Exercises for Fall",
+  "memo": "➣Rewards a Mamiya and a Present Box",
+  "detail": "Secure 8 victories in Exercises within the same day.",
   "prereqs": [
     206,
     303
@@ -26,12 +30,16 @@
       {
         "category": "inventory",
         "id": 54,
+        "name": "給糧艦「間宮」",
+        "name_en": "Morale Food 'Mamiya'",
         "stars": 0,
         "amount": 1
       },
       {
         "category": "inventory",
         "id": 60,
+        "name": "プレゼント箱",
+        "name_en": "Present Box",
         "stars": 0,
         "amount": 1
       }
