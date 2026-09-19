@@ -1,0 +1,89 @@
+{
+  "game_id": 1107,
+  "wiki_id": "Fy8",
+  "category": "factory",
+  "frequency": "annual",
+  "release_date": "2021-09-28",
+  "updated": "2026-09-19T11:09:36.3182738Z",
+  "unverified": true,
+  "prereqs": [
+    446,
+    642
+  ],
+  "requirements": {
+    "category": "conversion",
+    "consume": [
+      {
+        "category": "inventory",
+        "id": 3,
+        "amount": 10
+      }
+    ],
+    "scrap": [
+      {
+        "category": "equipgroup",
+        "id": 6,
+        "amount": 2
+      },
+      {
+        "category": "equipgroup",
+        "id": 8,
+        "amount": 2
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      24000,
+      0
+    ]
+  },
+  "rewards": {
+    "resources": [
+      0,
+      0,
+      0,
+      3000
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "equipment",
+            "id": 168,
+            "stars": 0,
+            "amount": 2
+          },
+          {
+            "category": "equipment",
+            "id": 169,
+            "stars": 0,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 77,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 4,
+            "stars": 0,
+            "amount": 3
+          },
+          {
+            "category": "inventory",
+            "id": 94,
+            "stars": 0,
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}
