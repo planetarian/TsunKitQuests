@@ -1,0 +1,92 @@
+{
+  "game_id": 1053,
+  "wiki_id": "B218",
+  "category": "sortie",
+  "frequency": "onetime",
+  "updated": "2026-11-13T06:21:09.8090919Z",
+  "unverified": true,
+  "prereqs": [
+    218
+  ],
+  "requirements": {
+    "category": "sortie",
+    "sortie": [
+      {
+        "map": [
+          "5-4",
+          "5-3",
+          "5-1"
+        ],
+        "result": "S",
+        "times": 1
+      }
+    ],
+    "comp": [
+      {
+        "ship_id": [
+          903,
+          908,
+          902
+        ],
+        "amount": [
+          2,
+          2
+        ]
+      }
+    ]
+  },
+  "rewards": {
+    "resources": [
+      2026,
+      1941,
+      0,
+      0
+    ],
+    "other": [
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 104,
+            "stars": 0,
+            "amount": 3
+          },
+          {
+            "category": "inventory",
+            "id": 3,
+            "stars": 0,
+            "amount": 28
+          },
+          {
+            "category": "equipment",
+            "id": 47,
+            "stars": 0,
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "category": "inventory",
+            "id": 94,
+            "stars": 0,
+            "amount": 3
+          },
+          {
+            "category": "equipment",
+            "id": 63,
+            "stars": 10,
+            "amount": 1
+          },
+          {
+            "category": "inventory",
+            "id": 57,
+            "stars": 0,
+            "amount": 3
+          }
+        ]
+      }
+    ]
+  }
+}
