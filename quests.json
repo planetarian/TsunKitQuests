@@ -41496,6 +41496,48 @@
       ]
     }
   },
+  "1164": {
+    "game_id": 1164,
+    "wiki_id": "F142",
+    "category": "factory",
+    "frequency": "onetime",
+    "updated": "2026-11-15T06:26:10.4952527Z",
+    "unverified": true,
+    "prereqs": [
+      1158
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "conversion",
+          "secretary": {
+            "ship_id": 674
+          }
+        },
+        {
+          "category": "fleet",
+          "comp": [
+            {
+              "ship_id": [
+                485,
+                25
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "rewards": {
+      "resources": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "other": []
+    }
+  },
   "1166": {
     "game_id": 1166,
     "wiki_id": "Fd9",
