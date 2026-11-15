@@ -37088,10 +37088,11 @@
     "wiki_id": "B215",
     "category": "sortie",
     "frequency": "onetime",
-    "updated": "2026-03-17T02:43:29.0749276Z",
+    "updated": "2026-11-15T06:22:47.8211691Z",
     "unverified": true,
     "prereqs": [
-      1164
+      1164,
+      1023
     ],
     "requirements": {
       "category": "sortie",
