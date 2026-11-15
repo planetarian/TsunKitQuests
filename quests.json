@@ -40909,9 +40909,11 @@
     "wiki_id": "F136",
     "category": "factory",
     "frequency": "onetime",
-    "updated": "2026-02-04T05:14:46.0023508Z",
+    "updated": "2026-11-15T06:26:46.2061381Z",
     "unverified": true,
-    "prereqs": [],
+    "prereqs": [
+      317
+    ],
     "requirements": {
       "category": "and",
       "list": [
